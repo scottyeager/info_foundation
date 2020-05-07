@@ -2,11 +2,17 @@
 
 ![](./img/jimber_browser.png)
 
-### Purpose
-
 3Bot browser is a browser that runs close to your digital twin - 3Bot. It presents you with the ability to have a browser on the ThreeFold Grid running anywhere you want and to securely stream the content back to your local browser.  
 
-A lot of hacking happens in your current browser, but this won't be possible with 3Bot browser. It provides you with real privacy and independence, so people and companies cannot collect your data such as location details an more.
+### Purpose
+
+A lot of hacking happens in your current browser, but this won't be possible with 3Bot browser. Millions of people are looking for a neutral browser solution which is:
+- neutral 
+- allows you to own all your data
+- faster, simple to use
+- cost-effective
+- able to work everywhere
+- has advanced features like real time collaboration
 
 ### Status
 
