@@ -2,16 +2,16 @@
 
 ![](./img/file_manager.png)
 
-### Purpose
-
 3bot Files provides functionality to store (personal) files in a secure and private way. The 3Bot Files solution uses you personal digital twin (see 3Bot project) to store and retrieve files from storage capacity rented on the TF Grid. Files are stored securely in a very efficient way, using a lot less storage space to do so and also in a much more sustainable manner.
+
+### Purpose
 
 The vision is to create an independent and private file storage facility to safely store, retrieve, and share you personal digital files. Millions of people are looking for a neutral file management solution which is: 
 - neutral and allows you to own all your data
 - faster
 - simple and easy to use
 - more cost effective
-- works everywhere 
+- able to work everywhere 
 - equipped of advanced features like video/audio streaming
 - able to seamlessly integrate with other website and documents.
 
