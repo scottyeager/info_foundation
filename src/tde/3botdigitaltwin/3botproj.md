@@ -18,7 +18,7 @@ The objective is to:
 - We already have lots of applications (experiences) already created to be launched with 3Bot, but a lot more needs to happen.
 - Already today we have office, file manager, mail, chat, contacts, and more ready in a working proof of concept. *Feel free to ask for a demo.*
 
-Learn more about this project on [conscious internet 3bot](https://www.consciousinternet.org/index.html#/projects/3bot).
+Learn more about this project on [Conscious Internet Alliance](https://www.consciousinternet.org/index.html#/projects/3bot).
 
 ### 3Bot lives on the ThreeFold Grid
 
