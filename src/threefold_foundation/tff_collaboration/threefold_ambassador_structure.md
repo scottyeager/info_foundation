@@ -6,7 +6,8 @@
 
 - [ ] [I want to be a FreeFlow Citizen](freeflow_citizen.md)
 - [ ] I am willing to put the planet first and then the community 
-- [ ] I realize to be an ambassador costs time and effort and has nothing to do with protecting my own interests in relation to ThreeFold.
+- [ ] I realize to be an ambassador costs time and effort
+- [ ] I realize there are other channels to protect my own interests in relation to ThreeFold.
 
 More info in [how to contribute](how_to_contribute.md)
 
@@ -58,4 +59,4 @@ purpose
 - [how to contribute](how_to_contribute.md)
 - [circles remuneration](circles_remuneration.md)
 - [circle roles](circles_roles.md)
-- 
+
