@@ -12,6 +12,8 @@ Art is one of the most important tools to inspire faith and cultural growth givi
 
 Artheon VR Museum to day has a database of 400,000+ artworks from across the globe that can be experienced both in VR and desktop. Artheon is growing into a crowd-sourced global art database empowering smaller museums, private collections, galleries and individuals with tools to publish and display artwork and provide courses, tours, lectures, events, around art culture and history.
 
+Learn more about this project on [Conscious Internet Alliance](https://www.consciousinternet.org/index.html#/projects/artheon).
+
 ### Team
 
 - Vasily Gnuchev

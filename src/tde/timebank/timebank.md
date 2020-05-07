@@ -12,6 +12,8 @@ Our vision is to be a movement that rethinks and rebuilds the value of money, th
 
 With 200,000 members to-date, Beliive is the world’s largest time bank. Beliive already has an open API and a web widget that can integrate our time banking technology with different platforms and systems. Soon our time credits will use blockchain technology.
 
+Learn more about this project on [Conscious Internet Alliance](https://www.consciousinternet.org/index.html#/projects/beliive).
+
 ### Team
 
 - Lorrana Scarpioni
