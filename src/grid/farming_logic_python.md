@@ -124,7 +124,7 @@ class TFTFarmingCalculator:
 
         cost to buy 1 cpr production capability in Q1 2020 = 40USD
         we took as definition that nr for cpr to usd
-        we say ROI for batch 1 (month 1) is 6 months, thats why we need to devide by 6
+        we say ROI for batch 1 (month 1) is 6 months, thats why we need to divide by 6
 
         ROI = Return on investment
         """
@@ -148,4 +148,4 @@ class TFTFarmingCalculator:
 ```
 
 - ```tft_farm``` is the method which returns the tokens farmed
-- today: may 2020, we consider every farmer to be certified while it isn't, this grace period is there till end Summer 2020, this gives enough time for all farmers to decide if they want to come on board under the certificaiton process or not.
+- today: may 2020, we consider every farmer to be certified while it isn't, this grace period is there till end Summer 2020, this gives enough time for all farmers to decide if they want to come on board under the certification process or not.
