@@ -4,6 +4,7 @@
 
 ThreeFold created a simple Farming Program for farmers to choose their type from.  Here are the main components in a high level overview:
 
+
 |Farmer Type| Certified|Do It Yourself|
 |-----------|----------|--------------|
 |Server Hardware|Certified|any INTEL or AMD server not older than 4 years|
@@ -22,8 +23,11 @@ The following criteria are verified:
 
 - Uptime: The uptime per month will be created in the ThreeFold Explorer and is presented as percentage of 3Node availability.
 
+
 The Foundation will give free certification to 3Nodes which benefit the distribution of capacity on the ThreeFold Grid. For example right now there is almost no capacity in Africa. Whoever puts boxes which are well distributed and sourced from a certified partner will not have to pay for the certification. The network uptime and capacity will still be measured and has to adhere to the certification criteria.
 
+
 More details on how Certification is implemented in the simulation can be found [here](https://github.com/threefoldfoundation/info_threefold/blob/development/src/grid/farming_logic_python.md)
+
 
 ***Note: Until end of summer 2020 all farms and 3Nodes will be treated as certified. In the meantime farmers who are interested to become certified need to sign a contract with TF Tech in which the certification criteria are set. Once the contract is signed the farm will be measured against the certification criteria which shows exactly if the certification is deserved.***
