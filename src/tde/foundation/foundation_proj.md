@@ -15,6 +15,8 @@ Today's Internet faces many challenges. It is not acceptable that we leave billi
 - We have some amazing partners and projects ready to host on the grid, and we are seeking more
 - We are seeking the expansion of the grid, especially to emerging markets where it is needed most
 
+ThreeFold is also part of the [Conscious Internet Alliance](https://www.consciousinternet.org/index.html#/projects/planed).
+
 ### Team
 
 See [here](http://threefold.io/public/#/team)

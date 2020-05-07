@@ -12,6 +12,8 @@ We want to raise a bar of education by having experts to teach the students and 
 
 We at TAG have built a community of thousands of teachers globally which allows us to connect to children and teachers in refugee camps. Our platform allows to train teachers in refugee camps (67% of which haven't completed secondary education) and have interactions between refugee students and students globally changing their mindset and fighting polarization.
 
+Learn more about this project on [Conscious Internet Alliance](https://www.consciousinternet.org/index.html#/projects/planed).
+
 ### Team
 
 - Koen Timmers

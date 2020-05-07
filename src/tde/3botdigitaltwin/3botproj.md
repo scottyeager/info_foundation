@@ -24,6 +24,8 @@ Learn more about this project on [conscious internet 3bot](https://www.conscious
 
 3bot is built by Threefold Tech and lives on the Threefold Grid, serving as the gateway of the new digital world, the new internet and peer-to-peer experiences. By using 3bot SDK, 3bot users could create their own experiences, functionalities and features within the Threefold Grid’s peer-to-peer ecosystem. 3Bot represents a bridge between the ThreeFold Grid and the full power of autonomous technology to deploy decentralized applications.
 
+
+
 ### Team
 
 There are multiple teams identified to work on the 3bot development, the main one being the [Jimber Team](https://www.jimber.org/contact.html).
