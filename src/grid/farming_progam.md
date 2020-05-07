@@ -2,7 +2,7 @@
 
 # Farming Program
 
-ThreeFold created a simple Farming Program for farmers to choose their type from.  Here are the main compoments in a high level overview:
+ThreeFold created a simple Farming Program for farmers to choose their type from.  Here are the main components in a high level overview:
 
 
 |Farmer Type| Certified|Do It Yourself|
@@ -21,7 +21,7 @@ The following criteria are verified:
 
 - Utilization: Through the ThreeFold Explorer the true utilization of the 3Node will be checked. It will be displayed in % of the 3Nodes total capacity.
 
-- Uptime: The uptime per month will be created in the ThreeFold Explorer and is presented as percentage of 3Node availibility.
+- Uptime: The uptime per month will be created in the ThreeFold Explorer and is presented as percentage of 3Node availability.
 
 
 The Foundation will give free certification to 3Nodes which benefit the distribution of capacity on the ThreeFold Grid. For example right now there is almost no capacity in Africa. Whoever puts boxes which are well distributed and sourced from a certified partner will not have to pay for the certification. The network uptime and capacity will still be measured and has to adhere to the certification criteria.
