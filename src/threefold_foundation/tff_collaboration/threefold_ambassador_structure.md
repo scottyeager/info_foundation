@@ -4,7 +4,7 @@
 
 ## requirements to be a TF ambassador
 
-- [ ] [I want to be a FreeFlow Citizen](freeflow_citizen.md)
+- [ ] [I want to be a FreeFlow Citizen](freeflow_citizen.md) (please read)
 - [ ] I am willing to put the planet first and then the community 
 - [ ] I realize to be an ambassador costs time and effort
 - [ ] I realize there are other channels to protect my own interests in relation to ThreeFold.
