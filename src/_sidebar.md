@@ -21,7 +21,7 @@
     - [Interstellar](tft_interstellar.md)
     - [Lobstr](tft_lobstr.md)
   - [Token Overview](token_overview.md)
-  - [Tokenomics](token_creation.md)
+  - [Tokenomics](tokenomics_updated.md)
 - [Token Distribution Event](tdeoverview.md)
   - [3bot Core](3botproj.md)
   - [3bot Files](3botfiles.md)
