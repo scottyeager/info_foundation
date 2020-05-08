@@ -1,6 +1,7 @@
 # Community Calls & Events
 A selection of Events, Keynote Speeches, and Community Calls.
 
+  - [Token Intro + Simulator Demo](tokenandsimulator.md)
   - [3bot Presentation 2020](video_3bot_presentation.md)
   - [ThreeFold Community Call March 2020](march_2020.md)
   - [ThreeFold Community Call January 2020](jan_2020.md)
@@ -10,4 +11,4 @@ A selection of Events, Keynote Speeches, and Community Calls.
   - [Autonomous Internet Demo 2019](autonomousdemo_oct2019.md)
   - [Token Session 2019](tokensession_oct2019.md)
   - [ThreeFold Wallet Dos and Don'ts](wallet_do_dont.md)
-  - [Technology Overview 2018](wallet_do_dont.md
+  - [Technology Overview 2018](wallet_do_dont.md)
