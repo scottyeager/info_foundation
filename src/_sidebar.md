@@ -17,7 +17,6 @@
   - [Limited Supply](token_limitedsupply.md)
   - [How To Buy and Sell](how_to_buy_and_sell.md)
     - [Farmers](tft_mazraa.md)
-    - [StellarX](tft_stellarx.md)
     - [Interstellar](tft_interstellar.md)
     - [Lobstr](tft_lobstr.md)
   - [Token Overview](token_overview.md)
