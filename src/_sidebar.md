@@ -38,7 +38,6 @@
 - [Wallets](tf_wallets.md)
     - [3bot Connect App](3bot_app.md)
     - [Lobstr Wallet](tft_lobstr.md)
-    - [StellarX](tft_stellarx.md)
 - [Whitepapers](whitepapers.md)
   - [Technology Overview](technology_overview.md)
   - [The BlockChain Dilemma](blockchain_dilemma_whitepaper.md)
