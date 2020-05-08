@@ -1,5 +1,5 @@
 
-![](./img/tf_tde_intro.png)
+![](tf_tde_intro.png)
 
 # Information For TF Advisory Board May 2020
 
