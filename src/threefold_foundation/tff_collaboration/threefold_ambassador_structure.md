@@ -1,6 +1,6 @@
 # ThreeFold Foundation Ambassador Structure
 
-![](img/ambassadors_world.png)
+![](./img/ambassadors_world.png)
 
 ## requirements to be a TF ambassador
 
