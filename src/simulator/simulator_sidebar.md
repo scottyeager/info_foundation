@@ -1,5 +1,7 @@
 - [home](..md)
+- [grid growth](tfgrid_growth.md)
 - [grid valuation](tfgrid_valuation.md)
+- [server details](device_normalized.md)
 - [nodebatches](nodebatches.md)
     - [added month 1](nodesbatch_1_report.md)
     - [added month 20](nodesbatch_20_report.md)
