@@ -5,8 +5,14 @@
         <script src="//cdn.webix.com/edge/webix.js" type="text/javascript"></script>
     </head>
     <body>
-        <script type="text/javascript" charset="utf-8">            
+        <script type="text/javascript" charset="utf-8">    
 
+
+const proto = window.parent.location.protocol
+const parentLocationHost = window.parent.location.host
+const parentUrl = `${proto}://${parentLocationHost}`
+
+console.log(parentUrl)
 const HARDWARE_TYPES = [
     "amd"
 ]
@@ -61,7 +67,7 @@ function sortTokenPrices(tokenPrices) {
 
 
 
-const response = webix.ajax().sync().get("/api/simulator/options");
+const response = webix.ajax().sync().get(`/api/simulator/options`);
 let availableOptions = JSON.parse(response.responseText)
 availableOptions.hardware_types = availableOptions.hardware_types.length ? availableOptions.hardware_types : HARDWARE_TYPES
 availableOptions.growths = availableOptions.growths.length ? availableOptions.growths : GROWTHS
@@ -98,7 +104,12 @@ function getData() {
         form.hideProgress();
 
         const name = data.json().name;
-        window.parent.location.href = `/${name}`;
+        if (window.parent.location.host.includes("threefold.io")){
+            window.parent.location.href = `http://simulators.threefold.io/${name}`
+        }else{
+            window.parent.location.href = `/${name}`;
+            
+        }
     }).catch((error) => {
         form.hideProgress();
 
