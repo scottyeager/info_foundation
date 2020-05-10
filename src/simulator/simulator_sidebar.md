@@ -1,5 +1,5 @@
-- [simulator](/wiki/simulator/simulator_configure.md)
-- [home](readme.md)
+- [simulator](simulator_configure.md)
+- [home](..md)
 - [grid growth](tfgrid_growth.md)
 - [grid valuation](tfgrid_valuation.md)
 - [nodebatch return on investment](nodesbatch_1_report.md)
