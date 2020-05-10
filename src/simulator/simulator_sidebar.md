@@ -1,5 +1,4 @@
-- [simulator](simulator_configure.md)
-- [home](..md)
+- [home](simulator_configure.md)
 - [grid growth](tfgrid_growth.md)
 - [grid valuation](tfgrid_valuation.md)
 - [server return on investment](nodesbatch_1_report.md)
