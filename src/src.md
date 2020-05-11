@@ -1,11 +1,14 @@
-# THREEFOLD WIKI
+# The ThreeFold Wiki
+
+Hello, there. And welcome to the ThreeFold Wiki. Here you will find a gathering of most of our created content in regards to ThreeFold.
+
+These wikis are quite robust, featuring all types of information about who we are, what we do, why we do what we do, how far along we are, the way we work together, our definitions, our tools, presentations, announcements, and more.
+
+If you're new to our project, we'd recommending you scroll down and start with the "why" behind what we are building.
+
+*Or feel free to use the sidebar navigation if you're looking for something in particular.*
 
 ![](./img/freedoom.png)
-
-
-This Wiki is a gathering of most of our created content in regards to the ThreeFold Foundation. It features why we do what we do, what we do, the way we work together, our definitions, our tools, presentations and much more for you to read and learn about. 
-
-Let's start with what shapes what we do - our why. 
 
 ## Why we do what we do
 
@@ -35,12 +38,15 @@ ThreeFold brings the world the first true peer-to-peer Internet. It uses pioneer
 
 ## New To ThreeFold?
 
-Check out this video on how it all started and what we have accomplished already. 
+Take a look at [this intro page](longstoryshort.md). Or check out this video on how it all started and what we have accomplished already. 
 
 <iframe width="750" height="421" src="https://www.youtube.com/embed/AAV4yYZ_P3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
 If you have any questions please join the discussions about ThreeFold on our [Forum](https://forum.threefold.io/).
-ThreeFold also has created a decentralized social media platform called [FreeFlowPages](https://www.freeflowpages.com) you are invited to create your profile there and follow our and other groups.
+
+ThreeFold also has created a decentralized social media platform called [FreeFlowPages](https://www.freeflowpages.com) as an example use case on top of the ThreeFold Grid. You are invited to create your profile there and join in!
 
 ## More Online Resources
 
@@ -54,8 +60,8 @@ For additional information, please refer to our official channels:
 
 [Twitter](https://twitter.com/threefold_io)
 
-[Medium](https://medium.com/threefold)
-
 [Announcement Telegram Group](https://t.me/threefoldnews)
 
-[YouTube channel](https://youtube.com/c/ThreeFoldFoundation)
+[Medium](https://medium.com/threefold)
+
+[YouTube Channel](https://youtube.com/c/ThreeFoldFoundation)
