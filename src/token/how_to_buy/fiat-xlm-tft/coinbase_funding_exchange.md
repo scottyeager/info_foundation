@@ -18,7 +18,7 @@ Specify:
 
 5. Wait for the funds to appear in your account. This may take a while and by the time it does Coinbase normally sends the account holder an email.
 
-## Exchanging your FIAT for digital currency.
+## Exchanging your fiat for digital currency.
 
 For this part of the manual we unfortunately cannot provide any screenshots other than the ones on display (Dutch Language) as this setting seems to be tied to the account holder’s nationality.
 

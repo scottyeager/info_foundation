@@ -1,8 +1,8 @@
-## Step 1: Going from FIAT money into digital currencies
+## Step 1: Going from fiat money into digital currencies
 
 If you are new to buying digital currencies, this step is for you as you are about to step into the world digital currencies. (excited!)
 
-For this example we will use a well known and renowned digital currency exchange that has a gateway from FIAT to digital currencies: www.Coinbase.com
+For this example we will use a well known and renowned digital currency exchange that has a gateway from fiat to digital currencies: www.Coinbase.com
 
 1. Create an account on the sign up page : [https://www.coinbase.com/signup](https://www.coinbase.com/signup)![image alt text](img/xlm_solar_tft_manual_image_0.png)
 
