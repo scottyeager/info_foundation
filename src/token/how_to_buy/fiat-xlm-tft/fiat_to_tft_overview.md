@@ -2,7 +2,7 @@
 
 # Guide: Going From FIAT to TFT
 
-We have created an easy to follow guide with 7 small chapters on how to go from FIAT money into digital currencies.
+We have created an easy to follow guide with 5 small chapters on how to go from FIAT money into digital currencies.
 
 ## [Chapter 1: Onboarding to an exchange with a FIAT gateway](coinbase_onboarding.md)
 In this chapter we show step by step how to get into a well known and respected exchange with a FIAT gateway.
