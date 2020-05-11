@@ -9,16 +9,16 @@ For this example we will use a well known and renowned digital currency exchange
 1. Create an account on the sign up page : [https://www.coinbase.com/signup](https://www.coinbase.com/signup)![image alt text](img/xlm_solar_tft_manual_image_0.png)
 
 2. After signing up a few steps will be presented. Like GDPR compliance notice, privacy policy acknowledgment, and newsletter preferences.
-![image alt text](img/xlm_solar_tft_manual_image_1.png)
+
 
 3. After this step, it is required you verify your email address.
-![image alt text](img/xlm_solar_tft_manual_image_2.png)
+
 
 4. After verifying you will have to add a telephone number to receive confirmation sms messages on.
-![image alt text](img/xlm_solar_tft_manual_image_3.png)
+
 
 5. After clicking Send code you will have to fill in the code received in the text sent by coinbase
-![image alt text](img/xlm_solar_tft_manual_image_4.png)
+
 
 6. Coinbase by law as to ask and verify your identity, these are the last steps to take.
 Make sure all information provided is correct as stated on your ID.
@@ -37,8 +37,7 @@ Make sure all information provided is correct as stated on your ID.
 
 You are now Onboarded
 
-## 
-Loading you account
+## Loading you Coinbase account
 
 1. Visit: [https://www.coinbase.com/dashboard](https://www.coinbase.com/dashboard) and click trade
 ![image alt text](img/xlm_solar_tft_manual_image_9.png)
@@ -127,15 +126,15 @@ You now have an empty Solar wallet.
 
 <iframe src="https://player.vimeo.com/video/417197172" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Step 1: Click the topright menu icon
+1. Click the topright menu icon
 
-Step 2: Click "Assets & Balances"
+2. Click "Assets & Balances"
 
-Step 3: Click "+ Add Asset To You Account"
+3. Click "+ Add Asset To You Account"
 
-Step 4: Type "TFT" in the search box
+4. Type "TFT" in the search box
 
-Step 5: Click "Add Asset To Account" (this will cost you a small amount of XLM to setup so called trustlines for the asset)
+5. Click "Add Asset To Account" (this will cost you a small amount of XLM to setup so called trustlines for the asset)
 
 The TFT icon will now show in your Wallet overview.
 
@@ -143,19 +142,19 @@ The TFT icon will now show in your Wallet overview.
 
 <iframe src="https://player.vimeo.com/video/417197931" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Step 1: Click on of the currencies in the top bar to go to your wallet overview 
+1. Click on of the currencies in the top bar to go to your wallet overview 
 
-Step 2: Click ThreeFold Token(TFT)
+2. Click ThreeFold Token(TFT)
 
-Step 3: Click Trade
+3. Click Trade
 
-Step 4: Click Buy Asset
+4. Click Buy Asset
 
-Step 5: Select TFT in the  "You Buy" section and XLM in the “You Sell” section.
+5. Select TFT in the  "You Buy" section and XLM in the “You Sell” section.
 
-Step 6: Fill in the amounts you would like to trade
+6. Fill in the amounts you would like to trade
 
-Step 7: Confirm the Sell order and wait for the TFT to show up in your wallet.
+7. Confirm the Sell order and wait for the TFT to show up in your wallet.
 
 
 
