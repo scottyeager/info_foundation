@@ -1,6 +1,7 @@
 # Community Calls & Events
 A selection of Events, Keynote Speeches, and Community Calls.
 
+  - [TF Grid SDK Intro + Demo](sdkintrodemo.md)
   - [Token Intro + Simulator Demo](tokenandsimulator.md)
   - [3bot Presentation 2020](video_3bot_presentation.md)
   - [ThreeFold Community Call March 2020](march_2020.md)
