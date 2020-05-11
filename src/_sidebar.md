@@ -3,6 +3,7 @@
   - [What is a Farmer](what_is_a_farmer.md)
   - [Farmer Program](farmer_progam.md)
   - [Become a Farmer](become_a_farmer.md)
+  - [Capacity Pricing](capacity_pricing_start)
   - [Simulate](farming_simulate.md)
   - [Grid Concepts](grid_concepts.md)
       - [Cloud Units](cloud_units_4.md)
