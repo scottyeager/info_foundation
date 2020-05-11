@@ -2,7 +2,7 @@
 
 <iframe src="https://player.vimeo.com/video/417197931" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-1. Click on of the currencies in the top bar to go to your wallet overview 
+1. Click on one of the currencies in the top bar to go to your wallet overview 
 
 2. Click ThreeFold Token(TFT)
 
