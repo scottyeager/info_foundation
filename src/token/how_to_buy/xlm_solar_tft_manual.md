@@ -123,7 +123,7 @@ You now have an empty Solar wallet.
 
 ![image alt text](img/xlm_solar_tft_manual_image_24.png)
 
-Add TFT to you Solar wallet
+## Adding TFT to your Solar wallet
 
 <iframe src="https://player.vimeo.com/video/417197172" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
