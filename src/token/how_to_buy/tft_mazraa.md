@@ -4,11 +4,11 @@
 
 There are two ways to purchase TFT from Mazraa:
 
-1. Wire Transfer
+### 1. Wire Transfer
 
  If you'd like to make a wire transfer, please get in touch with us directly at connect@mazraa.io and we will facilitate the process for you!
 
-2. Credit Card
+### 2. Credit Card
 
 If you'd like to pay via credit card, Mazraa has made it possible to buy TFT quickly and easily through a partnership with Trainscoin.
 
