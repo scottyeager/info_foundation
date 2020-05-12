@@ -1,19 +1,28 @@
 ![](./img/tftexplo.png)
 
-# Its easy to buy and sell TFT
+# It's easy to buy and sell ThreeFold Tokens (TFT)
 
-At the moment (05/2020), ThreeFold tokens are publicly traded on Stellars decentralized exchanges StellarX, Interstellar and Lobstr. Follow the links below for easy instructions on how to buy and sell.
-You can also buy TFT directly from farmers. Please find the link to an offer from Mazraa below as well.
+You have a few options.
 
-Stay tuned about the upcoming announcements on TFT being available on Liquid and BTC Alpha in our [Telegram](https://t.me/threefoldnews)  the [ThreeFold Forum](https://forum.threefold.io/).
+First, you can buy TFT directly from a ThreeFold Farmer.
 
+Additionally, at the moment (05/2020), the TFT is publicly traded on Stellar's decentralized exchanges.
+
+Follow the links below for easy instructions on how to buy and sell.
+
+Stay tuned about the upcoming announcements on TFT being available on Liquid and BTC Alpha in our [Telegram](https://t.me/threefoldnews) and on the [ThreeFold Forum](https://forum.threefold.io/).
 
 **Now**
-    * [From TF Farmer](tft_mazraa.md)
-    * [StellarX](tft_stellarx.md)
-    * [Interstellar](tft_interstellar.md)
-    * [Lobstr](tft_lobstr.md)
+- From a TF Farmer
+    - [Mazraa (Dubai)](tft_mazraa.md)
+    - Bettertoken (Belgium)
+    *Note: In the future, you will be able to buy directly from other farmers as well.*
 
-**Later**
-    * [BTC Alpha](tft_btc_alpha.md)
-    * [Liquid](tft_liquid.md)
+- Through XLM (Stellar)
+    - Step 1: Buy XLM
+    - Step 2: Convert to TFT
+
+**Coming Soon**
+- Public Exchanges
+    - [Liquid](tft_liquid.md) 
+    - [BTC Alpha](tft_btc_alpha.md)

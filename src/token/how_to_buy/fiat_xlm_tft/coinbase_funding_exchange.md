@@ -1,4 +1,4 @@
-## Loading you Coinbase account
+## Loading your Coinbase account
 
 1. Visit: [https://www.coinbase.com/dashboard](https://www.coinbase.com/dashboard) and click trade
 ![image alt text](./img/xlm_solar_tft_manual_image_9.png)
