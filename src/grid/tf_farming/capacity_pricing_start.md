@@ -2,7 +2,7 @@
 
 Until End of August 2020 the following capacity pricing will be valid for all 3Nodes on the TF Grid:
 
-![](img/capacity_price_promo.png)
+![](./img/capacity_price_promo.png)
 
 
 For more details on Cloud Units (CU, SU, NU) see [here](https://wiki3.threefold.io/#/cloud_units_4)

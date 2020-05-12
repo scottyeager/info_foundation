@@ -2,7 +2,7 @@
 
 These are the new farming rules from the 30th of April 2020 onwards.
 
-![](./img/farming_rules_v2.png)
+![](farming_rules_v2.png)
 
 
 
