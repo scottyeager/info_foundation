@@ -1,32 +1,31 @@
-## Chapter 1: Going from fiat money into digital currencies
+## Chapter 1: Signing up for an exchange with a fiat gateway
 
-If you are new to buying digital currencies, this step is for you as you are about to step into the world digital currencies. (excited!)
+If you are new to buying digital currencies, this step is for you as you are about to step into the world of digital currencies. Exciting!
 
-For this example we will use a well known and renowned digital currency exchange that has a gateway from fiat to digital currencies: www.Coinbase.com
+For this example, we will use a well-known and renowned digital currency exchange that has a gateway from fiat to digital currencies: www.Coinbase.com
 
-1. Create an account on the sign up page : [https://www.coinbase.com/signup](https://www.coinbase.com/signup)![image alt text](./img/xlm_solar_tft_manual_image_0.png)
+1. Create an account on the sign up page: [https://www.coinbase.com/signup](https://www.coinbase.com/signup)![image alt text](./img/xlm_solar_tft_manual_image_0.png)
 
-2. After signing up a few steps will be presented. Like GDPR compliance notice, privacy policy acknowledgment, and newsletter preferences.
-
-
-3. After this step, it is required you verify your email address.
+2. After signing up, a few steps will be presented (e.g. GDPR compliance notice, privacy policy acknowledgment, and newsletter preferences).
 
 
-4. After verifying you will have to add a telephone number to receive confirmation sms messages on.
+3. After this step, it is required that you verify your email address.
 
 
-5. After clicking Send code you will have to fill in the code received in the text sent by coinbase
+4. After verifying, you will have to add a mobile phone number where you can receive SMS messages (e.g. for confirmation).
 
 
-6. Coinbase by law as to ask and verify your identity, these are the last steps to take.
-Make sure all information provided is correct as stated on your ID.
+5. After clicking 'Send Code,' you will have to fill in the code received in the text sent by Coinbase.
+
+
+6. Coinbase by law has to ask and verify your identity. These are the last steps to take. Make sure all information provided is correct as stated on your ID.
 ![image alt text](./img/xlm_solar_tft_manual_image_5.png)
 
-7. To verify your input Coinbase will need you to upload a valid ID. (these options can differ per user).
+7. To verify your input, Coinbase will need you to upload a valid ID. (These options can differ per user.)
 ![image alt text](./img/xlm_solar_tft_manual_image_6.png)
 
 
-8. For uploading purposes there are 3 options; webcam, phone camera & file upload. For this example we have used the webcam option to send both the fron and back of the ID.
+8. For uploading purposes there are 3 options: webcam, phone camera, & file upload. For this example, we have used the webcam option to send both the front and back of the ID.
 
 ![image alt text](./img/xlm_solar_tft_manual_image_7.png)
 
@@ -35,4 +34,4 @@ Make sure all information provided is correct as stated on your ID.
 
 You are now onboarded!
 
-#### Head to [Chapter 2: Funding your Coinbase Wallet & Exchanging to XLM](coinbase_funding_exchange.md).
+### Head to [Adding funds to your wallet & exchanging to XLM](coinbase_funding_exchange.md).
