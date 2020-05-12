@@ -21,8 +21,6 @@
     - [Farmer: BetterToken](tft_bettertoken.md)
     - [Through XLM](tft_through_xlm.md)
   - [How To Store Your Tokens](storing_tft.md)
-    - [3bot Connect App](3bot_app.md)
-    - [Alternative XLM Wallets](tft_xlm_wallets.md) 
   - [Token Overview](token_overview.md)
   - [Tokenomics](tokenomics_updated.md)
 - [Token Distribution Event](tdeoverview.md)
