@@ -1,4 +1,4 @@
-## Step 1: Going from fiat money into digital currencies
+## Chapter 1: Going from fiat money into digital currencies
 
 If you are new to buying digital currencies, this step is for you as you are about to step into the world digital currencies. (excited!)
 
@@ -33,4 +33,6 @@ Make sure all information provided is correct as stated on your ID.
 9. Coinbase will now verify your documents; this might take up to a few minutes.
 ![image alt text](./img/xlm_solar_tft_manual_image_8.png)
 
-You are now Onboarded
+You are now onboarded!
+
+#### Head to [Chapter 2: Funding your Coinbase Wallet & Exchanging to XLM](coinbase_funding_exchange.md).

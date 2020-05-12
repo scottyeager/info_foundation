@@ -15,3 +15,5 @@
 6. Fill in the amounts you would like to trade
 
 7. Confirm the Sell order and wait for the TFT to show up in your wallet.
+
+Congratulations! You are now a proud owner of the ThreeFold Token.

@@ -40,3 +40,5 @@ You now have an empty Solar wallet.
 5. Funds are now sent and showing up in Solar wallet
 
 ![image alt text](./img/xlm_solar_tft_manual_image_24.png)
+
+#### Head to [Chapter 4: Adding the TFT asset to your Solar wallet](adding_tft_asset.md).

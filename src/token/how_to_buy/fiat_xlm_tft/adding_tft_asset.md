@@ -13,3 +13,5 @@
 5. Click "Add Asset To Account" (this will cost you a small amount of XLM to setup so called trustlines for the asset)
 
 The TFT icon will now show in your Wallet overview.
+
+#### Head to [Chapter 5: Exchange XLM for TFT](trading_tft_in_solar.md).

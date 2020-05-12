@@ -39,3 +39,7 @@ For ease of trading we are buying XLM (Stellar) tokens. This makes steps to come
 
 5. The XLMs bought will now show up in your wallets section
 ![image alt text](./img/xlm_solar_tft_manual_image_17.png)
+
+You have now funded your wallet and converted to XLM! You are now ready to buy ThreeFold Tokens!
+
+#### Head to [Chapter 3: Installing the Solar Wallet](installing_solar_wallet_funding.md).

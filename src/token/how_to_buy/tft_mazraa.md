@@ -2,12 +2,20 @@
 
 # Buy TFT From a Farmer: Mazraa 
 
-Mazraa has made it possible to buy TFT fast and easy with your credit card through a partnership with Trainscoin.
-Follow the 6 steps listed below to buy TFT directly from a farmer.
+There are three ways to purchase TFT directly from Mazraa.
+
+1. Wire Transfer
+2. Credit Card
+
+If you'd like to make a wire transfer, please get in touch with us directly via [our website](https://mazraa.io) and we will facilitate the process for you!
+
+If you'd like to pay via credit card, Mazraa has made it possible to buy TFT fast and easily through a partnership with Trainscoin.
+
+Follow the six steps listed below to buy TFT directly from a farmer.
 
 For buying TFT you will need:
 - Your passport/ID-card
-- Proof of address (Utility bill, bank statement, etc,..)
+- Proof of address (Utility bill, bank statement, etc,...)
 - A credit card
 
 **Step 1: Visit the Mazraa Trainscoin Link:**
