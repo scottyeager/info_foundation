@@ -113,6 +113,8 @@
     - [Markdown](markdown.md)
     - [Markdown advanced](markdown_advanced.md)
     - [Markdown examples](emphasis.md)
+  - tips tricks
+    - [slides master and templates](slides_master_template_tips.md)
 	- [Emphasis](emphasis.md)
 	- [Headers](headers.md)
 	- [Links](links.md)
