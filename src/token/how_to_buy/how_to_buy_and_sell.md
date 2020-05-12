@@ -11,7 +11,9 @@ You have two options for buying the token right now.
 1. Directly from a ThreeFold Farmer
     - [Mazraa](tft_mazraa.md) – via wire transfer, credit card, or PayPal
     - [BetterToken](tft_bettertoken.md) - via wire transfer, orders only above $ 1000
+    
     _Note: Don't know what a ThreeFold Farmer is? Click [here](what_is_a_farmer.md).In the future, you will be able to buy directly from other farmers as well._
+    
 2. [On Stellar (through XLM, Stellar's token)](fiat_to_tft_overview.md)
     - Step 1: Buy XLM with fiat
     - Step 2: Convert to TFT
