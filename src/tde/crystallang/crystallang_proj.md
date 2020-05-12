@@ -44,7 +44,10 @@ The roadmap is still changing but see suggestions below. We are in conversations
 | tbd |  tbd | Browser based code editor & executor to allow better integration for education purposes. |  |
 | tbd |  tbd | Compile to web assembly. |  |
 
-[timeline](http://localhost:3000/wiki/template/roadmap.html?data=roadmap_crystallang.json ':include :type=iframe')
+
 ### More info 
 
 - https://crystal-lang.org/
+
+
+<!-- [roadmap](templates/roadmap.html?data=roadmap_crystallang.json ':include :type=iframe width=100% height=550px frameBorder="0" scrolling="no" align="center"') -->
