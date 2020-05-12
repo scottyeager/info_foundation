@@ -9,10 +9,11 @@
 	
 
 	<script type="text/javascript">
-		// console.log(jsyaml.dump(time_data));
-		var jsondata = fetch('wiki/tde/crystallang/data.toml')
+		// console.log(jsyaml.dump(time_data));		
+		// var jsondata = fetch('wiki/tde/crystallang/data.toml')
+		var jsondata = fetch('wiki/roadmap_crystallang.json')
 		.then(response => response.text())
-		.then(data => toml.parse(data))
+		// .then(data => toml.parse(data))
 		.then(data => console.log(data));
 		// data_yaml=fetch("wiki/tde/crystallang/data.yaml").text() ;
 		// console.log(data_yaml);
