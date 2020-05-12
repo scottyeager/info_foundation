@@ -50,4 +50,4 @@ The roadmap is still changing but see suggestions below. We are in conversations
 - https://crystal-lang.org/
 
 
-[roadmap](templates/roadmap.html?data=roadmap_crystallang.json ':include :type=iframe width=100% height=550px frameBorder="0" scrolling="no" align="center"')
+<!-- [roadmap](templates/roadmap.html?data=roadmap_crystallang.json ':include :type=iframe width=100% height=550px frameBorder="0" scrolling="no" align="center"') -->
