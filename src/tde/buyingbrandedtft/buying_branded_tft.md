@@ -1,10 +1,10 @@
 # Buying Branded TFT
 
-## Step 1: Going from FIAT money into digital currencies
+## Step 1: Going from fiat money into digital currencies
 
 If you are new to buying digital currencies, this step is for you as you are about to step into the world digital currencies. (excited!)
 
-For this example we will use a well known and renowned digital currency exchange that has a gateway from FIAT to digital currencies: www.Coinbase.com
+For this example we will use a well known and renowned digital currency exchange that has a gateway from fiat to digital currencies: www.Coinbase.com
 
 1. Create an account on the sign up page : [https://www.coinbase.com/signup](https://www.coinbase.com/signup)![image alt text](./img/tde_buy_branded_image_0.png)
 
@@ -58,7 +58,7 @@ Specify:
 
 5. Wait for the funds to appear in your account. This may take a while and by the time it does Coinbase normally sends the account holder an email.
 
-## Exchanging your FIAT for digital currency.
+## Exchanging your fiat for digital currency.
 
 For this part of the manual we unfortunately cannot provide any screenshots other than the ones on display (Dutch Language) as this setting seems to be tied to the account holder’s nationality.
 

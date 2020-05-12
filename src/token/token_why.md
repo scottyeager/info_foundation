@@ -12,7 +12,4 @@ Because the value of the ThreeFold Grid and its use-cases is largely provided by
 
 The beautiful [ecosystem](partners.md) that we are creating would be incomplete without a decentralized currency as a fair and trustworthy medium of exchange for all stakeholders. TFT allows our whole ecosystem to enjoy the [benefits and the fairness](token_features.md) of a decentralized currency. That's why we created the ThreeFold Token (TFT).
 
-
-
-
-***Important note: TFT’s are not an investment instrument.***
+> Important note: TFT’s are not an investment instrument. 
