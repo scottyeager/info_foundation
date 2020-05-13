@@ -1,6 +1,6 @@
 # Buying Future Capacity Through BetterToken
 
-![image alt text](img/tft_bettertoken_image_0.png)
+![image alt text](./img/tft_bettertoken_image_0.png)
 
 Buying TFT as a future capacity reservation through bettertoken.com is possible via wire transfer. Bettertoken currently only handles orders of $1000,00 or more. 
 
