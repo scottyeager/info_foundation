@@ -8,7 +8,10 @@ There are two ways to purchase TFT from Mazraa:
 
  If you'd like to make a wire transfer, please get in touch with us directly at connect@mazraa.io and we will facilitate the process for you!
 
-### 2. Credit Card
+### 2. PayPal (Soon)
+Mazraa will soon have the option to buy tokens with PayPal feel free to reach out to connect@mazraa.io to express you interest.
+
+### 3. Credit Card
 
 If you'd like to pay via credit card, Mazraa has made it possible to buy TFT quickly and easily through a partnership with Trainscoin.
 
