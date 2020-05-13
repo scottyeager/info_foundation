@@ -11,4 +11,4 @@ In this chapter, we show step-by-step how to sign up for Coinbase, a well-known 
 ### [Chapter 2: Adding funds to your wallet & exchanging to XLM](coinbase_funding_exchange.md)
 A quick how-to to help you get your fiat currency into your fiat wallet on Coinbase.
 
-####  If you already have XLM you can skip to [step 2](fiat_to_tft_step2.md) to see the last 3 chapters.
+####  If you already have XLM you can skip to [step 2](fiat_to_tft_step_2.md) to see the last 3 chapters.
