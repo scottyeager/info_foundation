@@ -13,7 +13,7 @@ As a consequence most internet users use the Internet based services running on 
 
 ### The world needs a responsible internet
 
-On a humanitarian level the opportunities for creativity, learning and development are currenly negatively influenced by not having access to a performant and affordable internet services. Since Internet access is a human right, it should protect the status quo between the developed and less developed regions of our world. 
+On a humanitarian level the opportunities for creativity, learning and development are currently negatively influenced by not having access to a performant and affordable internet services. Since Internet access is a human right, it should protect the status quo between the developed and less developed regions of our world. 
 
 The United Nations have declared access to the internet access to be a [human right][1] in 2016. See the UN resolution [here][2].
 

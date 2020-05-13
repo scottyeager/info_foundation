@@ -20,5 +20,4 @@ Combining the values of the ThreeFold Foundation (freedom, equality and fairness
 
 Visit  www.threefold.io.
 
-
 Sabrina Sadik

@@ -9,7 +9,6 @@ We believe IT can be sustainable. Actually, it should should!  That's why sustai
 
 Power consumption is directly related to the quality/performance of the compute and storage equipment, and the extent to which the architecture is distributed - the more it is distributed, the greener it gets. This is why we say up-to. All depends on how well farmers perform on 1 and 2. Also, our solutions achieve roughly 3 times the performance per rack (so we use fewer racks), and the racks require less energy than typical racks in the industry. Therefore, not only we remove the need for data-centers, but we offer a better solution.
 
-
 ### Less is more
 
 Over time, integration suites, middleware solutions, enterprise service busses have been invented and implemented to cover integration challenges within the current internet. This has further complicated IT architectures, resulting in a loss of actual end user workload performance. ThreeFold reworked the whole approach to IT architectures and eliminated the layers of complexity. The result is a cloud stack that presents minimal overhead and that requires less hardware - reducing heat generation and eventually cooling requirements. By reducing the need for power, the net result is an energy efficient Internet grid. 
@@ -38,4 +37,4 @@ By using a more efficient means to exchange data between physical CPU units, Zer
 
 The storage solution uses slow and big (the bigger the better) HDD disks which drive in rack density. As they spin slower they consume less power and need less cooling. But then, how can you deal with read/write intensive workloads? The storage algorithm uses a SSD cache to acknowledge Inputs/Outputs coming from the applications, fills the erasure coded data blocks in large (up to 64MB) storage containers and writes the big chunks of data on the big and slow HHDs. If you are familiar with HDD disks, you know they like to be streamed on instead of having a lot of small bits written in a scratchy way.
 
-#####Continuous innovation in all of these areas have lead to a very efficient technology stack.
+##### Continuous innovation in all of these areas has lead to a very efficient technology stack.

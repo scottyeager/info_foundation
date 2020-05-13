@@ -21,7 +21,7 @@
 
 Today, the cloud computing industry represents a 100 billion dollar industry - mostly owned about 20 global cooperations. Experts such as Bell Labs and Cisco believe the capacity requirements in the next decade will dramatically outstrip existing infrastructure - requiring many more datacenters and billions if not trillions in investments.
 
-The spectacular growth and advancements in cloud computing that occurred over the last decade resulted in a large part from “hyper-scale” efficiencies - i.e. centralizing Internet infrastructure in very large billion dollar data centers.  However, demand for Internet capacity already surpassed the available infrastructure with emerging technologies such as Big Data, the Internet of Things (IoT) and Aritificial Intelligence (AI) Technology.  The existing hyperscale cloud architecture cannot cope with this growing demand as the requirements for land, power and funding are becoming outrageous.  
+The spectacular growth and advancements in cloud computing that occurred over the last decade resulted in a large part from “hyper-scale” efficiencies - i.e. centralizing Internet infrastructure in very large billion dollar data centers.  However, demand for Internet capacity already surpassed the available infrastructure with emerging technologies such as Big Data, the Internet of Things (IoT) and Artificial Intelligence (AI) Technology.  The existing hyperscale cloud architecture cannot cope with this growing demand as the requirements for land, power and funding are becoming outrageous.  
 
 The challenges facing the Internet includes the following::
 
@@ -62,5 +62,5 @@ The Zero-Node provides compute, network and storage capacity to the internet and
 - **Self healing**: The architecture is designed to ensure that workloads and data can be accessed at all times. 
 - **Neutral & private**: A lot of work has done using blockchain (technology which powers crypto currency) to guarantee privacy and net neutrality.
 	- Designed around simplicity to be used by everyone.
-	- The technology provides anyone with the autonomy to deliver complext IT applications without the need for complex integration services.
+	- The technology provides anyone with the autonomy to deliver complex IT applications without the need for complex integration services.
 - **Empowers equality**: Our technology should be usable by the “other billions” that remain unconnected. Due to the low cost-points, low energy requirements and reduced need of backbone network capacity.

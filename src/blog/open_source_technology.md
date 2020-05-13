@@ -23,7 +23,7 @@ The following components are used to build the ThreeFold Grid and deliver unequi
 To dive deeper into Zero-OS open-source - click [here](https://github.com/zero-os)
 
 
-**Zero Storage** (part of Zero-OS): An easy to use and ultra reliable storage system. It is dense and environmentally friendly. It can make use of conventional disks for storage and manage multi data centers with a single namespace. It is not based on replication and makes backup obsolete. Even in the unlikely case of a node going down, datsa remains available. Quite a revolution for self-healing IT systems. 
+**Zero Storage** (part of Zero-OS): An easy to use and ultra reliable storage system. It is dense and environmentally friendly. It can make use of conventional disks for storage and manage multi data centers with a single namespace. It is not based on replication and makes backup obsolete. Even in the unlikely case of a node going down, data remains available. Quite a revolution for self-healing IT systems. 
 - One IT expert can now manage 100 PB of data.
 - 5PB in 1 rack for archive
 - Super scale out 50+ PB
@@ -32,7 +32,7 @@ To dive deeper into Zero-OS open-source - click [here](https://github.com/zero-o
 
 To dive deeper into Zero Storage open-source - click [here](https://github.com/zero-os)
 
-**Cockpit** (Also known as Jumpscale / At Your Service): Was created to enable anyone to design and deploy virtual datacenters in minutes. It is a free of charge software and runs on any Zero-OS to eliminate layers of complexity. Making use of autonomated technology, you are always assisted.
+**Cockpit** (Also known as Jumpscale / At Your Service): Was created to enable anyone to design and deploy virtual datacenters in minutes. It is a free of charge software and runs on any Zero-OS to eliminate layers of complexity. Making use of automated technology, you are always assisted.
 - Comprehensive: human readable, easy to learn format
 - No more complicated technical oriented configuration files
 - No networking, virtualization or storage expertise required
