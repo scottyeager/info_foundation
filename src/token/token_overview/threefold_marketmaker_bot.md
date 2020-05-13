@@ -27,3 +27,4 @@ The rules the bot maintains are as follows:
 
 
 
+> Important note: TFTs are not an investment instrument.

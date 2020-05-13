@@ -14,3 +14,5 @@ For this you will need to setup a trustline. We tell you how.
 ### [Chapter 5: Exchanging XLM for TFT](trading_tft_in_solar.md)
 The last step to go from fiat to TFT is to exchange your XLMs to TFTs.
 You are almost there!
+
+> Important note: TFTs are not an investment instrument.
