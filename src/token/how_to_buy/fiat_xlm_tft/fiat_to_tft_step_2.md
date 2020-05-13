@@ -1,6 +1,6 @@
 ![alt](tftexplo.png)
 
-####  If you do not own XLM yet, please see [step 1](fiat_to_tft_step1.md) to learn how to buy them.
+####  If you do not own XLM yet, please see [step 1](fiat_to_tft_step_1.md) to learn how to buy them.
 
 ## **Step 2: Convert XLM to TFT**
 
