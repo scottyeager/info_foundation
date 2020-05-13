@@ -52,6 +52,8 @@
   - [Artheon VR Museum Intro 05/08](artheonintro.md)
   - [ThreeFold on Product Hunt 05/08](tfproducthunt.md)
   - [SEEDS Intro 05/11](seedsintro.md)
+  - [Green Edge Intro 05/12](greenedgeintro.md)
+  - [Solidaridad Intro 05/13](solidaridadintro.md)
 - [Community Calls & Events](community_calls.md)
   - [ThreeFold Grid SDK](sdkintrodemo.md)
   - [Token Intro + Simulator](tokenandsimulator.md)
