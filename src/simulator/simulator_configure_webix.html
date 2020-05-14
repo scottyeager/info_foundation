@@ -93,6 +93,7 @@ function getData() {
     values["growth"] = availableOptions.growths[values["growth"]]
     values["token_price"] = availableOptions.token_prices[values["token_price"]]
 
+
     webix.extend(form, webix.ProgressBar);
     form.showProgress();
 
@@ -123,7 +124,7 @@ function getData() {
 function reset() {
     const form = webix.$$("simulator_form");
     form.setValues({
-        hardware_type: "amd",
+        hardware_type: "amd_starter",
         growth: 0,
         token_price: 0,
         unit_price_range: 1
