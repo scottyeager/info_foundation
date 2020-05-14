@@ -1,11 +1,10 @@
 # Kristof
 
-![](././img/kristof.png)
+![](./img/kristof.png)
 
 ## agenda
 
 <iframe src="https://calendar.google.com/calendar/embed?src=kristof%40incubaid.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 
 ## information
 
@@ -27,7 +26,7 @@
     - ThreeFold: http://threefold.io/
 - podcasts
     - [Green Planet Blue Planet Podcast Interview](https://podcasts.apple.com/us/podcast/ep-181-new-internet-that-empowers-equality-freedom/id1265643891?i=1000471122643&fbclid=IwAR3wzClqHuItRdopNIcXyH3wSUTXeftwOh1cVKtNAWTZSm9jlMKcnanM0V4) (30k people listened to it)
-    - new one coming this week, first time about crystal twin
+    - [world of wisdom](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NDYyNzMzOTExL3NvdW5kcy5yc3M/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODE5NjYwNzU3?ved=0CAcQ38oDahcKEwigm5bVy7LpAhUAAAAAHQAAAAAQBg), first time about crystal twin
 
 ## my priorities
 
