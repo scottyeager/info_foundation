@@ -1,10 +1,7 @@
 # Kristof
 
 ![](./img/kristof.png)
-
-## agenda
-
-<iframe src="https://calendar.google.com/calendar/embed?src=kristof%40incubaid.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+![](./img/kristof_hearts.png)
 
 ## information
 
@@ -28,27 +25,9 @@
     - [world of wisdom (NEW)](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NDYyNzMzOTExL3NvdW5kcy5yc3M/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODE5NjYwNzU3?ved=0CAcQ38oDahcKEwigm5bVy7LpAhUAAAAAHQAAAAAQBg), first time about crystal twin
     - [Green Planet Blue Planet Podcast Interview](https://podcasts.apple.com/us/podcast/ep-181-new-internet-that-empowers-equality-freedom/id1265643891?i=1000471122643&fbclid=IwAR3wzClqHuItRdopNIcXyH3wSUTXeftwOh1cVKtNAWTZSm9jlMKcnanM0V4) (30k people listened to it)
 
-## my priorities
+## my agenda
 
-### week 14 may
-
-- TFT launch (tokens)
-- content
-    - ThreeFold main wiki (simulator)
-    - Matchmakers Wiki
-    - Crystal Twin Wiki
-- e-meetings (grow community, talk to potential investors, ...)
-- specs for crystal twin v2.0
-
-### week 21 may
-
-- TFT launch
-    - important week, getting closer to TFT listing on 2 pub exchanges
-- crystal twin, loads to do
-- content
-    - Matchmakers Wiki, make sure we have all content & training material for matchmakers
-- e-meetings (grow community, talk to potential investors, ...)
-
+- [see my agenda & priorities here please](kristof_agenda.md)
 
 ## contact info
 
@@ -56,4 +35,5 @@
 - @despiegk on telegram
 
 please bare with me, I am completely overloaded and telegram nor email I can properly follow up.
+
 
