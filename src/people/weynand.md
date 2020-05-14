@@ -1,4 +1,4 @@
-# Kristof
+# Weynand
 
 ![](./img/weynand.png)
 
