@@ -1,6 +1,6 @@
 # Weynand
 
-![](./img/weynand.png)
+![](weynand.png)
 
 ## agenda
 
