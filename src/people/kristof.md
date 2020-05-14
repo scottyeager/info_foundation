@@ -41,9 +41,10 @@
 - e-meetings (grow community, talk to potential investors, ...)
 - specs for crystal twin v2.0
 
-### week 2 may
+### week 21 may
 
 - TFT launch
+    - important week, getting closer to TFT listing on 2 pub exchanges
 - crystal twin, loads to do
 - content
     - Matchmakers Wiki, make sure we have all content & training material for matchmakers
