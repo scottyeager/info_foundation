@@ -1,7 +1,6 @@
 # Kristof
 
-![](https://www.incubaid.com/assets/images/egypte-veda-243-van-577-902x564.jpg)
-
+![](././img/kristof.png)
 
 ## agenda
 
