@@ -5,6 +5,6 @@ Until End of August 2020 the following capacity pricing will be valid for all 3N
 ![](./img/capacity_price_promo.png)
 
 
-For more details on Cloud Units (CU, SU, NU) see [here](https://wiki3.threefold.io/#/cloud_units_4)
+For more details on Cloud Units (CU, SU, NU) see [here](cloud_units_4.md)
 
 > Starting Sept 1st 2020 there will be a new pricing structure for DIY capacity. <BR>Every Certified farmer will have the ability to define their own price.
