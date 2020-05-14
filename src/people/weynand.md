@@ -1,6 +1,6 @@
-# Kristof
+# Weynand
 
-![](./img/kristof.png)
+![](./img/weynand.png)
 
 ## agenda
 
