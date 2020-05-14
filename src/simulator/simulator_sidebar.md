@@ -1,7 +1,7 @@
 - [home](simulator_configure.md)
-- [grid growth](tfgrid_growth.md)
 - [grid valuation](tfgrid_valuation.md)
 - [farming return on investment](nodesbatch_1_report.md)
+- [grid growth](tfgrid_growth.md)
 - [server details](device_normalized.md)
 - [hardware components](bom.md)
 - [nodes added per month](nodebatches.md)
