@@ -14,34 +14,30 @@ const parentUrl = `${proto}://${parentLocationHost}`
 
 console.log(parentUrl)
 const HARDWARE_TYPES = [
-    "amd"
+    "amd_starter","amd_big","hpe_server"
 ]
 
 const GROWTHS = [
     50000,
-    100000,
     200000,
     600000,
     1000000,
     2000000,
-    4000000,
-    10000000,
-    20000000
+    10000000
 ]
 
 const TOKEN_PRICES = [
-    "0.15", "0.3", "0.6", "1.0", "2.0", "3.0", "4.0", "6.0", "10.0", "20.0", "40.0", "100.0", "500.0", "auto"
+    "0.15", "0.3", "0.6", "1.0", "2.0", "3.0", "6.0", "10.0", "20.0", "40.0", "100.0", "500.0", "auto"
 ]
 
 const UNIT_PRICE_RANGES = [
-    1, 2, 3, 4
+    1, 2, 3
 ]
 
 const UNIT_PRICE_RANGE_LABELS = {
     1: "CU: 10 | SU: 6 | NU: 0.04",
     2: "CU: 12 | SU: 8 | NU: 0.05",
-    3: "CU: 15 | SU: 10 | NU: 0.05",
-    4: "CU: 20 | SU: 15 | NU: 0.08",
+    3: "CU: 15 | SU: 10 | NU: 0.05"
 }
 
 const ajax = webix.ajax().headers({ "content-type": "application/json" });
@@ -152,7 +148,7 @@ webix.ui({
                     name: "hardware_type",
                     view: "richselect",
                     label: "Hardware",
-                    value: "amd",
+                    value: "amd_big",
                     yCount: 1,
                     options: availableOptions.hardware_types,
                     labelWidth: 150,
@@ -162,7 +158,7 @@ webix.ui({
                     view: "slider",
                     name: "growth",
                     label: "Growth",
-                    value: 4,
+                    value: 3,
                     step: 1,
                     min: 0,
                     max: availableOptions.growths.length - 1,
