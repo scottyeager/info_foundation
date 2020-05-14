@@ -47,3 +47,4 @@ Each 2nd generation TFT is a converted TFTA. The first batch as used in the [tok
 
 !!!include:token_overview_tde
 
+> Important note: TFTs are not an investment instrument.

@@ -1,4 +1,4 @@
-# May 11: Introducing SEEDS
+# May 11: Introducing SEEDS!
 
 ![](./img/seedsintro.png)
 

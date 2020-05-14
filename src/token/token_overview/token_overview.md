@@ -30,3 +30,4 @@ TFTA token holders can sell as TFT by using the [threefold marketmaker bot](thre
 Both token types together represent the TFT, starting Jan 2021 there is no longer a difference between TFTA and TFT.
 
 
+> Important note: TFTs are not an investment instrument.
