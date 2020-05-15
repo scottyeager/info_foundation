@@ -19,7 +19,7 @@
     - we have co-authored this book and talks about new types of money, decentralization, ...
 - some videos
     - Video made on nile, where [people give good feeling about threefold…](https://vimeo.com/398733827)
-    - our [launch video of the TF Grid 2.0](https://wiki3.threefold.io/#/threefold_grid_2_0) (may 2020)
+    - our [launch video of the TF Grid 2.0](https://wiki2.threefold.io/#/threefold_grid_2_0) (may 2020)
     - 30 min [why Threefold presentation](https://vimeo.com/398737507/815d6810aa)
     - 50 min [3bot presentation](https://vimeo.com/398735475)
 - web resources

@@ -15,7 +15,7 @@
     - we have co-authored this book and talks about new types of money, decentralization, ...
 - some videos
     - Video made on nile, where [people give good feeling about threefold…](https://vimeo.com/398733827)
-    - our [launch video of the TF Grid 2.0](https://wiki3.threefold.io/#/threefold_grid_2_0) (may 2020)
+    - our [launch video of the TF Grid 2.0](https://wiki2.threefold.io/#/threefold_grid_2_0) (may 2020)
     - 30 min [why Threefold presentation](https://vimeo.com/398737507/815d6810aa)
     - 50 min [3bot presentation](https://vimeo.com/398735475)
 - web resources
@@ -35,5 +35,14 @@
 - @despiegk on telegram
 
 please bare with me, I am completely overloaded and telegram nor email I can properly follow up.
+
+## some technical docs
+
+Is not super recent and maybe still to high level but it has a lot of information inside:
+
+- [Whitepaper: The need for decentralization](https://docs.google.com/document/d/1uZT03h4QLBh2RYEnUjZQvi2Xoy8fjbUn1eZN_PM8g6g/edit#heading=h.i014t8fq1rbp)
+- [TFTech Whitepaper_Technology Overview](https://docs.google.com/document/d/1WTHrbe3nS1_VgTYxgDPeyyEmvj7unIcEPwrg0l3SBNI/edit#heading=h.gem21dqqduqf)
+- [TFTech Whitepaper_Capacity Layer](https://docs.google.com/document/d/1dP5MaY9YWdRonhvGtqBKrcTYbBYBold75vHnHpTiUH4/edit#)
+- [TFTech Whitepaper_Autonmous Layer](https://docs.google.com/document/d/1qEaAqYxL0v9ZnwcMtud61SJUvDcz6DS_wRqPykPh1Y8/edit#)
 
 
