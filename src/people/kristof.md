@@ -38,8 +38,6 @@ please bare with me, I am completely overloaded and telegram nor email I can pro
 
 ## some technical docs
 
-Is not super recent and maybe still to high level but it has a lot of information inside:
-
 - [Whitepaper: The need for decentralization](https://docs.google.com/document/d/1uZT03h4QLBh2RYEnUjZQvi2Xoy8fjbUn1eZN_PM8g6g/edit#heading=h.i014t8fq1rbp)
 - [TFTech Whitepaper_Technology Overview](https://docs.google.com/document/d/1WTHrbe3nS1_VgTYxgDPeyyEmvj7unIcEPwrg0l3SBNI/edit#heading=h.gem21dqqduqf)
 - [TFTech Whitepaper_Capacity Layer](https://docs.google.com/document/d/1dP5MaY9YWdRonhvGtqBKrcTYbBYBold75vHnHpTiUH4/edit#)
