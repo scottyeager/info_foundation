@@ -4,9 +4,6 @@
 Here is where you find the vision behind a lot of the parts that make ThreeFold.
 Get inside the heads of the people behind the ThreeFold Project and see why certain choice where made.
 
-
-[ThreeFold Whitepaper 1.0.4](tf_whitepaper_104.md)
-
 [How We Solved The BlockChain Dilemma](blockchain_dilemma_whitepaper.md)
 
 [The World Needs True Decentralization](true_decentralized_internet_system.md)
