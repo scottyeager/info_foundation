@@ -24,7 +24,7 @@ Just follow the six steps listed below.
 >- A credit card (Visa or Mastercard)
 >- A 3Bot Connect Login
 
-_If you don't have the 3Bot Connect App, you can find out how to sign up [here](3bot_app.md)._
+_If you don't have the 3Bot Connect App, you can find out how to sign up [here](3bot_connect.md)._
 
 **Step 1: Visit [Transcoin Checkout](https://transcoin.me/site/token_pay?p_id=6943&lang=en&sign=282aaae9f5a38ba19ef1ec9dd5b89903)**
 
@@ -44,7 +44,7 @@ _This procedure will differ per user so no screenshot is included here._
 **Step 5: Amount of Purchase & TFT Wallet Address**
 Define the amount (€) you would like to buy and provide the wallet address you would like to receive the TFT on.
 
-Your wallet address is in your 3Bot Connect App. Find out how [here](3bot_app.md).
+Your wallet address is in your 3Bot Connect App. Find out how [here](3bot_connect.md).
 
 ![alt text](./img/transcoin_amounts.png)
 

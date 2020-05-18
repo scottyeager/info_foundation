@@ -52,35 +52,38 @@ Click Wallet in the main nav bar at the bottom of the screen.
 ![](./img/homescreen_wallet.png)
 
 #### Step 2
+
 Click the wallet you would like to see the adress from (if you want to copy paste the address you can always use the green button with the white copy icon in the topright part of you wallet block)
 
 ![](./img/wallet_overview.png)
 
 #### Step 3
+
 Click the green button with the Info (i) icon in the top right part of your screen
 ![](./img/wallet_details.png)
 
 #### Step 4
+
 You can now see your wallet address.
 ![](./img/wallet_address.png)
 
 ### Generate QR Code to receive ThreeFold Tokens
 
-To recieve your ThreeFold Tokens you can copy your button or you have to fill next fields:
+To receive your ThreeFold Tokens you can copy your button or you have to fill next fields:
 
-1) To - choose wallet that get transaction
-2) Amount - amount of TFT to get
-3) Message - message to transaction
-4) Generate QR - this button generate QR that you have to show
+1. To - choose wallet that get transaction
+2. Amount - amount of TFT to get
+3. Message - message to transaction
+4. Generate QR - this button generate QR that you have to show
 
 
 ### Send
 
-1) From - choose your wallet with TFT to make transaction
-2) To - paste the reciever wallet adress
-3) Amount - amount of TFT to send
-4) Message - message to transaction
-5) SCAN QR - or just scan QR and this fields will be filled autromaticly
+1. From - choose your wallet with TFT to make transaction
+2. To - paste the reciever wallet adress
+3. Amount - amount of TFT to send
+4. Message - message to transaction
+5. SCAN QR - or just scan QR and this fields will be filled autromaticly
 
 ## Social
   
@@ -89,7 +92,9 @@ In social tab you can join to our FreeFlow network, get actual news from officia
 You can find available circles by pressing "My Spaces" -> and start typing a name or select from the proposed list.
 
 ## Support
+
 Here you can receive support on any questions related to ThreeFold.
 
 ## Settings
+
 You can check your Secret Phrase here, change your pin code or remove your account in Advanced Settings tab.
