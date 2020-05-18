@@ -1,7 +1,8 @@
 # Kristof
 
 ![](./img/kristof.png)
-![](./img/kristof_hearts.png)
+
+<iframe src="https://player.vimeo.com/video/419955708" width="960" height="540" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## information
 
@@ -41,3 +42,4 @@ please bare with me, I am completely overloaded and telegram nor email I can pro
 - [TFTech Whitepaper_Autonomous Layer](https://docs.google.com/document/d/1qEaAqYxL0v9ZnwcMtud61SJUvDcz6DS_wRqPykPh1Y8/edit#)
 
 
+![](./img/kristof_hearts.png)
