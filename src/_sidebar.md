@@ -54,6 +54,7 @@
   - [SEEDS Intro 05/11](seedsintro.md)
   - [Green Edge Intro 05/12](greenedgeintro.md)
   - [Solidaridad Intro 05/13](solidaridadintro.md)
+  - [SelfKey Partnership 05/15](selfkeyintro.md)
 - [Community Calls & Events](community_calls.md)
   - [ThreeFold Grid SDK](sdkintrodemo.md)
   - [Token Intro + Simulator](tokenandsimulator.md)
