@@ -1,12 +1,12 @@
 # The ThreeFold Wiki
 
-Hello, there. And welcome to the ThreeFold Wiki. Here you will find a gathering of most of our created content in regards to ThreeFold.
+Hello, there.
 
-These wikis are quite robust, featuring all types of information about who we are, what we do, why we do what we do, how far along we are, the way we work together, our definitions, our tools, presentations, announcements, and more.
+Welcome to the ThreeFold Wiki! Here you will find a gathering of most of our created content.
 
-If you're new to our project, we'd recommending you scroll down and start with the "why" behind what we are building.
+**If you're new to our project, we'd recommending you scroll down below and start with the "why" behind what we are building. Below that, you'll see sections on "how it works" which provide a good introduction.**
 
-*Or feel free to use the sidebar navigation if you're looking for something in particular.*
+*Feel free to use the sidebar navigation to explore our content or if you're looking for something in particular.*
 
 ![](./img/freedoom.png)
 
@@ -36,9 +36,13 @@ The current industry solutions focuses on increasing the use of renewable energi
   
 ThreeFold brings the world the first true peer-to-peer Internet. It uses pioneering technologies that remove the need for centralized and power-hungry data centers, consumes 90% less energy, and uses 90% less international fiber network capacity. 
 
-## New To ThreeFold?
+## Curious how it all works?
 
-Take a look at [this intro page](longstoryshort.md). Or check out this video on how it all started and what we have accomplished already. 
+- [For Beginners (Non-Technical)](howitworks_beg.md)
+- [For Intermediates (Semi-Technical)](howitworks_int.md)
+- [For Experts (Technical)](howitworks_adv.md)
+
+Check out this video on how it all started and what we have accomplished already. 
 
 <iframe width="750" height="421" src="https://www.youtube.com/embed/AAV4yYZ_P3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

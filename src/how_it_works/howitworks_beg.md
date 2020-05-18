@@ -1,4 +1,4 @@
-# Long Story Short
+# How It Works: For the Non-Technical Audience
 
 The truth is that ThreeFold is a big project. Here we will try to make things a little simpler for you.
 
@@ -10,7 +10,13 @@ But, what it boils down to is that currently the internet is only available to a
 
 ### How does it work?
 
-Well, everything on the internet – websites, apps, photos, videos, etc – uses up capacity and is stored in huge data centers owned by big companies, mainly in North America, Europe, and some in Asia. In our solution, centralized data centers are replaced with a grid of "nodes" distributed around the world. These nodes are owned by [ThreeFold Farmers](what_is_a_farmer.md) – but only the physical hardware – the data inside of the nodes belongs to the people or organizations who put it there. So, "farmers" plug in hardware and start to create capacity that can be used by people.
+Everything on the internet – websites, apps, photos, videos, etc – uses up capacity and is stored in huge data centers owned by big companies, mainly in North America, Europe, and some in Asia. In our solution, centralized data centers are replaced with a grid of "nodes" distributed around the world.
+
+These nodes are owned by [ThreeFold Farmers](what_is_a_farmer.md) – but only the physical hardware – the data inside of the nodes belongs to the people or organizations who put it there. So, "farmers" plug in hardware and start to create capacity that can be used by people.
+
+Farmers come in all shapes and sizes. Some farmers run small data centers while others simply run a node out of their living room.
+
+When Farmers connect active hardware (add capacity) to the ThreeFold Grid, ThreeFold Tokens are created. Farmers can then sell those tokens to people who want to use capacity (e.g. a developer that wants to build or host a website, or a person who wants to store some photos). More on tokens down below.
 
 ### Seems quite lofty. How will you build it?
 
@@ -18,15 +24,15 @@ It's true that rebuilding the internet is not so simple. But a lot of infrastruc
 
 ### 21+ countries? What happened to equality?
 
-As far along as we are, we still have work to do. One of our biggest goals in the near future is to expand the grid to Africa, South America, and parts of Asia where currently the Internet is too expensive or not available.
+As far along as we are, we still have work to do. One of our biggest goals in the near future is to expand the grid to Africa, South America, and parts of Asia where currently the Internet is too expensive or not available. Currently, we farming is incentivized around these key geographies.
 
 ### So how can I access / use your internet today? What can I do on it?
 
-By the end of May, some of the first experiences will be live. This includes file storage and communication tools and a virtual browser, all with the advantages of being more sustainable for our planet and with full control of your own data. And over time, more and more experiences will come to this internet. We'll be updating here and on our communication platforms as they come. But don't worry, as a user it doesn't change much – no coding required. :)
+By June, some of the first experiences will be live. This includes file storage and communication tools and a virtual browser, all with the advantages of being more sustainable for our planet and with full control of your own data. And over time, more and more experiences will come to this internet. We'll be updating here and on our communication platforms as they come. But don't worry, as a user it doesn't change much – no coding required. :)
 
 ### Will [enter website or app here] be available on your internet?
 
-There are some tremendous reasons for a website or app to use our internet, but that will really be up to the website or the app. In the end, we are providing a responsible solution for responsible people and organizations. The decision is not ours.
+There are some tremendous reasons for a website or app to use our internet, but that will really be up to the website or the app. In the end, we are providing a responsible solution for responsible people and organizations. We would love to host anybody who believes in what we are doing!
 
 ### How are you making sure it's safe?
 
@@ -51,7 +57,9 @@ In the end we want to provide sustainable access to the internet and all of its 
 
 ### Speaking of money – so what's up with the ThreeFold Token?
 
-Essentially it's the medium of exchange on the new internet. So, if a developer wants to build something (e.g. a website or an app) or a user wants to store something (e.g. photos), he/she/they use(s) ThreeFold Tokens.
+As we mentioned above, tokens are generated when ThreeFold Farmers adds capacity to the ThreeFold Grid.
+
+Essentially, the ThreeFold Token is the medium of exchange on the new internet. So, if a developer wants to build something (e.g. a website or an app) or a user wants to store something (e.g. photos), he/she/they use(s) ThreeFold Tokens.
 
 ### Why not just use euros or dollars?
 
