@@ -36,7 +36,7 @@
   - [VR Museum](vrmuseum.md)  
 - [How It Works](how_it_works)
   - [TFGrid For Internet Enthusiast](howitworks_2)
-- [Technology](whitepapers.md)
+- [Technology](technology_explained.md)
   - [Technology Overview](technology_overview.md)
   - [The BlockChain Dilemma](blockchain_dilemma_whitepaper.md)
   - [Needs For True Decentralization](true_decentralized_internet_system.md)

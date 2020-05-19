@@ -1,6 +1,6 @@
 ![alt_text](./img/whitepapers_header.jpg)
 
-# ThreeFold Whitepapers
+# ThreeFold Technology Explained
 Here is where you find the vision behind a lot of the parts that make ThreeFold.
 Get inside the heads of the people behind the ThreeFold Project and see why certain choice where made.
 
