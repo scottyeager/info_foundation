@@ -45,7 +45,6 @@
   - [Edge Cloud not Grid Cloud?](edge_cloud_not_grid_cloud.md)
   - [The Autonomous Layer](autonomous_layer_whitepapers.md)
   - [The Capacity Layer](capacity_layer_image.md)
-  - [TF Whitepaper 1.0.4](tf_whitepaper_104.md)
 - [Launch Announcements](launch_announcements.md)
   - [Grid 2.0 Launch 29/04](threefold_grid_2_0.md)
   - [Conscious Internet Alliance 05/05](conscious_internet_alliance.md)
