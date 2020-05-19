@@ -1,10 +1,11 @@
 # Weynand
 
-![](weynand.png)
+
+<iframe src="https://player.vimeo.com/video/414000468" width="960" height="540" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe
+
 
 ## agenda
-
-<iframe src="https://calendar.google.com/calendar?cid=a2lqcGVyd0BpbmN1YmFpZC5jb20" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=weynand%40incubaid.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" 
 
 ## information
 
@@ -31,18 +32,18 @@
 
 ## my priorities
 
-### week 14 may
+### This Week
 
-- Finish coding examples that enable hacker and developers to do simple architecture on the TF Grid.
-- Work on and finish the tokonomy design of a colelctive of farmers that want to build a hyperscaler for containerization workloads
+- Finish coding examples that enable hackers and developers to do simple architecture on the TF Grid.
+- Work on and finish the tokonomy design of a collective of farmers that want to build a hyperscaler for containerization workloads
 - Onboarding of a number of blockchain protocols.
 - Investors presentation(s)
 
-### week 21 may
+### Next Week.
 
 - proposals, and onboarding 
 - various instruction videos to do deployments
-- productisation planning for a larger farmer that wants to go to market in June.
+- productization planning for a larger farmer that wants to go to market in June.
 
 ## contact info
 
