@@ -29,10 +29,10 @@ Are you connected with people who want to do good for the planet? Make sure they
 
 We believe heavily in the network effect. Say for example that there are 5,000 people in our community. If each existing person introduced even just one new person each week to ThreeFold, and then they all did the same the following week, we'd have 80,000 people in our community in one month.
 
-Week 1: 5,000 existing + 5,000 new = 10,000 total
-Week 2: 10,000 existing + 10,0000 new = 20,000 total
-Week 3: 20,000 existing + 20,000 new = 40,000 total
-Week 4: 40,000 existing + 40,000 new = 80,000 total
+- Week 1: 5,000 existing + 5,000 new = 10,000 total
+- Week 2: 10,000 existing + 10,0000 new = 20,000 total
+- Week 3: 20,000 existing + 20,000 new = 40,000 total
+- Week 4: 40,000 existing + 40,000 new = 80,000 total
 
 You know best how to get in touch with the people in your circles so we'll leave it to you. But again, we're here to help if you're stuck!
 
