@@ -15,7 +15,7 @@ We have a few places where you can find regular / updated content:
 - [YouTube](https://youtube.com/c/ThreeFoldFoundation)
 - [Forum](https://forum.threefold.io)
 
-_If you're on Telegram, we also have a group there where we exclusively share out recent news. Ping @samtaggart on Telegram to be added._
+_If you're on Telegram, we also have a group there where we exclusively share out recent news. Join [here](https://t.me/joinchat/KfndwRSiOGjLU2OQsla8Ng)._
 
 Please follow along and feel free to share with your networks when you are inspired to do so. Remember it's always best to add a line of text or two when you share the post rather than just hitting "share now." If you don't know what we're talking about, reach out to spreadtheword@threefold.io and we'll walk you through it.
 
