@@ -1,6 +1,6 @@
 # The ThreeFold Wiki
 
-Hello, there.
+Hi, there!
 
 Welcome to the ThreeFold Wiki! Here you will find a gathering of most of our created content.
 
@@ -39,7 +39,7 @@ ThreeFold brings the world the first true peer-to-peer Internet. It uses pioneer
 ## Curious how it all works?
 
 - [For Beginners (Non-Technical)](howitworks_beg.md)
-- [For Intermediates (Semi-Technical)](howitworks_int.md)
+- [For Intermediates (Semi-Technical)](howitworks2.md)
 - [For Experts (Technical)](howitworks_adv.md)
 
 Check out this video on how it all started and what we have accomplished already. 
