@@ -41,7 +41,7 @@ Each 2nd generation TFT is a converted TFTA. The first batch as used in the [tok
 
 !!!include:token_overview_may
 
-```(*)``` TFT v1 token holders = ```TFTA``` holders can sell tokens through a [threefold marketmaker bot](threefold_marketmaker_bot.md) starting July 2020.
+```(*)``` TFT v1 token holders = ```TFTA``` holders can sell as a ```TFT``` token through a [threefold marketmaker bot](threefold_marketmaker_bot.md) starting July 2020. Basically automatic conversion between TFTA & TFT while selling. Do note you can sell TFTA as is on stellar based exchanges.
 
 ## Overview Tokens Distribution Event
 
