@@ -36,13 +36,22 @@ We believe heavily in the network effect. Say for example that there are 5,000 p
 
 You know best how to get in touch with the people in your circles so we'll leave it to you. But again, we're here to help if you're stuck!
 
+## Help Us Form a New Partnership
+
+We believe strongly that partnerships are the way forward. We have built a responsible solution / foundation for conscious organizations. Dozens of organizations have already signed on or expressed their intent to sign on to move to and/or build on top of the ThreeFold Grid – and we invite more to do the same.
+
+Learn more about our existing ecosystem at:
+
+[threefold.io](http://threefold.io/public/#/community)
+[consciousinternet.org](https://consciousinternet.org)
+
 ## Create Your Own Content
 
 Feel particularly passionate about what we are doing? We'd love for you to create your own content about ThreeFold. That might sound scary but it can be as simple as writing a few lines of text or recording yourself talking into the camera for a few minutes and sharing it out on your preferred outlet or network.
 
 If you don't know where to share, we invite you to create content for the [ThreeFold Blog](https://blog.threefold.io) as well. Or give us content ideas for our social channels.
 
-## Seeking Out New Communities
+## Seek Out New Communities
 
 There are many groups on Facebook and LinkedIn, for example, that would and should be interested in what we are building. All it takes is a bit of digging to find them. Once you do, introduce yourself and share a bit about ThreeFold. Tap into what the group or community is all about.
 
