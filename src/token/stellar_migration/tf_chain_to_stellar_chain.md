@@ -40,3 +40,5 @@ Once the conversion process has ended, you will arrive in the accounts overview 
 
 - TFTA & TFT: [See here for more info](tfta_vs_tft.md)
 - FREETFT: [See here for more info](freetft.md)
+
+If you need support join the [3Bot Support Telegram group](https://t.me/tf_3_botsupport) and state your issue.
