@@ -1,4 +1,4 @@
-# How It Works: For the Non-Technical Audience
+# Long Story Short
 
 The truth is that ThreeFold is a big project. Here we will try to make things a little simpler for you.
 
@@ -68,3 +68,5 @@ Good news! We've actually written up a nice explanation about [why a token is ne
 ### Need more answers?
 
 We hope that helps explains things. Obviously there is a whole wiki here to dive in to. If you don't find what you're looking for, please reach out to marketing@threefold.io and we'll make sure we get it added.
+
+**If you're looking for a technical introduction, you can find one [here](howitworks_2.md).**
