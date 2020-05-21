@@ -36,6 +36,8 @@ Once the conversion process has ended, you will arrive in the accounts overview 
 
 <img src="img/accounts_overview_stellar_mainnet.PNG" width="300">
 
+*Note that if you get an error message, please try again later before contacting support.*
+
 ## Token Types in your wallet
 
 - TFTA & TFT: [See here for more info](tfta_vs_tft.md)
