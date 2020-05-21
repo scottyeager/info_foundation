@@ -38,11 +38,9 @@ ThreeFold brings the world the first true peer-to-peer Internet. It uses pioneer
 
 ## Curious how it all works?
 
-- [For Beginners (Non-Technical)](howitworks_beg.md)
-- [For Intermediates (Semi-Technical)](howitworks_2.md)
-- [For Experts (Technical)](howitworks_adv.md)
+Take a look at [this simplified introduction](longstoryshort.md)!
 
-Check out this video on how it all started and what we have accomplished already. 
+And check out this video on how it all started and what we have accomplished already. 
 
 <iframe width="750" height="421" src="https://www.youtube.com/embed/AAV4yYZ_P3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
