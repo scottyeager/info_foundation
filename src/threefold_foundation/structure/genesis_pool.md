@@ -16,20 +16,22 @@ ThreeFold is the result of more than 20 years of work in the internet space over
 ![](./img/genesis_pool_tokens.png)
 
 
-The public version of our blockchain has been started March 2018.
+The public version of our blockchain has been started March 2018, the servers used during development and mining tokens already started +- 2 years before, in other words 2016+.
 
-Many hundreds of servers have been used to develop the technology which now makes up our ThreeFold Grid. We took 300 of them and used those as the foundation for our farming. In above overview you can see the overview of the genesis pool.
+Many hundreds of servers have been used to develop the technology which now makes up our ThreeFold Grid. 
+
++-300 servers are the foundation of our TFGrid. In above overview you can see the overview of the genesis pool.
 
 Please note that all tokens in the ThreeFold Grid are the result of farming. Also in the genesis pool there is a direct relationship between hardware (servers) who have been producing IT capacity for years and the tokens farmed. The genesis pool was the first pool of hardware on the ThreeFold Grid.
 
-The rules of farming see [farming rules v1](farming_rules_v1.md) have been applied on the genesis pool. The value at that time 2017+ was almost 7m USD for the farmed capacity in the genesis pool. Ever since this value has increased substantially.
+The rules of farming see [farming rules v1](farming_rules_v1.md) have been applied on the genesis pool. The value at that time 2017+ was 7m USD for the farmed capacity in the genesis pool. Ever since this value has increased substantially.
 
 !!!include:genesis_pools.md
 
 ### What happened with the Genesis Pool Token
 
-- Most of them went to the original investors of the company who created a lot of the technology, one of the original investors was Kristof, most of these tokens are locked up and are not tradeable. This was a deal made mid 2018 and provided the ThreeFold foundation with technology and a global engineering team.
-- The other part went to ThreeFold Foundation, most of these tokens are locked up.
+- Most of the genesis pool tokens went to the original investors of the company who created a lot of the technology, most of these tokens are locked up and are not tradable. This was a deal made mid 2018 and provided the ThreeFold foundation with technology and a global engineering team.
+- The other part went to ThreeFold Foundation, most of these tokens are also locked up.
 
 Since then part of the token have been used to
 
