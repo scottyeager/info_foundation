@@ -50,6 +50,7 @@ In order to promote the growth and development of the ThreeFold Grid, a percenta
 
 This percentage equals 10% at the moment. After 24 months of farming, it will go down to 5%.
 
+> Important note: TFTs are not an investment instrument.
 
 
 

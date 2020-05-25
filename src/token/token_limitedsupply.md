@@ -19,4 +19,4 @@ Our [simulations](https://sdk3.threefold.io/#/simulator_install) shows that ther
 
 After this point in time, farmers will solely earn TFT by cultivation. Considering the features and the effectiveness of the architecture of the ThreeFold Grid, our simulations show that it will still be profitable after that point.
 
-***Important note: TFT’s are not an investment instrument.***
+> Important note: TFTs are not an investment instrument.

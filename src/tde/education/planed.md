@@ -2,15 +2,17 @@
 
 ![alt](https://www.consciousinternet.org/threefold/info/projects/planed/planed.jpeg)
 
-Every child deserves an education. For years we have been working to bring positive and needed changes to the education system and today with technological advancements in place we can bring this another step forward.
+Every child deserves an education. For years we have been working to bring positive and needed changes to the education system and today with technological advancements in place, we can bring this another step forward.
 
 ### Purpose
 
-We want to raise a bar of education by having experts to teach the students and by initiating teacher training with help of technology. For years we have been working to bring positive and needed change to the education system and a peer-to-peer education system is another step forward. It opens up the possibilities for learning and positive solutions for our world.
+We want to raise the bar of education by having experts teach students and by initiating teacher training with the help of technology. For years we have been working to bring positive and needed change to the education system, and peer-to-peer education is another step forward. It opens up the possibilities for learning and positive solutions for our world.
 
 ### Status Today
 
-We at TAG have built a community of thousands of teachers globally which allows us to connect to children and teachers in refugee camps. Our platform allows to train teachers in refugee camps (67% of which haven't completed secondary education) and have interactions between refugee students and students globally changing their mindset and fighting polarization.
+We at [TAG](http://takeactionglobal.org/) have built a community of thousands of teachers globally which allows us to connect to children and teachers in refugee camps. This allows us to train teachers in refugee camps (67% of which haven't completed secondary education) and facilitate interactions between refugee students and students globally, changing their mindset and fighting polarization. Today, we face limitations with technology including affordability of and access to internet.
+
+With ThreeFold as the infrastructure, and utilizing elements of 3bot technology, we will develop PlanED, a peer-to-peer education platform that affordably and effectively bridges refugees with educators and students around the world.
 
 Learn more about this project on [Conscious Internet Alliance](https://www.consciousinternet.org/index.html#/projects/planed).
 

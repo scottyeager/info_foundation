@@ -23,7 +23,7 @@ See [here](http://threefold.io/public/#/team)
 
 ### Funding
 
-- Required funding to finish roadmap as described below: 30,000,000 TFT
+- Required funding to finish roadmap as described below: 25,000,000 TFT
 
 ### Roadmap
 

@@ -1,19 +1,28 @@
 ![](./img/tftexplo.png)
 
-# Its easy to buy and sell TFT
+# It's easy to buy and sell ThreeFold Tokens (TFT)
 
-At the moment (05/2020), ThreeFold tokens are publicly traded on Stellars decentralized exchanges StellarX, Interstellar and Lobstr. Follow the links below for easy instructions on how to buy and sell.
-You can also buy TFT directly from farmers. Please find the link to an offer from Mazraa below as well.
+Hi, there! It's nice to see you in this section of the wiki. Thank you for your support!
 
-Stay tuned about the upcoming announcements on TFT being available on Liquid and BTC Alpha in our [Telegram](https://t.me/threefoldnews)  the [ThreeFold Forum](https://forum.threefold.io/).
+If you have experience with digital currencies, this should be a breeze. If not, we're here to take you through the process.
 
+### How to Buy
 
-**Now**
-    * [From TF Farmer](tft_mazraa.md)
-    * [StellarX](tft_stellarx.md)
-    * [Interstellar](tft_interstellar.md)
-    * [Lobstr](tft_lobstr.md)
+You have two options for buying the token right now.
 
-**Later**
-    * [BTC Alpha](tft_btc_alpha.md)
-    * [Liquid](tft_liquid.md)
+#### 1. Directly from a ThreeFold Farmer
+- [Mazraa](tft_mazraa.md) – via wire transfer, credit card, or PayPal
+- [BetterToken](tft_bettertoken.md) - via wire transfer, orders only above $ 1000
+
+_Note: Don't know what a ThreeFold Farmer is? Click [here](what_is_a_farmer.md). In the future, you will be able to buy directly from other farmers as well._
+
+#### 2. On Stellar (through XLM, Stellar's token.)
+_If you already have XLM, you can skip step 1._
+- [Step 1: Buy XLM with fiat](fiat_to_tft_step_1.md) 
+- [Step 2: Convert to TFT](fiat_to_tft_step_2.md)
+
+Stay tuned about the upcoming announcements on TFT becoming available on [Liquid](tft_liquid.md) and on [BTC Alpha](tft_btc_alpha.md) on [Telegram](https://t.me/threefoldnews) or on the [ThreeFold Forum](https://forum.threefold.io/).
+
+### How to Sell
+
+We're working on this section. If you need help in the meantime, please feel free to use the support chat on threefold.io. Thanks!

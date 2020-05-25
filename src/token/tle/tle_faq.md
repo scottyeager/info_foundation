@@ -43,3 +43,6 @@ Yes, Liquid is safe and reputable platform that is regulated by the JSFA and aud
 
 **What Currencies can be used to buy ThreeFold Tokens during the TLE?**
 USDC , BTC, ETH, QASH and USD
+
+
+> Important note: TFTs are not an investment instrument.

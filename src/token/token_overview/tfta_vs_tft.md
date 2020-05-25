@@ -23,7 +23,7 @@ We also migrate our existing TFT (ThreeFold tokens from our own blockchain calle
 
 ## TFTA
 
-The TFTA has all same rights as your current TFT on Rivine, it can be transfered to anyone, it can be used to buy or sell capacity on the TFGrid.
+The TFTA has all same rights as your current TFT on Rivine, it can be transferred to anyone, it can be used to buy or sell capacity on the TFGrid.
 By moving the TFT v1 to Stellar we get some additional benefits, the TFTA is tradable on Stellar decentralized exchange.
 
 The TFTA will automatically convert to the new TFT at end of this year and you can sell your TFTA as TFT by means of the [ThreeFold market making bot](threefold_marketmaker_bot.md) starting July.
@@ -32,7 +32,7 @@ All TFTA are being transferred to Stellar on a 1-1 basis, no tokens created nor 
 
 ## TFT
 
-The TFT is our generation 2 token which launches natively on Stellar and is available for trading starting May 2020.
+The TFT is our generation 2 token has launched natively on Stellar and is available for trading starting May 2020.
 Only 73m TFT are available at launching price of USD 0.15.
 
 Each 2nd generation TFT is a converted TFTA. The first batch as used in the [token distribution event](tdeoverview.md) was converted first. In other words TFT is nothing more or less than a TFTA with a certain time difference. Technical info about migration can be found [here](tft_tfta_migration_process_technical.md).
@@ -41,9 +41,10 @@ Each 2nd generation TFT is a converted TFTA. The first batch as used in the [tok
 
 !!!include:token_overview_may
 
-```(*)``` TFT v1 token holders = ```TFTA`` holders can sell tokens through a [threefold marketmaker bot](threefold_marketmaker_bot.md) starting July 2020.
+```(*)``` TFT v1 token holders = ```TFTA``` holders can sell as a ```TFT``` token through a [threefold marketmaker bot](threefold_marketmaker_bot.md) starting July 2020. Basically automatic conversion between TFTA & TFT while selling. Do note you can sell TFTA as is on stellar based exchanges.
 
 ## Overview Tokens Distribution Event
 
 !!!include:token_overview_tde
 
+> Important note: TFTs are not an investment instrument.

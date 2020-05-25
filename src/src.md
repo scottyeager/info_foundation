@@ -1,11 +1,14 @@
-# THREEFOLD WIKI
+# The ThreeFold Wiki
+
+Hi, there!
+
+Welcome to the ThreeFold Wiki! Here you will find a gathering of most of our created content.
+
+**If you're new to our project, we'd recommending you scroll down below and start with the "why" behind what we are building. Below that, you'll see sections on "how it works" which provide a good introduction.**
+
+*Feel free to use the sidebar navigation to explore our content or if you're looking for something in particular.*
 
 ![](./img/freedoom.png)
-
-
-This Wiki is a gathering of most of our created content in regards to the ThreeFold Foundation. It features why we do what we do, what we do, the way we work together, our definitions, our tools, presentations and much more for you to read and learn about. 
-
-Let's start with what shapes what we do - our why. 
 
 ## Why we do what we do
 
@@ -33,14 +36,19 @@ The current industry solutions focuses on increasing the use of renewable energi
   
 ThreeFold brings the world the first true peer-to-peer Internet. It uses pioneering technologies that remove the need for centralized and power-hungry data centers, consumes 90% less energy, and uses 90% less international fiber network capacity. 
 
-## New To ThreeFold?
+## Curious how it all works?
 
-Check out this video on how it all started and what we have accomplished already. 
+Take a look at [this simplified introduction](longstoryshort.md)!
+
+And check out this video on how it all started and what we have accomplished already. 
 
 <iframe width="750" height="421" src="https://www.youtube.com/embed/AAV4yYZ_P3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
 If you have any questions please join the discussions about ThreeFold on our [Forum](https://forum.threefold.io/).
-ThreeFold also has created a decentralized social media platform called [FreeFlowPages](https://www.freeflowpages.com) you are invited to create your profile there and follow our and other groups.
+
+ThreeFold also has created a decentralized social media platform called [FreeFlowPages](https://www.freeflowpages.com) as an example use case on top of the ThreeFold Grid. You are invited to create your profile there and join in!
 
 ## More Online Resources
 
@@ -54,8 +62,8 @@ For additional information, please refer to our official channels:
 
 [Twitter](https://twitter.com/threefold_io)
 
-[Medium](https://medium.com/threefold)
-
 [Announcement Telegram Group](https://t.me/threefoldnews)
 
-[YouTube channel](https://youtube.com/c/ThreeFoldFoundation)
+[Medium](https://medium.com/threefold)
+
+[YouTube Channel](https://youtube.com/c/ThreeFoldFoundation)

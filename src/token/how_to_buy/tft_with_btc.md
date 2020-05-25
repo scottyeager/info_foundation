@@ -14,7 +14,7 @@ This email should contain:
 - Phonenumber
 - ThreeFold Wallet Address
 
-If you don't yet know how to view your wallet address in the 3Bot Connect App please check this part of our wiki's and scroll down to walllet [3bot Connect App Wiki](3bot_app.md)
+If you don't yet know how to view your wallet address in the 3Bot Connect App please check this part of our wiki's and scroll down to walllet [3bot Connect App Wiki](3bot_connect.md)
 
 **Step 2: Send BTC's to Mazraa**
 
