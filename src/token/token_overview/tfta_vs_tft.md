@@ -2,12 +2,20 @@
 
 ## Quick history overview
 
+- More than 10 years ago this project started from out of our incubator see https://www.incubaid.com
+- Almost 4 years ago we started deploying capacity for development purposes
+    - this became our ([our genesis pool](genesis_pool.md)), which is the beginning of farming
+    - in 2017 value of the genesis pool was about 7m USD in TFT 
 - A little over 2 years ago (March 2018) our first-generation blockchain for the Threefold Token saw the daylight. 
     - The TFT v1 was launched on a blockchain called Rivine.
+    - The genesis pool was the start of that effort
 - A little over a year ago (Q2 2019) we launched our generation 1 of our TF Grid. 
 - April 2020 we [launched our TFGrid v2.0](threefold_grid_2_0.md) which is now public and usable by the world.
     - We have a new website, a new wiki (https://wiki.threefold.io)
     - a manual on how to use the TF Grid 2.0 (see https://sdk.threefold.io).
+- May 2020: we launched our 2nd version of our token called TFT but this time on Stellar
+    - the original TFT kept all same properties and benefits and is now called TFTA also on Stellar
+    - see below for more info, this was the result of 12 months of work with our community and of-course consensus to do this.
 
 ## The Launch of our 2nd generation Token
 
@@ -20,6 +28,8 @@ We organize a Token Distribution Event on Stellar to benefit projects which have
 Upto 70m TFT are offered for sale on Stellar and later on at least 2 public exchanges. Read more about this on [our Token Distribution event page](tdeoverview.md)
 
 We also migrate our existing TFT (ThreeFold tokens from our own blockchain called Rivine) to Stellar, our existing TFT will be called TFTA on Stellar. 
+
+> Please note that we worked on this for about 12 months from out of the foundation and worked closely with our community. We did a lot of zoom calls to prepare and get required consensus. We also did a poll with our farmers to make sure we have consensus about this change. The huge majority of TFT v1 token holders agreed on making this change for the better good of the ThreeFold project. The aim was more liquidity and funding for the foundation so we can fund projects living on top of the TFGrid.
 
 ## TFTA
 
