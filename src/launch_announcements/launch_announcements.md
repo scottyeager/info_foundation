@@ -16,3 +16,5 @@ Starting on April 29, 2020 ThreeFold began a series of updates to the community 
 - [May 20: TomoChain Partnership](tomochainintro.md)
 - [May 21: Stellar Migration](stellarmigration.md)
 - [May 22: DigiByte Collaboration](digibyteintro.md)
+- [May 25: Ivan on Tech + ThreeFold](ivanontech.md)
+- [May 26: Hello, WaykiChain!](waykichainintro.md)
