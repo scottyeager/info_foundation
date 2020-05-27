@@ -23,6 +23,11 @@ _If you already have XLM, you can skip step 1._
 
 Stay tuned about the upcoming announcements on TFT becoming available on [Liquid](tft_liquid.md) and on [BTC Alpha](tft_btc_alpha.md) on [Telegram](https://t.me/threefoldnews) or on the [ThreeFold Forum](https://forum.threefold.io/).
 
+#### Starting on June 1, the TFT will be available on two public exchanges
+
+- [Liquid.com](https://liquid.com)
+- [BTC-Alpha](https://btc-alpha.com/en/)
+
 ### How to Sell
 
-We're working on this section. If you need help in the meantime, please feel free to use the support chat on threefold.io. Thanks!
+You can sell (or trade) TFT by using either the Stellar DEX or via either of the public exchanges above. We're working on this section. If you need help in the meantime, please feel free to use the support chat or ask on [our forum](https://forum.threefold.io). Thanks!

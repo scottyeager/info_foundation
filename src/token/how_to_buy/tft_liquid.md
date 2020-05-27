@@ -1,14 +1,14 @@
 ![Liquid Exchange](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/liquid.png)
 
-# Buy from Liquid Exchange (Available Mid-Late May)
+# Buy from Liquid Exchange (Available June 1)
 
-Liquid is a highly-reputable and highly-secure exchange and we are proud to have them as one of our initial listing partners. The TFT will be listed there in mid-to-late May. For now, you can get registered.
+Liquid is a highly-reputable and highly-secure exchange and we are proud to have them as one of our listing partners. The TFT will be listed there on June 1. For now, you can get registered.
 
 ### How to Register
 1. [Visit Liquid](https://liquid.com)
 2. Click on “Sign Up” in the top-right corner & follow the instructions.
 
-*Note: It’s a quick 3-step process & will take just a minute.*
+*Note: Signing up is a quick 3-step process & will take just a minute.*
 
 3. You’ll be asked to confirm your email. So, please check your inbox.
   a. When you click “confirm” within the email, you will be taken back to Liquid
@@ -16,10 +16,14 @@ Liquid is a highly-reputable and highly-secure exchange and we are proud to have
 
 *Note: If you’re not given the option to verify via video but would like to do so, follow the instructions [here](https://help.liquid.com/en/articles/3104816-video-call-kyc-verification). If you choose to verify via the website, [here is a full explanation](https://help.liquid.com/en/articles/2273305-how-do-i-verify-kyc-my-liquid-account) of how to do so & what you will need.*
 
-Please note there is a mobile application called “liquid” which might be easier to do you verification. It will  use your phone camera to “capture” your selfie, passport and proof of residency information.
+Please note there is a mobile application called “liquid” which might be easier to do you verification. It will use your phone camera to “capture” your selfie, passport and proof of residency information.
 
 **Again, please note you are not fully registered until you verify your account.**
 
 ### Now you are ready to buy tokens on Liquid!
 
 Once your registered, follow updated on our [Telegram Channel](https://t.me/threefoldnetwork) or in the [ThreeFold Forum](https://forum.threefold.io)
+
+### Liquid Quick Exchange
+
+Liquid also has a [Quick Exchange](https://app.liquid.com/quick-exchange/), which will allow you to instantly buy TFT with a Visa card. For purchases of $150 USD or less, no KYC is required. Note this functionality is not yet live for TFT, but will be soon.
