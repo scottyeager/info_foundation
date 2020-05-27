@@ -18,3 +18,4 @@ Starting on April 29, 2020 ThreeFold began a series of updates to the community 
 - [May 22: DigiByte Collaboration](digibyteintro.md)
 - [May 25: Ivan on Tech + ThreeFold](ivanontech.md)
 - [May 26: Hello, WaykiChain!](waykichainintro.md)
+- [May 27: TFT on Liquid & BTC Alpha](liquidbtcalpha.md)
