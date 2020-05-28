@@ -5,7 +5,7 @@
 - More than 10 years ago this project started from out of our incubator see https://www.incubaid.com
 - Almost 4 years ago we started deploying capacity for development purposes
     - this became our ([our genesis pool](genesis_pool.md)), which is the beginning of farming
-    - in 2017 value of the genesis pool was about 7m USD in TFT 
+    - in 2017-18 value of the genesis pool was about 7m USD in TFT 
 - A little over 2 years ago (March 2018) our first-generation blockchain for the Threefold Token saw the daylight. 
     - The TFT v1 was launched on a blockchain called Rivine.
     - The genesis pool was the start of that effort
