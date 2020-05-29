@@ -1,7 +1,7 @@
-![greenedgecloud logo](./img/greenedgecloud_logo.jpg)
+![greenedge logo](./img/greenedge_logo.jpg)
 
 ### Green Edge
 
-Green Edge is one of the largest ThreeFold Farmers currently in the ecosystem with Farms in South Africa, Netherlands, Belgium, Germany, Austria, United States and Canada. They stay true to the vision of decentralization and bring capacity to new regions. They are right now bringing new capacity to Eastern Europe and Asia. 
+Green Edge is the largest ThreeFold farmer with certified capacty in Germany, Austria, Switzerland, South Africa, United States and Canada. UTo demonstrate the incredible potential of the ThreeFold grid, Green Edge is providing an Infrastructure-as-a-Service platform for businesses looking for greener, more cost effective solutions than AWS, Azure and Google Cloud.
 
-You can learn more about Green Edge on their [website](https://greenedgecloud.com).
+You can learn more about Green Edge on their [website](https://green-edge.net).
