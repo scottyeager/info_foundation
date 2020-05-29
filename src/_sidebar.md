@@ -63,6 +63,7 @@
   - [Ivan on Tech Interview](ivanontech.md)
   - [WaykiChain Partnership](waykichainintro.md)
   - [Liquid & BTC Alpha](liquidbtcalpha.md)
+  - [Harmony Partnership](harmonyintro.md)
 - [Community Calls & Events](community_calls.md)
   - [ThreeFold Grid SDK](sdkintrodemo.md)
   - [Token Intro + Simulator](tokenandsimulator.md)
