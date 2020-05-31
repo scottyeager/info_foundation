@@ -7,7 +7,7 @@ HPE is in the Acceleration Business. They help customers use technology to slash
 
 HPE and ThreeFold cooperate in promoting responsible technology that creates a meaningful impact on humanity and our planet. HPE will provide high-quality hardware to the ThreeFold Grid Farmers and ThreeFold will empower better technologies that can be used by HPE ecosystem.
 
-LEarn more about HPE on their [website](https://hpe.com).
+Learn more about HPE on their [website](https://hpe.com).
 
 
 
