@@ -7,5 +7,5 @@ Solidaridad envisions a world where the people who produce the resources on whic
 
 ThreeFold and Solidaridad are in partneship to create digital services for 500 millions farmers globally who do not have the financial strenght to participate in the
 
-Learn more about Solidaridad on their [Website](https://www.solidaridadnetwork.org/).
+Learn more about Solidaridad on [Alliance for a Conscious Internet](https://www.consciousinternet.org/#/projects/Solidaridad).
 

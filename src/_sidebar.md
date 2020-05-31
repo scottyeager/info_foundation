@@ -158,7 +158,7 @@
   - [Stellar](stellar.md)
   - [Harmony](harmony.md)
   - [SelfKey](selfkey.md)
-  - [WaykiChain](wakykichain.md)
+  - [WaykiChain](waykichain.md)
   - [Solidaridad](solidaridad.md)
   - [Kleos](kleos.md)
   - [Flowgen](flowgen.md)
