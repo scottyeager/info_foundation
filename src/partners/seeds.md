@@ -8,4 +8,4 @@ It's a digital currency and financial system like we've never had access to befo
 
 Crafted from systems that reflect the latest in financial, social and political innovation, SEEDS is the web that connects and nurtures a globally regenerative culture.
 
-Learn more about Seeds on [Alliance for a Conscious Internet](https://www.consciousinternet.org/#/projects/Solidaridad).
+Learn more about Seeds on [Alliance for a Conscious Internet](https://www.consciousinternet.org/#/projects/SEEDS.
