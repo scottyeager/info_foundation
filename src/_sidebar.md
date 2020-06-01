@@ -163,6 +163,7 @@
   - [Kleos](kleos.md)
   - [Flowgen](flowgen.md)
   - [Cloud28+](cloud28.md)
+  - [Take Action Global](tag_partner.md)
   - [Seeds](seeds.md)
   - [Beliive](beliive.md)
   - [Artheon](artheon.md)
