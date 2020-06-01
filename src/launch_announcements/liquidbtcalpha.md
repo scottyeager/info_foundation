@@ -1,4 +1,4 @@
-# May 8: TFT on Liquid & BTC-Alpha on June 1!
+# May 27: TFT on Liquid & BTC-Alpha on June 1!
 
 ![](./img/btcalphaliquid.png)
 
