@@ -163,6 +163,7 @@
   - [Kleos](kleos.md)
   - [Flowgen](flowgen.md)
   - [Cloud28+](cloud28.md)
+  - [Seeds](seeds.md)
   - [Beliive](beliive.md)
   - [Artheon](artheon.md)
   - [Joint Idea](joint_idea.md)
