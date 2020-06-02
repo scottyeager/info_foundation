@@ -1,6 +1,6 @@
 ![](./img/certified_capacity.png)
 
-# Farmer Program
+# Farming Program
 
 ThreeFold created a simple Farmer Program for farmers to choose their type from.  Here are the main components in a high level overview:
 
@@ -35,3 +35,4 @@ More details on how the the Certification for farming is implemented in the simu
 ## more info: farming certification
 
 - [farming certification](farming_certification.md)
+- [capacity measurement & minting](minting_v2.md)
