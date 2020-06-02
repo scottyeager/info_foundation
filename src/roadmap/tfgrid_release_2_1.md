@@ -40,13 +40,15 @@ Below are linked to some main component projects
 
 - build in support for hypercore/ipfs, basically allow IPFS or HyperDrive to connect to our storage backend, this way our more robust reliable storage system can be a backend for these known P2P storage mechanisms without loosing data ownership properties.
 
-## timing
+## timing & release plan
 
 release to public
 
-- mid June 2020
-- jumpscale stays on development !!! for 1-2 weeks till full stability, but everyone in field can play with it
-- zos needs to be upgraded in the field to 0.4 before its usable
+- mid June 2020 we will release a ```release candidate of TFGrid 2.1.0 beta``` on branch development for 3sdk
+    - jumpscale stays on development !!! for 1-2 weeks till full stability, but everyone in field can play with it
+    - zos needs to be upgraded in the field to 0.4 before its usable
+- we will keep this RC active on that branch until we get confirmation from field that this release is at least as stable as current 2.x one.
+- mid June everyone will be able to use 2.0.x and 2.1.x in parallel by just changing branch in the 3sdk tool
 
 
 ### development on 
