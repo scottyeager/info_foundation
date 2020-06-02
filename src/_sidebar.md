@@ -1,7 +1,7 @@
 - [Grid](grid_why.md)
   - [What is the TF Grid](grid_what.md)
   - [What is a Farmer](what_is_a_farmer.md)
-  - [Farmer Program](farmer_progam.md)
+  - [Farmer Program](farming_program.md)
   - [Become a Farmer](become_a_farmer.md)
   - [Capacity Pricing](capacity_pricing_start)
   - [Simulate](farming_simulate.md)

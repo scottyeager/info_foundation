@@ -40,6 +40,8 @@ The TFTA will automatically convert to the new TFT at end of this year and you c
 
 All TFTA are being transferred to Stellar on a 1-1 basis, no tokens created nor deleted, there can be some small time differences to make it practically possible e.g. 5m TFT was first created on Stellar to bootstrap which will not transfer from TFT Rivine.
 
+For all clarity, until all TFTA converts to TFT farming keeps on creating TFTA tokens (in other words till end 2020).
+
 ## TFT
 
 The TFT is our generation 2 token has launched natively on Stellar and is available for trading starting May 2020.
