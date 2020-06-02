@@ -144,6 +144,7 @@
 	- [User Involvement](user_involvement.md)
 - [Definitions & Concepts](definitions_concepts.md)
 - [Presentation](conscioustech.md)
+- [Roadmap](roadmap.md)
 - [Team](tf_team.md)
 - [Partners](partners.md)
   - [ThreeFold Foundation](threefoldfoundation.md)
