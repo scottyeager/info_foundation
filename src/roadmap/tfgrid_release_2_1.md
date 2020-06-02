@@ -18,8 +18,8 @@
 - building of applications directly on the TFGrid
     - mechanism with example to show how continuous integration can be done on the TFGrid without having to use docker on your own computer
     - the result is a flist, which is the low level description of the IT workload which can be started as a container inside a resource pool reservation (see above)
-- 0-stor web frontend
-    - rest & SSH based front end on top of the 0-Stor
+- 0-stor web frontend for machines (REST)
+    - HTTP REST & SSH based front end on top of the 0-Stor
     - allows anyone to easily store large amounts of data on top of 0-Stor using our distributed storage algorithm.
 - [S3 storage improvements](https://github.com/threefoldtech/home/issues/720)
     - monitoring integration
