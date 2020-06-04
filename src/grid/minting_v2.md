@@ -1,6 +1,6 @@
 # Minting V2.0 (May 2020 - Aug 2020)
 
-From May until end of December 2020 TFTA will be minted using the new tokenomics.
+From May until end of August 2020 TFTA will be minted using the new tokenomics.
 
 ## Maximum amount of TFT
 
