@@ -29,7 +29,7 @@ With the [TF Grid](grid.md) and [TF Ecosystem](partners.md), TF can also tap int
 ### The potential of the TF Grid
 The TF Grid is a peer-to-peer Internet grid, that provides more efficient solutions than centralized alternatives. 
 
-Considering the current global market growth, let's say the TF Grid achieves a 10% share of the current public cloud market. This would equal 500 billion USD by 2025 and translate to a 50 billion USD demand to utilize the capacity of the TF Grid through TFT as the medium of exchange for capacity. Our simulations shows that this capacity requires about 75 million [3nodes](farmer_progam.md) to be deployed on the TF Grid globally. 
+Considering the current global market growth, let's say the TF Grid achieves a 10% share of the current public cloud market. This would equal 500 billion USD by 2025 and translate to a 50 billion USD demand to utilize the capacity of the TF Grid through TFT as the medium of exchange for capacity. Our simulations shows that this capacity requires about 75 million [3nodes](farming_program.md) to be deployed on the TF Grid globally. 
 
 
 ## The evaluation of all TFTs

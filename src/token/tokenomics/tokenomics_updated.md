@@ -32,7 +32,7 @@ Disclaimer: Please note that we can´t and won´t make price predictions on TFT 
 
 **4. Certification**
 
-* Providing hardware reliably is rewarded with a certification that leads to increased earnings in TFT for certified farmers. We automatically measure uptime, bandwidth and the utilization of the node for [certification](farming_progam.md).
+* Providing hardware reliably is rewarded with a certification that leads to increased earnings in TFT for certified farmers. We automatically measure uptime, bandwidth and the utilization of the node for [certification](farming_program.md).
 
 This visualization encompasses all information that is relevant for the farming process that is creating TFT. The whole process is made **transparent and reliable with Blockchain-like immutability** through our Blockchain Database BCDB. Learn more about how it works in our [whitepaper on the autonomous layers](autonomous_layer_whitepapers.md).
 
