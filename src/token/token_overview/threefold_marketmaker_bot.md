@@ -1,4 +1,4 @@
-# threefold marketmaker bot
+# Threefold Marketmaker Bot
 
 While potentially the name is misleading, because this bot does not have funding to keep a market stable, 
 this bot has as goal to allow any TFTA token holder to sell tokens to the Stellar network in way that price stability gets maintained.
@@ -7,7 +7,7 @@ Technical detail: the original Rivine TFT’s are going under name TFTA on the S
 
 The TFT bot market maker is a digitized bot. We choose to do this through our own digitized bot because a 3rd party bot service costs 20k USD per month.
 
-All TFTA holders can sell as much as they want starting June 1, 2020 through the TFT market maker bot as long as the price of the TFT is high enough & there is liquidity on the market.
+All TFTA holders can sell as much as they want starting July 1, 2020 on the Stellar blockchain through the TFT market maker bot as long as the price of the TFT is high enough & there is liquidity on the market.
 
 The rules the bot maintains are as follows:
 

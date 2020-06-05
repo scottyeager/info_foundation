@@ -8,7 +8,7 @@ And you can become a part of this solution by becoming a farmer and add more dec
 
 - [What is the TF Grid](grid_what.md)
 - [What is a Farmer](what_is_a_farmer.md)
-- [Farmer Program](farmer_progam.md)
+- [Farmer Program](farming_program.md)
 - [Become a Farmer](become_a_farmer.md)
 - [Simulate](farming_simulate.md)
 - [Grid Concepts](grid_concepts.md)
