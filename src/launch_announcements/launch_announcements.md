@@ -23,3 +23,4 @@ Starting on April 29, 2020 ThreeFold began a series of updates to the community 
 - [June 1: Live on Liquid and BTC Alpha](liquidbtcalphalive.md)
 - [June 3: Tokyo FinTech Podcast](tokyofintech.md)
 - [June 4: Cointelegraph Coverage](cointelegraph.md)
+- [June 5: Recapping a Few Big Weeks](recap1.md)
