@@ -67,6 +67,7 @@
   - [Live: Liquid & BTC-Alpha](liquidbtcalphalive.md)
   - [Tokyo FinTech Podcast](tokyofintech.md)
   - [Cointelegraph Coverage](cointelegraph.md)
+  - [Recapping Recent Events](recap1.md)
 - [Community Calls & Events](community_calls.md)
   - [ThreeFold Grid SDK](sdkintrodemo.md)
   - [Token Intro + Simulator](tokenandsimulator.md)
