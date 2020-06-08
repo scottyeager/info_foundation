@@ -5,35 +5,39 @@
 
 ### Each circle has different levels of contributors
 
-- circle coordinator (coordinator of the circle, is not a boss) 
+- **coordinator** = coordinator of the circle, is not a boss
     - see also [head_of_mission_profile](head_of_mission_profile.md)
     - is also a circle stakeholder & member
     - Elephant+ level in [P2P Awareness Level](p2p_awareness_level.md), or has the ambition/capability to grow to that level.
-- story coordinator
-    - coordinator of one of more stories in the circle
-    - is also a circle stakeholder & member
-    - Wolf+ level in [P2P Awareness Level](p2p_awareness_level.md), or has the ambition/capability to grow/surpass that level.
-- circle member
+- **member**
     - works on stories of the circle
     - is also a circle stakeholder
     - follows the scrum meetings
-- circle collaborator (can ad hoc do something for the circle, only works on existing stories, is ad hoc work)
+- **contributor** (can ad hoc do something for the circle, only works on existing stories, is ad hoc work)
     - Pup+ level in [P2P Awareness Level](p2p_awareness_level.md)
     - No need to follow scrum meetings, all can happend ad hoc, will probably work together with a circle member to contribute effectively.
-- circle stakeholder (has something to loose or win by the output of the circle)
+- **stakeholder** (has something to loose or win by the output of the circle)
     - No need to follow scrum meetings
     - Can follow priorities and provide input
-- circle follower (is following whatever happens in the circle)
+- circle **follower** (is following whatever happens in the circle)
     - We attempt to have circles very open, everyone can follow
+
+
+There is a specific role called story coordinator
+
+- story coordinator (is a member but coordinates at least 1 story)
+    - coordinator of one of more stories in the circle
+    - is a circle stakeholder or member
+    - Wolf+ level in [P2P Awareness Level](p2p_awareness_level.md), or has the ambition/capability to grow/surpass that level.
 
 #### remarks
 
 there are max 10 circle members/coordinators per circle this to keep it efficient.
-There can be many more followers & collaborators.
+There can be many more followers & contributors.
 
 ### levels of coordination
 
-### Circle Coordinator
+### coordinator = Circle Coordinator
 
 Coordinates (helps) a team of people working on one or more stories and ensures that:
 
@@ -43,11 +47,11 @@ Coordinates (helps) a team of people working on one or more stories and ensures 
 * All members are happy to contribute and are motivated/passionate
 * Is able to eliminate the blockages that circle members might experience
 
-Circle Coordinators are often also story owners \(of X nr of stories\)
+Circle coordinators are often also story coordinators \(of X nr of stories\)
 
-A Circle Coordinator is not a controller! It's a person at service of his or her team. 
+A Circle coordinator = Coordinator is not a controller! It's a person at service of his or her team. 
 
-- Coordinators manage circles.
+- coordinators manage circles.
 - A circle is a group of people working together around a set of specific topics.
 - A coordinator in an agile organization does not control, has no decision power.
 
@@ -59,10 +63,10 @@ A coordinator:
 - makes sure that:
   - every contributor of the circle understands and follows the agile principles and becomes a good contributor
   - the mission or strategy of the circle is known & understood - documentation e.g. a wiki is ideal
-  - the goals are translated into achieveable work and this happens by means of [stories](stories.md)
+  - the goals are translated into achievable work and this happens by means of [stories](stories.md)
   - quality [stories](stories.md) are created (well explained, done is done, requirements known, a story is not a task)
   - stakeholders have input on the stories and they can follow progress
-  - story owner's (people who own a specific story) can do their duty (keep to time, have the resources they need, know the specific goal of the story, know who and how to escalate to, make use of comments to clearly track progress)
+  - story coordinator's (people who own a specific story) can do their duty (keep to time, have the resources they need, know the specific goal of the story, know who and how to escalate to, make use of comments to clearly track progress)
 - is a teacher or coach
   - they get alongside people and help them be their best
   - they help people to become a better contributor

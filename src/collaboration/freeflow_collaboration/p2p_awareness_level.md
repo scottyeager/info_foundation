@@ -45,14 +45,19 @@ We have created [a test which can potentially help you to define your level](htt
 
 ### Wolf
 
+> Some will believe why is all of this needed, why can I just not be trusted.<BR>
+> I am sure your company does trust you or you would not be working there.<BR>
+> You are not working for a pyramid company, this means full transparency and some discipline is needed to allow P2P collaboration to function. <BR>
+> **[Read more about this here](stars_vs_spheres.md)**
+
 - A wolf is not afraid
 	- dares to be 100% transparent
     - whatever a wolf is working on is visible and peers can review at any point in time 
 - Organized & disciplined
 	- their work/text/code/specs is well structured & documented (less=more)
 	- actively use the agreed & defined toolset & is very fluent in it
-	- is willing to stick to agreed methods (tools) 
-	- most of the time will be able to communicate properly (all on task/story/fr)
+	- is willing to stick to agreed methods (tools), documents are put on the right location
+	- most of the time able to communicate properly (all on task/story/fr)
 - When a task/story/fr is done then its good enough which means
 	- all content delivered or features working
 	- in case of code: all tested, documented, example code
@@ -60,6 +65,7 @@ We have created [a test which can potentially help you to define your level](htt
 - Quality minded
 	- is enough documented/organized so that anyone (without talking/chatting) can play/evaluate the work delivered
 	- will be critical on own work and other work but always in a positive way
+	- will first look at him/herself before looking at others to blame
 - Respects work/time of others
 	- not blindly redo stuff, talk with the original authors
 	- will respect choices original authors made and will try to also follow those choices (e.g. style of code)
@@ -67,25 +73,28 @@ We have created [a test which can potentially help you to define your level](htt
         - make sure it's really required (and not because you like it more)
         - communicate about those changes to the author(s) before actually executing on the changes.
 	- work further on things, only replace when required and don't forget to communicate
-	- makes sure that all delivered code/content is on code management systems at any point in time
+	- makes sure that all delivered code/content is on code/document management systems at any point in time
 	- makes sure that it's very easy for others to continue, test and reproduce your work.
 	- makes sure that the work can be found and comments are on the stories at any point in time
-- They see that Personal Development is also important (see below) and are willing to work on it.
+- They see that Personal Development is important (see below) and are willing to work on it.
 - Good in English (written & spoken).
 
 ### Elephant
 
 - An elephant is strong, big, powerful & beautiful.
-- They are promoters of our mission and really believe in what we do.
-- Their energy is very positive and they have a lot of power. 
+- They are promoters of a mission and really believe in what we do.
+- Their energy is mainly positive and they have a lot of power.
 - They manage to put love/respect first in most of what they do.
 - Their values & discipline are great.
-- They are efficient, they are experts in less=more principle.
+- They are efficient, they are good in less=more principle.
 - They are an expert in at least 1 domain.
 - They can quickly go over content or code and assess quality, they execute themselves when needed.
 - They are not afraid to help others and show them the path.
 - They understand and have proven to be able to execute on most of the Personal Development items (see below)
 
+- Can operate in the 4D world
+	- see [stars vs spheres](stars_vs_spheres.md)
+	- will not blame others, but look from within yourself what can be done to fix a situation
 - An Elephant will think before they do (work story = mini project based)
     - can work with story cards and can define them well 
     - can own story cards and communicate in right wat (escalate when required) 
@@ -120,12 +129,13 @@ We have created [a test which can potentially help you to define your level](htt
     - They lead by example.
     - They are modest and uses their wisdom as a way to inspire, not intimidate.
 - They are teachers (can be ad-hoc) and like to help others.
+	- By teaching they learn most.
 - The most important part of a dolphin is they think before they do.
 - His/her values are exceptional and serve as an example (love first).
     - A Dolphin will have evolved a lot in his own personal development
     - They understand and have proven to be able to execute on our Personal Development items (see below)
 - The quality of the work of a Dolphin is way above average.
-- A Dolphin is free
+- A Dolphin is free because a dolphin know who to organize/coordinate circles and does not make much mistakes there.
 	- can choose his/her own work in line with the mission of course
 	- can work when and where he/she wants
 	- can choose how much holiday he/she wants and when
@@ -140,7 +150,7 @@ We have created [a test which can potentially help you to define your level](htt
 - An eagle flies over the world and has the power to do exceptional things.
 - An Eagle is 100% free and completely does what he/she wants.
 - An eagle is very aware & knows all his/her strengths & weaknesses.
-- An eagle is compassionate.
+- An eagle is always compassionate, and knows how to live without judging others, which is super hard to do.
 
 ## Personal Development
 
@@ -148,7 +158,7 @@ We believe it's super important that people work on their own development, quite
 
 Of course, this is only the starting point, growing into your own path is a life mission.
 
-## Self-assesment Test
+## Self-assessment Test
 
-- [Self-assesment Test](https://docs.google.com/spreadsheets/d/1ToPlNUr_R2GeN_PTyVSdb0ITXm6jjRzD6FAw6N1FpVE/edit#gid=999956966)
+- [Self-assessment Test](https://docs.google.com/spreadsheets/d/1ToPlNUr_R2GeN_PTyVSdb0ITXm6jjRzD6FAw6N1FpVE/edit#gid=999956966)
 

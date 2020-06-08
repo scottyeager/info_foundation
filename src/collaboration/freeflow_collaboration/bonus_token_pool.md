@@ -10,37 +10,25 @@ This document describes an alternative way
 ## short description
 
 * Each contributor earns points per month based on
-
     * % of time working for the project 
-    * [P2P collaboration level](p2p_awareness_level.md): nr between 1-5
+    * [P2P awareness level](p2p_awareness_level.md): nr between 1-5
     * Experience level nr: nr between 1-5
-    * Countryindex: where person lives (europe =1, egypt=0.3, ...)
-
+    * Countryindex: where person lives (europe=1, egypt=0.3, ...), is to relate to cost of living
 * Whenever this program starts founders start with a benefit
     * Founders start with X nr of years/months benefit when starting
-
 * Each month a contributor get’s points as follows
-
-    * ```%workingtime x P2PEfficiency x experience_level x countryindex```
-
+    * ```%workingtime x P2PAwareness x experience_level x countryindex```
 * When company get’s to an exit
-
     * After giving every investor first their money back (1x liquidation preference)
-
     * the remaining profit/proceeds get split over the investors & founders following a predefined percentage ```split_percentage```
-
-* All of this is tokenized on a blockchain to make tangible and easy to follow.
 
 ### Example:
 
-* As founder I have 3 years of initial benefit at experience level 4 and P2P efficiency 4
+* As founder I have 3 years of initial benefit at experience level 4 and P2PAwareness 4
 means I start with ```100% * 4 * 4 * 3 *12 * 1 = 576 points```
-
 * The company gets exit after 3 years from now.
-
 * If I stay on same levels this gives me an additional 576 points.
-
-* A developer only worked 2 years for company. P2P efficiency=2, experience=2, country Europe:  ```100%*2*2*2*12*1=96 points```
+* A developer only worked 2 years for company. P2PAwareness=2, experience=2, country Europe:  ```100%*2*2*2*12*1=96 points```
 
 * At exit:
     * Founder = 		1152 points
@@ -58,25 +46,29 @@ means I start with ```100% * 4 * 4 * 3 *12 * 1 = 576 points```
     * Founder gets ```16% * 50%* 50m EUR = 4m EUR```
     * Developer gets ```1.3% * 50%* 50m EUR = 0,32m EUR ```
 
-## Key Principles
+## More Details
 
 ### For who?
 
 - only for contributors to circles which are not business development.
-- business developers (networkers, advocates have other remuneration systems)
+- business developers (networkers, advocates have other remuneration systems = the matchmakers system)
+
+### Why
 
 * Sharing the value creation
 * Ensuring loyalty & sustainability
 * More fair for everyone involved
+* Promote Teamwork = common goals for everyone
+* A living mechanism (flexibility)
+* Be more fair and easy to manage compared to classic stock option plan.
+* Allow for someone not to be functioning at 200% all the time, maybe some less productive period can & should be possible.
 
-## Core Principles:  
+### Principles
 
 * Fairness:
-
-    * Considering where you live (for base salary), PPI 
-(Purchasing Parity Index), we call it country index
+    * Considering where you live (for base salary), PPI (Purchasing Parity Index), we call it country index
 * Objectivity
-* Respect to sharing values, desire to promote loyalty 
+* Respect to sharing values, desire to promote loyalty
 * Motivated for the long haul - seniority effect
 * Respect for human energy = be efficient for providing value add to our community and our investors in the broadest sense of the word..
 
@@ -84,27 +76,17 @@ means I start with ```100% * 4 * 4 * 3 *12 * 1 = 576 points```
 
 * Bonus is collected by a point system,
     * Points are given on a quarterly basis
-* We call each point a BonusToken
+* We call each point a BonusToken (will eventually be registered on a blockchain)
 * Goal is to keep it very simple yet as fair as possible
-
-## Why
-
-* Promote Teamwork = common goals for everyone
-* A living mechanism (flexibility)
-* Be more fair and easy to manage compared to classic stock option plan.
-* Allow for someone not to be functioning at 200% all the time, 
-maybe some less productive period can & should be possible.
 
 ## How
 
 * Everyone can earn points per month
 * Points are calculated as follows
+    * P2PAwareness x % %workingtime x country_index x experience_level
+* The experience_level is defined by the remuneration committee at hiring but also later on.
 
-    * p2p_level x % fulltime x country_index x contribution_level x 1,000
-
-* The contribution_level is defined by the remuneration committee at hiring but also later on.
-
-### contribution_level
+### experience_level
 
 **The remuneration committee** does not take the following parameters in consideration**
 
@@ -113,31 +95,36 @@ maybe some less productive period can & should be possible.
 * Title
 * Gender
 * Location (where do you live/work)
-* Education
 
-In other words, nothing to do with grades or history !!! This is very different compared to a hierarchical company.
+This is very different compared to a hierarchical company.
+
+Its is based on
+
+- experience build up 
+- education (but not related to university e.g. self education works as well)
+- how many years has a person been active this in this domain
+- how efficient will the person be to execute the tasks/job at hand
 
 **The remuneration committee evaluation will be based upon:**
 
-* contribution_level is rewarded at hiring time and are between 1 and 5.
+* experience_level is rewarded at hiring time and are between 1 and 5.
 
 * At Hiring
     * Based on experience and predicted level for the future 
 * After Hiring
-    * Once a year at least, the remuneration committee will review if the contribution_level is in line with expectations.
-    * The contribution_level is a combination of many parameters some examples
+    * Once a year at least, the remuneration committee will review if the experience_level is in line with expectations.
+    * The experience_level is a combination of many parameters some examples
         * Some extra special efforts done which had benefit for our group
         * Projects delivered
-        * Funding found
         * Product created and important for the company (ownership)
 
-* The contribution_level can be changed by the remuneration committee if that would be required. Of course proper communication happens with the contributor.
+* The experience_level can be changed by the remuneration committee if that would be required. Of course proper communication happens with the contributor.
 
 **Who is part of the remuneration committee**
 
 Is different per organization. Please ask the company you work for.
 
-**Contribution Level Score**
+**Exerperience Level Score**
 
 * 1: the default (most people will be here)
 * 2: senior experience, very good in job
@@ -145,7 +132,7 @@ Is different per organization. Please ask the company you work for.
 * 4: exceptional, from experience & contribution level. Super strategic for the company.
 * 5: absolutely exceptional, almost no-one can be here.
 
-### Peer2Peer AwarenessLevel = P2P Efficiency
+### Peer2Peer Awareness Level = P2PAwareness
 
 It has to do with capabilities we achieve in line of working with a circle based organization.
 
@@ -160,7 +147,7 @@ Levels can be found in:
 * Eagle = NA today
 
 
-At least once a year this needs to be reviewed, but much more is better.
+At least once a year this needs to be reviewed, but more is better.
 
 ### How to deal with history
 
