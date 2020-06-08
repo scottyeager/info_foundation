@@ -20,3 +20,7 @@ Starting on April 29, 2020 ThreeFold began a series of updates to the community 
 - [May 26: Hello, WaykiChain!](waykichainintro.md)
 - [May 27: TFT on Liquid & BTC Alpha](liquidbtcalpha.md)
 - [May 29: Harmony (Protocol) Partnership!](harmonyintro.md)
+- [June 1: Live on Liquid and BTC Alpha](liquidbtcalphalive.md)
+- [June 3: Tokyo FinTech Podcast](tokyofintech.md)
+- [June 4: Cointelegraph Coverage](cointelegraph.md)
+- [June 5: Recapping a Few Big Weeks](recap1.md)

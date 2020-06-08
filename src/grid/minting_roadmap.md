@@ -1,7 +1,5 @@
 ## Minting 
 
- > NO TFT HAVE EVER BEEN CREATED (MINTED) WITHOUT CORRESPONDING FARMING & AVAILABLE CAPACITY
-
 ### v1.0 (april 2018)
 
 - measurements done by secure measurement software part of Zero-OS
@@ -37,3 +35,4 @@ We believe this is a very secure way how to measure capacity and use unique capa
 - hardware support for measurement / verification of capacity of farming nodes
 - details to be defined
  
+  > NO TFT HAVE EVER BEEN CREATED (MINTED) WITHOUT CORRESPONDING FARMING & AVAILABLE CAPACITY
