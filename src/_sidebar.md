@@ -104,6 +104,7 @@
       - [Circles Roles](circles_roles.md)
       - [Circles Technical Roles](circles_roles_technical.md)
     - [P2P Awareness Levels](p2p_awareness_level.md)
+    - [3D 4D world](3D_4D_world.md)
   - [Stories Start of All](stories.md)
 	- [Stories pitfalls](story_pitfalls.md)
   - [Goals & Values](goals_values.md)
