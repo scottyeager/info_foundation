@@ -4,7 +4,7 @@
 
 ## Intro
 
-We don't believe in pyramids, we believe in circles where everyone has a very important role to play.
+We don't believe in pyramids (stars), we believe in spheres (circles) where everyone has a very important role to play.
 Freedom comes with a lot of responsibility. Many of us are still stuck in the hierarchical (fear) based way of working. Many want to go higher up and be able to make decisions.
 We strongly don't agree with this way of working, there is no “up”. Everyone is the center of their circle.
 By giving respect to others and being transparent in your plans and work others will follow you based on the quality of your work, not based on the level you have in an organization. In our world, everyone is "a boss" but this needs to be deserved.
@@ -29,7 +29,7 @@ We are an ambitious startup and we can't build our dreams with only pups. We'll 
 
 We also consider the personal growth to be very important, it's not just about business and technology.
 
-We have created [a test which can potentially help you to define your level](https://docs.google.com/spreadsheets/d/1ToPlNUr_R2GeN_PTyVSdb0ITXm6jjRzD6FAw6N1FpVE/edit#gid=999956966)
+We have created [a test which can potentially help you to define your level](https://docs.google.com/spreadsheets/d/1ToPlNUr_R2GeN_PTyVSdb0ITXm6jjRzD6FAw6N1FpVE/edit#gid=738883030). Feedback very welcome, please give us advice how to make changes: kristof@incubaid.com 
 
 ### Pup
 

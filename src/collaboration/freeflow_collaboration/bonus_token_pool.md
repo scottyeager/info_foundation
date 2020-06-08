@@ -46,6 +46,8 @@ means I start with ```100% * 4 * 4 * 3 *12 * 1 = 576 points```
     * Founder gets ```16% * 50%* 50m EUR = 4m EUR```
     * Developer gets ```1.3% * 50%* 50m EUR = 0,32m EUR ```
 
+> In above simulation its just calculated for 1 company. In reality the Bonus Token Pool owns TFT, shares in multiple companies, and as value goes up and liquidity has been achieved it will allow people to change their Bonus Token to a chosen other digital currency (can be USD backed token ofcourse).
+
 ## More Details
 
 ### For who?
