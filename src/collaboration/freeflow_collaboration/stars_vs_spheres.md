@@ -1,4 +1,4 @@
-# stars vs spheres
+# from stars to spheres
 
 ![](img/stars_spheres.png)
 
