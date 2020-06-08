@@ -98,7 +98,7 @@
 - [ThreeFold Foundation](threefold_foundation.md)
 - [Collaboration](collaboration.md)
   - [Freeflow Collaboration](how_to_contribute.md)
-      - [3D 4D world](3D_4D_world.md)
+      - [From stars to circles](stars_vs_spheres.md)
       - [P2P Awareness Levels](p2p_awareness_level.md)
       - [Be A FreeFlow Citizen](freeflow_citizen.md)
       - [Bonus Pool](bonus_token_pool.md)
