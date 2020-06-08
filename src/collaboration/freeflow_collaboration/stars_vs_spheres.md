@@ -5,7 +5,7 @@
 In a pyramid you report to a boss, who will do his weekly reviews to see how you're doing.
 You will probably together create documents to agree on what needs to be achieved, this happens with your boss typically.
 
-> The boss ```trusts``` you to do your job, you trust your boss to protect you and be fair to you.
+> The current paradigm: The boss ```trusts``` you to do your job, you trust your boss to protect you and be fair to you.
 
 This trust based mechanism at first sight feels very nice but has lots of side effects.
 Read [notes_on_reinventing_organizations](notes_on_reinventing_organizations.md), this shows you issues with organization styles.
@@ -24,6 +24,8 @@ Main issues
 - values are very quickly forgotten
 
 A pyramid like system is a system which fits in the current 3D world.
+
+> The new paradigm: circles group people & projects, and we work as a participatory organization to realize our joint goals.
 
 !!!include:3D_4D_world
 
