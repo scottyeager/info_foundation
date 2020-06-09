@@ -6,12 +6,22 @@ The Internet is growing at an accelerated rate. To service this demand a few lar
 
 And you can become a part of this solution by becoming a farmer and add more decentralized capacity to the Threefold Grid.
 
-- [What is the TF Grid](grid_what.md)
-- [What is a Farmer](what_is_a_farmer.md)
-- [Farmer Program](farming_program.md)
-- [Become a Farmer](become_a_farmer.md)
-- [Simulate](farming_simulate.md)
-- [Grid Concepts](grid_concepts.md)
-    - [Cloud Units](cloud_units_4.md)
-    - [Cloud Production Rate](cloud_production_rate.md)
-- [Farm Setup & Management](farm_setup_management.md)
+Learn more about the ThreeFold Grid Technology:
+  - [Introduction](grid_what.md)
+  - [Technology Overview](grid_tech_intro.md)
+  - [Capacity Layer](grid_tech_capacity.md)
+  - [Autonomous Layer](grid_tech_autonomous.md)
+  - [Less is More](grid_tech_zeropeople.md)
+  - [Smart Contract for IT](smart_contract_for_it.md)
+  - [Open-Source Links](grid_tech_opensource.md)
+
+Learn more about Farming on the ThreeFold Grid:
+  - [Farming Explained](what_is_a_farmer.md)
+  - [Farmer Program](farming_program.md)
+  - [Become a Farmer](become_a_farmer.md)
+  - [Capacity Pricing](capacity_pricing_start)
+  - [Simulate](farming_simulate.md)
+  - [Farming Concepts](grid_concepts.md)
+      - [Cloud Units](cloud_units_4.md)
+      - [Cloud Production Rate](cloud_production_rate.md)
+  - [Farm Setup & Management](farm_setup_management.md)
