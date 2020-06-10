@@ -4,30 +4,40 @@
 
 Hi, there! It's nice to see you in this section of the wiki. Thank you for your support!
 
-If you have experience with digital currencies, this should be a breeze. If not, we're here to take you through the process.
-
 ### How to Buy
 
-You have two options for buying the token right now.
+You have three options for buying the token right now:
 
-#### 1. Directly from a ThreeFold Farmer
+1. From a public exchange *(some country limitations)*
+2. Directly from a ThreeFold Farmer
+3. Through Stellar's Decentralized Exchange
+
+**If you have experience with digital currencies,** we recommend you go through one of the public exchanges (note: there are currently some limitations around countries) or through Stellar (for everyone).
+
+**If you do not have experience with digital currencies,** you can either buy directly from a farmer or you can find some instructions within to help you through the process of signing up for and utilizing exchanges. *Keep in mind buying through exchanges does involve some steps and time, but in the end this is because there is an exchange of money happening – and you wouldn't question a bank for wanting to verify your identity, would you?* :)
+
+#### 1. Public Exchanges
+
+- Liquid
+    - [Liquid](https://www.liquid.com/) is a Tokyo-based exchange that got started back in 2014 and is [known for its security](https://hackernoon.com/innovation-in-the-crypto-exchange-space-zf6vp348f).
+    - [Register / Need Help?](tft_liquid.md)
+    - [Buy TFT on Liquid Now](https://app.liquid.com/exchange/TFTBTC)
+<br />
+- BTC-Alpha
+    - [BTC-Alpha](https://btc-alpha.com/en/) is based out of the UK and was our first exchange partner. It has also become a trusted exchange when it comes to security.
+    - [Register / Need Help?](tft_btc_alpha.md)
+    - [Buy TFT on BTC-Alpha Now](https://btc-alpha.com/en/exchange/TFT_BTC)
+
+#### 2. Directly from a ThreeFold Farmer
 - [Mazraa](tft_mazraa.md) – via wire transfer, credit card, or PayPal
-- [BetterToken](tft_bettertoken.md) - via wire transfer, orders only above $ 1000
+- [BetterToken](tft_bettertoken.md) – via wire transfer, orders only above $1000 <br />
+    _Note: Don't know what a ThreeFold Farmer is? Click [here](what_is_a_farmer.md). In the future, you will be able to buy directly from other farmers as well._
 
-_Note: Don't know what a ThreeFold Farmer is? Click [here](what_is_a_farmer.md). In the future, you will be able to buy directly from other farmers as well._
-
-#### 2. On Stellar (through XLM, Stellar's token.)
-_If you already have XLM, you can skip step 1._
+#### 3. On Stellar (through XLM, Stellar's token.)
+_Please note this is probably the more complicated of the options. If you already have XLM, you can skip step 1._
 - [Step 1: Buy XLM with fiat](fiat_to_tft_step_1.md) 
 - [Step 2: Convert to TFT](fiat_to_tft_step_2.md)
 
-Stay tuned about the upcoming announcements on TFT becoming available on [Liquid](tft_liquid.md) and on [BTC Alpha](tft_btc_alpha.md) on [Telegram](https://t.me/threefoldnews) or on the [ThreeFold Forum](https://forum.threefold.io/).
-
-#### Starting on June 1, the TFT will be available on two public exchanges
-
-- [Liquid.com](https://liquid.com)
-- [BTC-Alpha](https://btc-alpha.com/en/)
-
 ### How to Sell
 
-You can sell (or trade) TFT by using either the Stellar DEX or via either of the public exchanges above. We're working on this section. If you need help in the meantime, please feel free to use the support chat or ask on [our forum](https://forum.threefold.io). Thanks!
+You can sell (or trade) TFT by using either of the public exchanges mentioned above or the Stellar DEX. We're working on this section. If you need help in the meantime, please feel free to use the support chat or ask on [our forum](https://forum.threefold.io). Thanks!

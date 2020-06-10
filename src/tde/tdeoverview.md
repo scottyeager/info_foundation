@@ -59,3 +59,4 @@ Each project has its own branded token (Token Name) which can be found (bought, 
 | [TF Grid User Interface](griduserinterface.md)	| TFTUI | 1,000,000		| Easy-to-use interface to provision IT workloads on the grid |
 | [Virtual Reality Museum](vrmuseum.md)	| TFTVR | 500,000		| Virtual reality museum online of 500.000 artworks as part of TF Grid |
 | [TimeBank](timebank.md)	| TFTTB | 333,333		| World first global time token, on top of TF Grid, +200k users today |
+| Money of Good	| TFTMOG | 150,000		| Driving the transition to a new fair and sustainable economy while raising consciousness and well-being through meditation. |
