@@ -22,6 +22,10 @@ Please note Liquid has a mobile application which might be easier for you to do 
 
 **Again, please note you are not fully registered until you verify your account.**
 
+### Enable two-factor authentication
+
+It's quite simple to set up two-factor authentication (2FA) – and from a security standpoint, it is highly recommended. You can learn more about it [here](https://help.liquid.com/en/articles/2273273-how-to-set-up-2fa).
+
 ### Now you are ready to buy tokens on Liquid!
 
 1. First, you'll need to [deposit fiat](https://help.liquid.com/en/articles/2275495-how-do-i-deposit-fiat) into your account
