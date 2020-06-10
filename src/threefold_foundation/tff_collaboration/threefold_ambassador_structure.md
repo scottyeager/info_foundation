@@ -1,3 +1,4 @@
+
 # ThreeFold Foundation Ambassador Structure
 
 ![](./img/ambassadors_world.png)
@@ -45,7 +46,7 @@ circle owner
 
 funding
 
-- 2m TFT will be made available out of [Token Distribution Event](tdeoverview.md)
+- 1m TFT will be made available out of [Token Distribution Event](tdeoverview.md)
 
 ### ThreeFold Circular Collaboration Model
 
