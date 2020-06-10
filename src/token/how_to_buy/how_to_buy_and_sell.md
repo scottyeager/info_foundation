@@ -2,7 +2,9 @@
 
 # It's easy to buy and sell ThreeFold Tokens (TFT)
 
-Hi, there! It's nice to see you in this section of the wiki. Thank you for your support!
+Hi, there! It's nice to see you in this section of the wiki. Thank you for your support! If you would like more information on how buying the token helps ThreeFold, there's some more information [here](tdeoverview.md).
+
+*If you have any questions throughout, please feel free to use the support chat or ask on [our forum](https://forum.threefold.io). Thanks!*
 
 ### How to Buy
 
@@ -11,6 +13,8 @@ You have three options for buying the token right now:
 1. From a public exchange *(some country limitations)*
 2. Directly from a ThreeFold Farmer
 3. Through Stellar's Decentralized Exchange
+
+For TFT, you can use any of the three options. If you want to buy branded TFT, you must use the third option (Stellar).
 
 **If you have experience with digital currencies,** we recommend you go through one of the public exchanges (note: there are currently some limitations around countries) or through Stellar (for everyone).
 
@@ -34,10 +38,17 @@ You have three options for buying the token right now:
     _Note: Don't know what a ThreeFold Farmer is? Click [here](what_is_a_farmer.md). In the future, you will be able to buy directly from other farmers as well._
 
 #### 3. On Stellar (through XLM, Stellar's token.)
-_Please note this is probably the more complicated of the options. If you already have XLM, you can skip step 1._
-- [Step 1: Buy XLM with fiat](fiat_to_tft_step_1.md) 
-- [Step 2: Convert to TFT](fiat_to_tft_step_2.md)
+_Please note this is probably the more involved of the options. It is also the only option if you are specifically looking to buy [branded TFT](tdeoverview.md)._
+
+- Buy TFT [through Stellar's Decentralized Exchange](stellardexprocess.md)
 
 ### How to Sell
 
-You can sell (or trade) TFT by using either of the public exchanges mentioned above or the Stellar DEX. We're working on this section. If you need help in the meantime, please feel free to use the support chat or ask on [our forum](https://forum.threefold.io). Thanks!
+If you would like to, you can sell (or trade) TFT by using either of the public exchanges mentioned above or the Stellar DEX. We're working on this section, but in a nutshell:
+
+- You can get back to fiat currency by doing the reverse of what you did to buy your TFT
+- You'll first need to trade your TFT with one of the trading pairs (BTC, USD, USDT, XLM)
+- Then, you'll need to trade one of the trading pairs for the fiat of your choosing
+- Finally, you can move that fiat back to your bank account
+
+If you need help in the meantime, please feel free to consult the FAQ or support of the exchange you are on, or use the support chat here or ask on [our forum](https://forum.threefold.io). Thanks!

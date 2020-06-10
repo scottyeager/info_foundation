@@ -26,8 +26,13 @@ Please note Liquid has a mobile application which might be easier for you to do 
 
 1. First, you'll need to [deposit fiat](https://help.liquid.com/en/articles/2275495-how-do-i-deposit-fiat) into your account
     - You can also [deposit cryptocurrency](https://help.liquid.com/en/articles/2275493-how-do-i-deposit-crypto) from any exchange to Liquid, if you have it / prefer to do that
-2. Then, you can [start buying TFT](https://app.liquid.com/exchange/TFTBTC)
-    - If you need help on trading, you can find it [here](https://help.liquid.com/en/articles/2275743-how-do-i-make-a-spot-trade)*
+2. Then, you will need to exchange your deposited fiat or cryptocurrency into either BTC (Bitcoin) or USDT (Tether)
+    - These are currently the only trading pairs available with TFT
+    - A trading pair is basically a currency which can be used to exchange or trade with another currency
+    - **If you need help on trading, you can find it [here](https://help.liquid.com/en/articles/2275743-how-do-i-make-a-spot-trade)**
+3. Now you can start buying TFT
+    - If you want to trade BTC, click [here](https://app.liquid.com/exchange/TFTBTC)
+    - If you want to trade with USDT, click [here](https://app.liquid.com/exchange/TFTUSDT)
 
 **Liquid has some [helpful guides](https://help.liquid.com/en/collections/1110080-getting-started-with-your-liquid-account) with everything from getting set up to depositing currencies, trading, and withdrawing – and a good support team.**
 
