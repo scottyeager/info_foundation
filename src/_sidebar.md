@@ -1,5 +1,8 @@
 - [Grid](grid_why.md)
   - [What is the TF Grid](grid_what.md)
+  - [TF Grid Main Tech Components](grid_main_tech.md)
+  - [Smart Contract for IT](smart_contract_for_it.md)
+  - [TF Grid for Blockchains](grid_for_blockchain.md)
   - [What is a Farmer](what_is_a_farmer.md)
   - [Farmer Program](farmer_progam.md)
   - [Become a Farmer](become_a_farmer.md)

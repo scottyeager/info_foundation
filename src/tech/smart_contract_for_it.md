@@ -3,7 +3,7 @@
 
 ![alt_text](smart_contract.png)
 
-Autonomous self-driving IT is possible when we adhere to a few principles from the start:
+Autonomous IT is possible when we adhere to a few principles from the start:
 
 
 
@@ -12,9 +12,7 @@ Autonomous self-driving IT is possible when we adhere to a few principles from t
 
 When we stick to these two principles we have to do a lot of complicated work and thinking upfront - before deploying any architecture components and seeing any benefit.  While a typical IT setup today is based on trial and error continuously improving the installation to a point where everything works the basis of self driving IT is that everything needs to be considered and described in a “contract” type format before deploying any component.  Then and only then you can deploy self-driving and self-healing applications on a grid of capacity
 
-A system that enforces these two principles if the TF Technology stack.  It works as follows:
-
-
+Therefore we need a system that enforces these two principles.  It works as follows:
 
 ![alt_text](smart_contract_2.png)
 
@@ -36,7 +34,7 @@ Creates & Registers the “IT” smart contract in the BCDB (Blockchain Database
 
 **STEP 4: Business IT Workload Stakeholders:**
 
-is optional but when required stakeholder can be defined to give consensus and sign off on the successful execution of the “IT smart contract” delivering the appropriate digital service.  Stakeholders can be defined in a “multi signature” blockchain to provide sign off on regulatory, commercial and other business requirements. Approvals can include IT expert checks the quality of the code, a legal guy checks GDPR, a business person checks budget etc. 
+This is optional but when required stakeholder can be defined to give consensus and sign off on the successful execution of the “IT smart contract” delivering the appropriate digital service.  Stakeholders can be defined in a “multi signature” blockchain to provide sign off on regulatory, commercial and other business requirements. Approvals can include IT expert checks the quality of the code, a legal guy checks GDPR, a business person checks budget etc. 
 
 **STEP 5: The capacity layer: 3 Nodes…**
 

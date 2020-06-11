@@ -6,7 +6,10 @@ The Internet is growing at an accelerated rate. To service this demand a few lar
 
 And you can become a part of this solution by becoming a farmer and add more decentralized capacity to the Threefold Grid.
 
-- [What is the TF Grid](grid_what.md)
+- [TF Grid Explained](grid_what.md)
+- [TF Grid Main Tech Components](grid_main_tech.md)
+- [Smart Contract for IT](smart_contract_for_it.md)
+- [TF Grid for Blockchains](grid_for_blockchain.md)
 - [What is a Farmer](what_is_a_farmer.md)
 - [Farmer Program](farmer_progam.md)
 - [Become a Farmer](become_a_farmer.md)

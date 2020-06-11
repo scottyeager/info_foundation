@@ -10,4 +10,4 @@ There are two types of ThreeFold Farmers
 
 ![](circular_tft.png)
 
-Note that the ThreeFold Foundation's sole purposes is to ensure the expansion of the ThreeFold Grid and its ecosystem according to it's vision and values. To fund these activites, a part of each transaction that pays TFTs for cultivation is going to the ThreeFold Foundation to finance the ThreeFold Grid's expansion and to fund projects that are believed to bring a positive human or planet impact.
+Note that the ThreeFold Foundation's sole purposes is to ensure the expansion of the ThreeFold Grid and its ecosystem according to it's vision and values. To fund these activities, a part of each transaction that pays TFTs for cultivation is going to the ThreeFold Foundation to finance the ThreeFold Grid's expansion and to fund projects that are believed to bring a positive human or planet impact.

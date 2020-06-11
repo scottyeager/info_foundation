@@ -1,14 +1,14 @@
 ![](./img/cap2layer.png)
 
 # The ThreeFold Grid
-The ThreeFold Grid was built from a complete review of the current Internet architecture. It simplifies the architecture though it's autonomous (self-healing) technology, the first of it's kind, and provides a total new approach to the global Internet. It is the largest peer-to-peer grid of Internet (compute, storage and network) capacity in the world. platform on which experiences (or service) can be built on.
+The ThreeFold Grid focuses on true decentralization. To create the ThreeFold Grid, we had to start from scratch and design a new Internet architecture that can be distributed and run without data-centers. Also we had to to develop the necessary systems that can ensure privacy, security and efficiency at all times. The result is a total new approach to the global Internet. 
 
-Many projects live on top of the ThreeFold Grid - such as the ThreeFold Peer2Peer cloud and 3Bot.
+The ThreeFold Grid's capacity is distributed across 21+ countries, cumulating 500+ nodes and +40 PB of capacity, it is the largest peer-to-peer grid in the world.
 
 ## The Capacity Layer
 
 
-An Internet consists itself of storage, compute and network capacity. Think of the capacity layer as being the foundation of the Internet. It is where hardware and software components work together to provide use experience. The ThreeFold Grid's capacity is distributed across 21+ countries, cumulating 500+ nodes and 40 PB of capcity, it is the largest peer-to-peer grid in the world.
+An Internet consists itself of storage, compute and network capacity. Think of the capacity layer as being the foundation of the Internet. It is where hardware and software components work together to provide use experience. 
 
 Any application which can run on Linux, can run on the ThreeFold Grid but with more speed, cost-efficiency, privacy & security, sustainability, and more. Any individual or organization can utilize the ThreeFold Grid's capacity for any current or future IT workload - such as Blockchain, IoT, 5G, AI and VR/AR, and benefit from improved performance.
 
@@ -29,4 +29,6 @@ The idea behind the autonomous layer is to make every individual digitally indep
 
 ![](./img/autoimpltech.png)
 
-ThreeFold's 3Bot SDK (Software Development Kit) technology powers the 3Bot Server. The 3Bot Server is th emain component of the Autonomous Layer.
+ThreeFold's 3Bot SDK (Software Development Kit) technology powers the 3Bot Server. The 3Bot Server is th main component of the Autonomous Layer.
+
+Learn more about the main tech components that constitute the capacity and autonomous layer in the next section.
