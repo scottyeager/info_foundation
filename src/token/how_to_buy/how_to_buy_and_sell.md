@@ -1,8 +1,8 @@
 ![](./img/tftexplo.png)
 
-# You have options for buying & selling ThreeFold Tokens (TFT)
+# Three options for buying & selling ThreeFold Tokens (TFT)
 
-Hi, there! It's nice to see you in this section of the wiki. Thank you for your support! If you would like more information on how buying the token helps ThreeFold, there's some more information [here](tdeoverview.md).
+Hi, there! It's nice to see you in this section of the wiki. Thank you for your support! If you would like more information on how buying the token helps ThreeFold, you can find that [here](tdeoverview.md).
 
 *If you have any questions throughout, please feel free to use the support chat or ask on [our forum](https://forum.threefold.io). Thanks!*
 
