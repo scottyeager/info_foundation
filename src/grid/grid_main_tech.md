@@ -6,7 +6,7 @@
 TODO: Sacha - make it clear that this is for tech people
 ### Zero-OS 
 
-Zero-OS is a minimal operating system serving one single purpose: to make the hardware available to the autonomous layer. Zero-OS is a stateless operating system and is not installed on a storage device in the server. At boot time, the needed binaries and config files are made available over a secure network connection. The zero-footprint locally on the server simplifies administration work needed for these servers, enabling these servers to live anywhere.
+Zero-OS is a minimal operating system serving one single purpose: to make the hardware available to the autonomous layer. Zero-OS is stateless and is not installed on a storage device in the server. At boot time, the needed binaries and config files are made available over a secure network connection. The zero-footprint locally on the server simplifies administration work needed for these servers, enabling these servers to live anywhere.
 
 In Zero-OS, the number of active components and therefore the complexity of the operating system has been brought down to the absolute minimum, making maximum execution capacity available to real-world use cases and applications.
 
@@ -16,7 +16,9 @@ In Zero-OS, the number of active components and therefore the complexity of the 
 
 Read more about the Zero-OS in our [capacity white paper](https://wiki.threefold.io/#/capacity_layer_image).
 
-### 3Bot
+Andreas: would link to Github for techies to go deeper: https://github.com/threefoldtech/zos/tree/master/docs
+
+### 3Bot (more crystal twin decsription not what is needed here> would talk about zero bot in this section. pls check with weymand for more details)
 
 3Bot is the intelligent virtual alter ego which manages everything in our digital life, or the digital life of our company. The 3Bot makes it possible to run workloads in a fully autonomous manner. Your Digital Avatar (the 3Bot) has been designed to be as efficient as possible. The current memory footprint is less than 200MB yet still it is a wiki system, database, blockchain, web server, indexing & search machine, e-commerce system, wallet, decentralized exchange, and more. It can manage millions of objects and is the center of your company or your digital life.
 
