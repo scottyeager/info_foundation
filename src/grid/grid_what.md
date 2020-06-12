@@ -3,7 +3,7 @@
 # The ThreeFold Grid
 The ThreeFold Grid focuses on true decentralization. To create the ThreeFold Grid, we had to start from scratch and design a new Internet architecture that can be distributed and run without data-centers. Also we had to to develop the necessary systems that can ensure privacy, security and efficiency at all times. The result is a total new approach to the global Internet. 
 
-The ThreeFold Grid's capacity is distributed across 21+ countries, cumulating 500+ nodes and +40 PB of capacity, it is the largest peer-to-peer grid in the world.
+The ThreeFold Grid's capacity is distributed across 21+ countries, cumulating 600+ nodes and +80 PB of capacity, it is the largest peer-to-peer grid in the world.
 
 ## The Capacity Layer
 
@@ -23,12 +23,12 @@ ThreeFold's Zero OS operating system is used to run on server or storage hardwar
 
 ![](./img/autolayer.png)
 
-Imagine the autonomous layer as being the bridge between users and the capacity layer. The system is self-driving and self-healing, therefore removing the human requirement for deploying and operating IT infrastructure and services, and vastly minimizing the possibility of hacking. The autnomous technology is what powers the peer-to-peer possibilities on the ThreeFold Grid.
+Imagine the Autonomous Layer as being the bridge between users and the capacity layer. The system is self-driving and self-healing, therefore removing the human requirement for deploying and operating IT infrastructure and services, and vastly minimizing the possibility of hacking. The autnomous technology is what powers the peer-to-peer possibilities on the ThreeFold Grid.
 
-The idea behind the autonomous layer is to make every individual digitally independent and enable a digital world inspired by nature. Just like no one would be able to access your face-to-face conversations or be aware of what you do in your everyday life as you only would know it, the autonomous later undertakes all the processes in the background for you to remain at the center of your digital life and autonomous. 
+The idea behind the autonomous layer is to make every individual digitally independent and enable a digital world inspired by nature. Just like no one would be able to access your face-to-face conversations or be aware of what you do in your everyday life as only you would know it, the Autonomous Layer undertakes all the processes in the background for you to remain at the center of your digital life. 
 
 ![](./img/autoimpltech.png)
 
-ThreeFold's 3Bot SDK (Software Development Kit) technology powers the 3Bot Server. The 3Bot Server is th main component of the Autonomous Layer.
+ThreeFold's 3SDK (Software Development Kit) technology powers the 3Bot Server. The 3Bot Server is th main component of the Autonomous Layer.
 
 Learn more about the main tech components that constitute the capacity and autonomous layer in the next section.
