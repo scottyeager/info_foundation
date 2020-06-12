@@ -18,7 +18,9 @@ For TFT, you can use any of the three options. If you want to buy branded TFT, y
 
 **If you have experience with digital currencies,** we recommend you go through one of the public exchanges (note: there are currently some limitations around countries) or through Stellar (for everyone).
 
-**If you do not have experience with digital currencies,** you can either buy directly from a farmer or you can find some instructions within to help you through the process of signing up for and utilizing exchanges. *Keep in mind buying digital currencies through exchanges does involve some steps and time, but in the end this is because there is an exchange of money happening – so security, verification of identity, and related procedures are quite important.* **Also, feel free to check out our ["New to Tokens"](newtotokens.md) section.**
+**If you do not have experience with digital currencies,** you can either buy directly from a farmer or you can find some instructions within to help you through the process of signing up for and utilizing exchanges. *Keep in mind buying digital currencies through exchanges does involve some steps and time, but in the end this is because there is an exchange of money happening – so security, verification of identity, and related procedures are quite important.*
+
+**Also, feel free to check out our ["New to Tokens"](newtotokens.md) section.**
 
 #### 1. Public Exchanges
 

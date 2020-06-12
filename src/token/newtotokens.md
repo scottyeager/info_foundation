@@ -14,9 +14,9 @@ We believe that digital ecosystems are the future, & will empower billions aroun
 
 You can find the process for TFT in the ["How to Buy" section](how_to_buy_and_sell.md) section.
 
-The truth is, there is a process for buying *all* types of digital currencies. This isn't exclusive to TFT.
+The truth is, there is a process for buying *all* types of digital currencies, particularly when going through an exchange. This isn't exclusive to TFT.
 
-Fundamentally, here is the process of buying TFT:
+Fundamentally, here is the process of buying TFT through an exchange:
 
 1. Add fiat currency (euros or dollars or similar) into an exchange
 2. Convert fiat currency into a digital currency that can be traded with TFT (depends on the exchange)
