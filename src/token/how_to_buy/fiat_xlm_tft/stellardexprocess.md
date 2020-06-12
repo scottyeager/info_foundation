@@ -2,18 +2,18 @@
 
 > Important note: TFTs are not an investment instrument.
 
-Buying TFT (or branded TFT) through Stellar is a more involved process than the other two options but it shouldn't be too difficult. We've broken it down into two main steps:
+Buying TFT (or branded TFT) through Stellar is a bit more of an involved process than the other two options but it shouldn't be too difficult. We've broken it down into two main steps:
 
 ### Step One: Use an Exchange to Buy XLM with Fiat
 
-*Note: If you already have XLM, you can skip down two Step Two.*
+*Note: If you already have XLM, you can skip down to Step Two.*
 
-First, you want to sign up for an exchange with a fiat gateway. Fiat (currency) is the name for euros, dollars, or other government-issued currencies.
+First, you want to sign up for an exchange with a fiat gateway. Fiat (currency) is the name for euros, dollars, or other government-issued currencies. A fiat gateway allows you to enter the world of digital currencies through depositing fiat currency.
 
 - Liquid has a fiat gateway, so that is a good option. You can find more [here](tft_liquid.md).
 - If you cannot use Liquid (e.g. country restriction), feel free to use one of the [exchanges recommended by Stellar](https://www.stellar.org/lumens/exchanges). Each of them are reputable and the choice is yours (feel free to do some research). Additionally, they should have clear instructions for signing up and FAQ's.
 
-Next, you'll need to add funds to your wallet and exchange those funds for XLM.
+Next, you'll need to add funds to your wallet and exchange those funds for XLM. You need XLM in order to buy TFT.
 
 - Each exchange will have its own options for depositing fiat – including credit card and bank transfer. Note that credit card payments typically come with a higher fee but tend to be quicker to go through, whereas a bank transfer may take a couple of days but comes with a lower fee or sometimes none at all.
 - After you successfully deposit fiat, you will want to exchange that for XLM

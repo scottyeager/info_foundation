@@ -1,6 +1,6 @@
 ![](./img/tftexplo.png)
 
-# Three options for buying & selling ThreeFold Tokens (TFT)
+# Multiple options for buying & selling ThreeFold Tokens (TFT)
 
 Hi, there! It's nice to see you in this section of the wiki. Thank you for your support! If you would like more information on how buying the token helps ThreeFold, you can find that [here](tdeoverview.md).
 
@@ -37,7 +37,7 @@ For TFT, you can use any of the three options. If you want to buy branded TFT, y
 - [BetterToken](tft_bettertoken.md) – via wire transfer, orders only above $1000 <br />
     _Note: Don't know what a ThreeFold Farmer is? Click [here](what_is_a_farmer.md). In the future, you will be able to buy directly from other farmers as well._
 
-#### 3. On Stellar (through XLM, Stellar's token.)
+#### 3. On Stellar (through XLM, Stellar's token)
 Please note this is probably the more involved of the options.
 
 - Buy TFT [through Stellar's Decentralized Exchange](stellardexprocess.md)
