@@ -1,4 +1,4 @@
-# Using BTC-Alpha (Available Mid-Late May)
+# Buy from BTC-Alpha
 
 BTC-Alpha was the first cryptocurrency exchange to support ThreeFold Tokens (TFT) and we are happy to be relisted there!
 
