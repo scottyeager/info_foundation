@@ -6,20 +6,27 @@ We have a few different styles of our logo.
 We prefer using the colored logo's with the white or white typography.
 
 **Horizontal versions:**
+
 ![](img/horizontal_color_gray.jpg)
+
 ![](img/horizontal_all_gray.jpg)
 
 (White colored versions also available)
 
 **Vertical versions:**
+
 ![](img/vertical_color_gray.jpg)
+
 ![](img/vertical_all_gray.jpg)
 
 (White colored versions also available)
 
 **Icon's only:**
+
 ![](img/icon_color.jpg)
+
 ![](img/icon_all_gray.jpg)
+
 (White colored versions also available)
 
 
