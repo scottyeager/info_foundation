@@ -37,26 +37,36 @@ The main colors of our logo are.
 
 ### 3-Blue:
 **RGB:** 18/114/84
+
 **#:** 1272B8
+
 **CMYK:** 98/43/0/0
 
 ### 3-Green:
 **RGB:** 89/184/140
+
 **#:** 59B88C
+
 **CMYK:** 79/0/59/0
 
 ### 3-Gray:
 **RGB:** 204/203/202
+
 **#:** CCCBCA
+
 **CMYK:** 0/0/0/26
 
 ### Monochrome logo's and Type Colors
 **White:**
 **RGB:** 255/255/255
+
 **#:** FFFFFF
+
 **CMYK:** 0/0/0/0
 
 **Black:**
 **RGB:** 52/52/52
+
 **#:** 343434
+
 **CMYK:** 0/0/0/94%
