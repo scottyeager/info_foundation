@@ -4,6 +4,6 @@ Imagine the autonomous layer as being the bridge between users and the capacity 
 
 The idea behind the autonomous layer is to make every individual digitally independent and enable a digital world inspired by nature. Just like no one would be able to access your face-to-face conversations or be aware of what you do in your everyday life as you only would know it, the autonomous later undertakes all the processes in the background for you to remain at the center of your digital life.
 
-The autonomous layer is home to the [3Bot](3bot.md) - your digital twin.
+The autonomous layer is home to the [3Bot](3bot_def.md) - your digital twin.
 
 Learn more about the Autonomous Layer on the [ThreeFold website](https://threefold.io/autonomous.html).
