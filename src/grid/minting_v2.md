@@ -24,7 +24,7 @@ The CPR Price is USD 40 as of Q1 2020
 
 ## TFTA Price
 
-Until further notice the following USD TFTA price is used for minting: USD 0.15 plus 2% monthly starting May 2020.
+Until further notice the following USD TFTA price is used for minting: USD 0.15 plus 4% monthly starting May 2020.
 
 ## Difficulty Level
 
