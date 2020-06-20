@@ -22,7 +22,3 @@ Responsibilities
     * proper defined bugs/fr
     * proper branching
   * Work with Project/Product Managers & other stakeholders to make sure the repo structure is ok.
-
-
-
-

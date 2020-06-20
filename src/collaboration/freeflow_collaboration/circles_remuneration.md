@@ -7,7 +7,7 @@ There are 3 ways how people can be remuneration for effort done in our P2P circu
 
 ## Matchmaker (business development)
 
-[The matchmaker remuneration simulator](https://docs.google.com/spreadsheets/d/1UqqAsq-KREhRrxMBMPAMGL1IezabOGXVURtjGa04lDA/edit#gid=1207964356)
+[The matchmaker remuneration simulator](https://docs.google.com/spreadsheets/d/1Bk2gW9DcGi1aTmmNi4Ic_OE-hfVEnig5u41OE6uSbO4/edit#gid=2110277995)
 
 We make distinction between networkers and advocates. Some people take both roles and get the commission of both roles as well.
 

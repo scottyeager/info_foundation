@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Our current 1.x series is in the field and empowers 18.000 CPU cores and more than 40.000.000 GB of storage. Today any container or S3 workload can run by means of the current solution.
+Our current 1.x series is in the field and empowers 18.000 CPU cores and more than 80.000.000 GB of storage. Today any container or S3 workload can run by means of the current solution.
 
 Our aim is 100% autonomous IT and this can be used for quite some usecases.
 

@@ -10,7 +10,7 @@ Does a 100% autonomous IT system exist today? To our knowledge, the answer is **
 
 Our Zero-OS & Zero-Chain is usable and deployed today. The ThreeFold Grid is the first deployment of this unique technology and has been activated Q2 2018.
 
-There are more than 15.000 CPU cores and +40.000.000 GB of storage activated with this technology.
+There are more than 15.000 CPU cores and +80.000.000 GB of storage activated with this technology.
 <!--- TODO: update capacity map --->
 ![image alt text](./img/capacity_map.png)
 
