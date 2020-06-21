@@ -25,7 +25,8 @@
 - web resources
     - We are a proud member of [FreeFlow Nation](https://www.freeflownation.org/) (a global nation, with no borders and equality for all).
     - ThreeFold: http://threefold.io/
-- youtube/podcasts
+- press/youtube/podcasts
+    - [**forbes june 2020 (NEW)**](https://www.forbes.com/sites/johnkoetsier/2020/06/20/largest-distributed-peer-to-peer-grid-on-the-planet-laying-foundation-for-a-decentralized-internet/#6cd5f7a86798)
     - [ivan tech (NEW)](https://www.youtube.com/watch?v=BSZbF7eOp_s&t=987s)
     - [world of wisdom (NEW)](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NDYyNzMzOTExL3NvdW5kcy5yc3M/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODE5NjYwNzU3?ved=0CAcQ38oDahcKEwigm5bVy7LpAhUAAAAAHQAAAAAQBg), first time about crystal twin
     - [building a new P2P internet with Dinis Guarda (NEW)](https://youtu.be/VOZwVaZ9ehw)

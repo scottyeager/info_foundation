@@ -3,6 +3,7 @@
   - [What is a Farmer](what_is_a_farmer.md)
   - [Farmer Program](farming_program.md)
   - [Become a Farmer](become_a_farmer.md)
+  - [Capacity](tfgrid_amount_of_capacity.md)
   - [Capacity Pricing](capacity_pricing_start)
   - [Simulate](farming_simulate.md)
   - [Grid Concepts](grid_concepts.md)
