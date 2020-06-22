@@ -1,7 +1,7 @@
 
 # ThreeFold 
 
-![](img/capacity_now.png)
+![](./img/capacity_now.png)
 
 Snapshot from 21-June 2020, for updated info see https://explorer.grid.tf/
 

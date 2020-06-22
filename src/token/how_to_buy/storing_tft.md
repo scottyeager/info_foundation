@@ -5,7 +5,7 @@
 There are several options to storing your ThreeFold Tokens (TFT). As TFT is an Stellar Blockchain (Lumens/XLM) based currency storing your TFT is possible on any wallet that supports XLM.
 
 ##  The 3bot Connect App
-![alt](3bot_connect_4screens.jpg)
+![alt](./img/3bot_connect_4screens.jpg)
 
 The 3bot Connect app is a product of Threefold. This app is used for more than just storing tokens.
 

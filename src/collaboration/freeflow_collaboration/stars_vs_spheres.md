@@ -1,6 +1,6 @@
 # from stars to spheres
 
-![](img/stars_spheres.png)
+![](./img/stars_spheres.png)
 
 In a pyramid you report to a boss, who will do his weekly reviews to see how you're doing.
 You will probably together create documents to agree on what needs to be achieved, this happens with your boss typically.
