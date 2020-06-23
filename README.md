@@ -4,8 +4,7 @@ Welcome to the ThreeFold Wiki.
 Here is where you'll find all info on anything related to:
 
 - ThreeFold
-- The ThreeFold Grid
-- The ThreeFold Token
+- The ThreeFold Grid & Token
 - 3Bot
 - ThreeFold Technology
 - And more
