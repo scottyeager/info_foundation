@@ -1,5 +1,5 @@
 
-![](./img/certification.png)
+![](img/certification.png)
 
 # farming certification report
 

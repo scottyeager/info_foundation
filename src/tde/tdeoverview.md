@@ -6,31 +6,33 @@
 
 ### Introduction
 
-The TFT is the token of the new internet and has been created 2 years ago. ThreeFold Farmers have been providing a lot of capacity since then.
+The TFT is the token of the new internet and has been created 2 years ago, ThreeFold Farmers have been providing a lot of capacity since then.
 
 We did not do any ICO or other token creation event. Every token is the result of farming of Internet capacity.
 
-We started with our token on our own blockchain but have now moved to the Stellar payment network. ThreeFold Farmers have donated 70m TFT to our Foundation.
+We started with our token on our own blockchain but are now moving to the Stellar payment network. ThreeFold Farmers have donated 70m TFT to our Foundation.
 
-We are organizing a Token Distribution Event on Stellar and 2 public digital currency exchanges (Liquid and BTC-Alpha), to benefit projects (listed below) which have as purposes to provide value to the ThreeFold movement and to do good for our planet.
+We are organizing a Token Distribution Event on Stellar and 2 public digital currency exchanges, to benefit projects (listed below) which have as purposes to provide value to the ThreeFold movement and to do good for our planet.
 
 ### Project Funding
 
-You can buy our ThreeFold Token on 2 public exchanges (Liquid and BTC-Alpha), existing farmers or through Stellar. By buying tokens, you directly support these projects and therefore the growth of the ThreeFold Grid and its experiences.
+You can buy our ThreeFold Token on 2 public exchanges (end May), existing farmers or through Stellar. Its a very easy [process](how_to_buy_and_sell.md).
+
+By buying tokens, you directly support these projects and therefore the growth of the ThreeFold Grid and its experiences.
 
 Its very easy to [buy these TFTs](how_to_buy_and_sell.md) and as such become part of the larger ThreeFold experience. 
 
 ![](./img/projects_overview_pie2.png)
-*Note: This image still needs to be updated to include Money of Good token.*
 
 ### How Does It Work
 
 You can [buy](how_to_buy_and_sell.md) TFT directly or you can also choose to buy a token directly for a specific project, this allows you to decide where the benefit goes of your TFT purchase. 
 
-Each branded TFT is exactly the same as the original TFT. It's just a different name for the same token, but the benefit of your purchase on the Stellar exchange goes directly to the wallet of that specific project.
+We will launch the branded TFTs 10th of May. Each branded TFT is exactly the same as the original TFT.
+Its just a different name for the same token but the benefits of your purchase on the Stellar exchange goes directly to the wallet of that specific project.
 
-Any non-branded TFTs purchased during the TDE will be distributed according to the pie chart above.
-Please do note, we are on public exchanges where the Foundation offers these TFT at 0.15USD during May & June, any other TFT owner can also sell at their own conditions.
+Any non branded TFTs purchased during the TDE will be distributed according to the pie chart above.
+Please do note, we are on a public exchange the Foundation offers these TFT at 0.15USD during May & June, any other TFT owner can also sell at their own conditions.
 
 There will be a maximum of 70m TFT tradable during that period.
 
@@ -57,4 +59,3 @@ Each project has its own branded token (Token Name) which can be found (bought, 
 | [TF Grid User Interface](griduserinterface.md)	| TFTUI | 1,000,000		| Easy-to-use interface to provision IT workloads on the grid |
 | [Virtual Reality Museum](vrmuseum.md)	| TFTVR | 500,000		| Virtual reality museum online of 500.000 artworks as part of TF Grid |
 | [TimeBank](timebank.md)	| TFTTB | 333,333		| World first global time token, on top of TF Grid, +200k users today |
-| [Money of Good](moneyofgood.md)	| TFTMOG | 150,000		| Driving the transition to a new fair and sustainable economy while raising consciousness and well-being through meditation. |

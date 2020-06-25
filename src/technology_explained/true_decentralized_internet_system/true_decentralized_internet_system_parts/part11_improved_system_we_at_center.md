@@ -3,7 +3,7 @@
 
 ![alt_text](./img/yoga_dude.png)
 
-![alt_text](./img/aboutyou.png)
+![alt_text](./img/allaboutyou.png)
 
 
 For the last couple of years blockchain was the synonym for decentralization. We believe this is not True, most blockchains are not decentralized at all. They are distributed systems but not decentralized.

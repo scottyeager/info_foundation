@@ -1,5 +1,5 @@
 
-![](./img/certification.png)
+![](img/certification.png)
 
 # Farming Certification Program (summer 2020)
 

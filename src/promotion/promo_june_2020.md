@@ -13,7 +13,7 @@
 ## Status
 
 - TFGrid = the network of capacity
-    - TFGrid 2.0 is live (see [releasenotes](sdk:releasenotes.md)
+    - TFGrid 2.0 is life (see [releasenotes](sdk:releasenotes.md)
     - TFGrid 2.1 will be delivered in June (see [roadmap](roadmap.md))
 - TFT2.0 has been released on Stellar, BTCAlpha & Liquid
 

@@ -8,7 +8,7 @@ see https://threebotdemo.jimber.org/
 > Some of the features are only demonstration purpose.
 > There are plenty of bugs left in this prototype from Sept 2019.
 
-Feel free to play around, get support on our website through the chatbot.
+Fee free to play around, get support on our website through the chatbot.
 
 You need to install the 3bot connect before you can get access to this demo environment.
 
