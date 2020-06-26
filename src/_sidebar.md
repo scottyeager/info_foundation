@@ -1,7 +1,6 @@
 - [Grid](grid_why.md)
   - [Grid Introduction](grid_what.md)
-  - [Farming](farming_intro.md)
-      - [What Is A Farmer](what_is_a_farmer.md)
+  - [Farming](fwhat_is_farming.md)
       - [How To Become A Farmer](become_a_farmer.md)
       - [Farmer Program](farming_program.md)
       - [Capacity Pricing](capacity_pricing_start)
