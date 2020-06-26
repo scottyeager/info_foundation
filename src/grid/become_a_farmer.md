@@ -34,6 +34,8 @@ If you like to setup your farm yourself without the help from a ThreeFold cooper
 
 Both of the 'set up your own farm' options mean that you need some technical expertise to create your own farm and add your node(s) to the ThreeFold Grid. Details can be found [here](https://sdk3.threefold.io/#/farm_setup_management)
 
+# I Do Not Want To Own Hardware
+
 ## Cloud Farming
 
 Multiple Farming Cooperatives are working on a model where it's made possible to farm TFT and add capacity to the grid without have to put any hardware inside your home.
