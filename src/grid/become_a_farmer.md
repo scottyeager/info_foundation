@@ -30,7 +30,7 @@ If you like to setup your farm yourself without the help from a ThreeFold cooper
 
 **Only the purchase of certified hardware will give you the option to become a certified farmer.**
 
-Both of the 'set up your own farm' options mean that you need some technical expertise to create your own farm and add your node(s) to the ThreeFold Grid. Details can be found [here](https://sdk3.threefold.io/#/farm_setup_management)
+Both of the 'set up your own farm' options mean that you need some technical expertise to create your own farm and add your node(s) to the ThreeFold Grid. Details can be found [here](https://sdk.threefold.io/#/farm_setup_management)
 
 # I Do Not Want To Own Hardware
 
