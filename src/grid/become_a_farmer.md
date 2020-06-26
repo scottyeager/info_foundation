@@ -15,9 +15,7 @@ Become a farmer and contribute to building the foundation of a better internet f
 
 ![alt](preconfig-nodes.jpg)
 
-Two of the main ThreeFold Farming Cooperatives are leading the initiative to spread out the grid further by making hosting a node accessible to all.
-
-Combining their strenght they came up with 3 nodes that fit almost any budget.
+Two of the main ThreeFold Farming Cooperatives (BetterToken & Mazraa) are leading the initiative to spread out the grid further by making hosting a node accessible to all. Combining their strenght they came up with 3 nodes that fit almost any budget.
 The nodes will be release in batches of 50 pieces, and pre-registrations for the next batches are now open.
 
 [Node Info & Pre-register page](https://farmer.threefold.io)
