@@ -1,8 +1,8 @@
 - [Grid](grid_why.md)
   - [Grid Introduction](grid_what.md)
-  - Farming
-      - [What is Farming](what_is_a_farmer.md)
-      - [Become a Farmer](become_a_farmer.md)
+  - [Farming](farming_intro.md)
+      - [What Is A Farmer](what_is_a_farmer.md)
+      - [How To Become A Farmer](become_a_farmer.md)
       - [Farmer Program](farming_program.md)
       - [Capacity Pricing](capacity_pricing_start)
       - [Farming Simulations](farming_simulate.md)
@@ -10,8 +10,8 @@
           - [Cloud Units](cloud_units_4.md)
           - [Cloud Production Rate](cloud_production_rate.md)
       - [Farm Setup & Management](farm_setup_management.md)
-  - Grid Technology 
-      - [Grid Technology Overview](grid_tech_intro.md)
+  - [Grid Technology](grid_tech_intro.md)
+      - [Grid Technology Overview](grid_tech_overview.md)
       - [Capacity Layer](grid_tech_capacity.md)
       - [Autonomous Layer](grid_tech_autonomous.md)
       - [Less is More](grid_tech_zeropeople.md)
