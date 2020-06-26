@@ -59,16 +59,6 @@ The BCDB is used in the 3Bot which means every user has his or her own Blockchai
 
 This technology component alone is significant enough to grow a big startup business on its own. Read more about the BCDB in [our autonomous white paper](autonomous_layer.md).
 
-### **Rivine**
-**Rivine** as blockchain for digital currencies
-We believe the current way that blockchains are created does not make them very suitable for data storage. That is why we have created the BCDB. We believe though that this type of technology is ideal as a store of value – in other words, serve as a digital ledger for digital currencies.
-
-We have built a new type of blockchain which is more efficient than most other blockchains. It does not require mining and is a blockchain specifically designed to be very efficient at storing value.
-
-Any user of our solution can deploy his or her blockchain in a matter of minutes, and by doing so, we have resolved the blockchain dilemma.
-
-Read more about Rivine and the blockchain dilemma in [our autonomous white paper](autonomous_layer.md).
-
 ### **Zero-Store**
 
 The Zero-Store technology contains all the logic to store data in a reliable and effective manner over multiple devices in multiple geo-locations. Embedded in the software are basic storage primitives to process data before sending it to distributed devices, which are aimed at increasing the performance of searching, finding data, and securing data.
@@ -117,6 +107,11 @@ We call Core-0 the combination of all the low level components of Zero-OS. Each 
 
 Is the process manager for an individual container. Because of the secure nature of the 3Nodes, a direct connection from a user to a node is not possible, but Core-X allow users to connect to their own containers and manage the processes inside. It has a web interface as well as a REST interface. So, the containers can be managed both manually and programatically.
 <!-- tabs:end -->
+
+
+### **Stellar**
+**Stellar** ThreeFold Uses the Stellar Blockchain for issuance of the ThreeFold Token(TFT).
+Stellar's values match very well with ThreeFold's values, and their technology is proven and had a huge community backing it.
 
 ## Integrated Technology
 
