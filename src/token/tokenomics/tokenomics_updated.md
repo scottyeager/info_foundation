@@ -44,4 +44,22 @@ This visualization encompasses all information that is relevant for the farming 
 > Important note: TFTs are not an investment instrument.
 
 
-!!!include:cultivation
+![image alt text](simulation1.jpg)
+
+![image alt text](simulation2.jpg)
+
+![image alt text](simulation3.jpg)
+
+![image alt text](simulation4.jpg)
+
+![image alt text](simulation5.jpg)
+
+![image alt text](simulation6.jpg)
+
+![image alt text](simulation7.jpg)
+
+![image alt text](simulation8.jpg)
+
+![image alt text](simulation9.jpg)
+
+![image alt text](simulation10.jpg)
