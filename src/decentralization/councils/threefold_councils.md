@@ -1,7 +1,7 @@
 # ThreeFold Councils
 
 ![alt](threefold-councils.jpg)
-- #TODO: get content from https://github.com/threefoldfoundation/info_councils also the gdocs in separate sub wiki sepaeate docs
+
 
 Following the true decentralized nature of ThreeFold we have instated 3 different councils to make decisions in regards to Foundation, Technology, & The Grid.
 
@@ -22,3 +22,6 @@ This council is made up of 9 people involved in the decision making in regards t
 The Grid Council will also be the main touchpoint with and for the ThreeFold Community.
 
 [learn more](grid_council.md)
+
+
+- #TODO: get content from https://github.com/threefoldfoundation/info_councils also the gdocs in separate sub wiki sepaeate docs
