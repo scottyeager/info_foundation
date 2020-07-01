@@ -1,5 +1,3 @@
-![](./img/tf_solution.png)
-
 # ThreeFold Grid: The Capacity Layer
 
 !!!include:part1_the_3node.md

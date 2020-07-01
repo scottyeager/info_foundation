@@ -1,4 +1,3 @@
-![](./img/tf_solution.png)
 
 # ThreeFold Grid: The Autonomous Layer
 
