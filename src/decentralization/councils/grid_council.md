@@ -45,9 +45,9 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 
 Don’t take being a member of the council too lightly, it's a serious responsibility.
 
-* **Kristof**
+* [Kristof](kristof.md)
 
-* **Adnan**
+* [Adnan](adnan.md)
 
 * **Jan**
 
