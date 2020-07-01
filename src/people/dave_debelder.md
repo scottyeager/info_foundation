@@ -1,4 +1,4 @@
-![Dave](dave.jpg)
+![Dave](dave.jpeg)
 
 # Dave De Belder
 needs info
