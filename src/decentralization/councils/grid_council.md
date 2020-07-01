@@ -1,10 +1,10 @@
-# **Threefold Grid Council**
+# Threefold Grid Council
 
 Guardians are the members of the grid council, there are 9 of them.
 
 Together they take the required decisions for the ThreeFold Grid Related day2day activities.
 
-## **What is it**
+## What is it
 
 * The grid council is the group of people doing the day2day management for the ThreeFold Grid Related decisions.
 
@@ -29,7 +29,7 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 
     * This approval cycle will happen in Summer 2020.
 
-## **Relation with the wisdom council**
+## Relation with the wisdom council
 
 * Wisdom council is managing the Foundation, this only happens couple of times per year.
 
@@ -41,7 +41,7 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 
 * Grid council is day to day operation
 
-## **Candidates **
+## Candidates 
 
 Don’t take being a member of the council too lightly, it's a serious responsibility.
 
@@ -49,29 +49,29 @@ Don’t take being a member of the council too lightly, it's a serious responsib
 
 * [Adnan](adnan.md)
 
-* **Jan**
+* [Jan](jan.md)
 
-* Rob
+* [Rob](rob.md)
 
-* **Andreas**
+* [Andreas](andreas.md)
 
-* **Weynand**
+* [Weynand](weynand.md)
 
-* Chris
+* [Chris](chris.md)
 
-* **Owen**
+* [Owen](owen.md)
 
-* **Dave**
+* [Dave](dave.md)
 
-### **Additional candidates**
+### Additional candidates
 
-* Sam
+* [Sam](sam.md)
 
-* Sacha
+* [Sacha](sacha.md)
 
-* Nickolay
+* [Nickolay](nickolay.md)
 
-## **Fit for duty requirements**
+## Fit for duty requirements
 
 * There is no ego involved by being a guardian.
 
@@ -112,7 +112,7 @@ Don’t take being a member of the council too lightly, it's a serious responsib
 
 * Willing to be a Guardian for at least 2 years starting your submission.
 
-## **Details**
+## Details
 
 * Remuneration
 
@@ -122,7 +122,7 @@ Don’t take being a member of the council too lightly, it's a serious responsib
 
     * A public visible circle on circles.threefold.me
 
-## **Voting**
+## Voting
 
 * Default voting rights: 66% majority required
 
@@ -144,7 +144,7 @@ Don’t take being a member of the council too lightly, it's a serious responsib
 
 * Transactions can only happen if at least 6 of the 9 people sign.
 
-## **Onboarding**
+## Onboarding
 
 * Personal page on Alliance for conscious Internet (see Karoline for help)
 

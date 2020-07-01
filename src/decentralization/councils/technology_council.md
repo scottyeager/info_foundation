@@ -1,10 +1,10 @@
-# **Threefold Technology Council**
+# Threefold Technology Council
 
 Technology guardians are the members of the threefold technology council, there are 9 of them.
 
 Together they take the required decisions for the ThreeFold Grid Related day2day technology decisions.
 
-## **What is it**
+## What is it
 
 * Group of people who evaluate to their best abilities the technology as needs to be deployed in the grid
 
@@ -29,41 +29,37 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 
     * This approval cycle will happen in asap.
 
-## **Relation with the grid council**
+## Relation with the grid council
 
 * This technology council is the technical brain for the grid council
 
-## **Candidates **
+## Candidates 
 
 Don’t take being a member of this council lightly, it's a serious responsibility.
 
-* **Christophe**
+* [Christophe](christophe_dcmp.md)
 
-* **Jan**
+* [Jan](jan_de_landtsheer.md)
 
-* **Rob**
+* [Rob](rob_van_mieghem.md)
 
-* **Thabet**
+* [Thabet](ahmed_thabet.md)
 
-* Jona:s NO
+* [Lee](lee_smet.md)
 
-* **Kristof** (Jimber): NO
+* [Azmy](muhammed_azmy.md)
 
-* **Lee**
+* [Maxime](maxime_daniel.md)
 
-* **Azmy **
+* [Sukh](sukh.md)
 
-* **Maxime**
-
-* Sukh
-
-* Reem
+* [Reem](reem_khamis.md)
 
 * … ?
 
 The council needs 9 members.
 
-## **Fit for duty requirements**
+## Fit for duty requirements
 
 * You really really believe that what is being developed for ThreeFold grid is super important for the planet in an attempt to help raise awareness (consciousness), but in this case for the digital world (internet). You don’t look at this like some technical gimmick but a real necessity.
 
@@ -108,7 +104,7 @@ The council needs 9 members.
 
 * Willing to be a Technology Guardian for at least 2 years starting your submission.
 
-## **Our charter**
+## Our charter
 
 We will do everything we can to protect the technical sanity of the ThreeFold Grid core technologies.
 
@@ -122,7 +118,7 @@ We evaluate based on
 
 * Sustainability
 
-## **Details**
+## Details
 
 * Remuneration
 
@@ -134,7 +130,7 @@ We evaluate based on
 
 * Expect this to be +- 4-8h of work per month and needs to be done outside your normal work responsibilities.
 
-## **Voting**
+## Voting
 
 * Default voting rights: 66% majority required
 
@@ -156,7 +152,7 @@ We evaluate based on
 
 * Transactions can only happen if at least 6 of the 9 people sign.
 
-## **Onboarding**
+## Onboarding
 
 * Personal page on Alliance for conscious Internet (see Karoline for help)
 
