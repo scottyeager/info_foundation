@@ -1,6 +1,8 @@
-# decentralization_status
+# Decentralization Status
 
-We believe we are good under way to be a very decentralized movement.
+![](./img/decentralization33.png)
+
+We believe we are good under way to be a decentralized movement.
 
 There are more than 100 independent active parties building the TFGrid today.
 

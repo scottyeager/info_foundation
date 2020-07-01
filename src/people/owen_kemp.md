@@ -1,4 +1,4 @@
-![owen kemp](owen.jpg)
+![owen kemp](./img/owen.jpg)
 
 # Owen Kemp - @???
 still needs info

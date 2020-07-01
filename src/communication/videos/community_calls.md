@@ -1,5 +1,6 @@
 # Community Calls & Events
-A selection of Events, Keynote Speeches, and Community Calls.
+
+A selection of Events, Keynote Talks, and Community Calls.
 
   - [TF Grid SDK Intro + Demo](sdkintrodemo.md)
   - [Token Intro + Simulator Demo](tokenandsimulator.md)

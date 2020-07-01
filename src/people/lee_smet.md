@@ -1,4 +1,4 @@
-![lee](lee.jpg)
+![lee](./img/lee.jpg)
 
 # Lee Smet - @leesmet
 In order to have a nice planet to live on for the next decades, we need to preserve what we have now. This means we need to stop wasting scarce resources,

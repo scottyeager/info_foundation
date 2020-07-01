@@ -22,6 +22,12 @@
   - [Tokyo FinTech Podcast](tokyofintech.md)
   - [Cointelegraph Coverage](cointelegraph.md)
   - [Recapping Recent Events](recap1.md)
+  - [Blockchain Updates](blockchainupdates1.md)
+  - [Crystal Twin](crystaltwinintro.md)
+  - [Dinis Guarda Interview](kristofdinis.md)
+  - [Dear Elon Musk](dearelonmusk.md)
+  - [Forbes Coverage](forbescoverage.md)
+  - [ThreeFold Tech MOU](june27update.md)
 - [Community Calls & Events](community_calls.md)
   - [ThreeFold Grid SDK](sdkintrodemo.md)
   - [Token Intro + Simulator](tokenandsimulator.md)
@@ -35,3 +41,5 @@
   - [Token Session 2019](tokensession_oct2019.md)
   - [ThreeFold Wallet Dos and Don'ts](wallet_do_dont.md)
   - [Technology Overview 2018](wallet_do_dont.md)
+
+
