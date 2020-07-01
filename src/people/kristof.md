@@ -1,4 +1,4 @@
-# Kristof
+# Kristof de Spiegeleer
 
 ![](./img/kristof.png)
 

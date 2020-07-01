@@ -1,4 +1,4 @@
-![christophe](../grid_council/img/christophe_dcpm.jpg)
+![Christophe de Carvalho Pereira Martins](../grid_council/img/christophe_dcpm.jpg)
 
 # Christophe de Carvalho Pereira Martins - @zaibon
 
