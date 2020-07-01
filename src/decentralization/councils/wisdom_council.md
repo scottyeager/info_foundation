@@ -17,4 +17,4 @@ Based upon the ageless principles of the Wisdom Council equation, Members will c
 ## PROCESS
 The Wisdom Council members will be notified once per quarter as to the current do-good requests and account financial status to decide when to meet and make distribution decisions of how much, when and to whom the agreed funds go to.
 
-[Read all about the Wisdom Council on ConsciousInternet.org](https://www.consciousinternet.org/#/council)
+[Learn more about the Wisdom Council on www.consciousinternet.org](https://www.consciousinternet.org/#/council)
