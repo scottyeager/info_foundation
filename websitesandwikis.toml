@@ -21,7 +21,7 @@ branchswitch = false
 #path in the repo where the info is, std "src"
 srcdir = "src"
 #environment name (for example:  production, staging, testing)
-environment = "testing"
+environment = ""
 
 [[wiki]]
 #unique name for the wiki
@@ -40,4 +40,4 @@ branchswitch = false
 #path in the repo where the info is, std "src"
 srcdir = "src"
 #environment name (for example:  production, staging, testing)
-environment = "testing"
+environment = ""
