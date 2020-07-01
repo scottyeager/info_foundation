@@ -47,29 +47,29 @@ Don’t take being a member of the council too lightly, it's a serious responsib
 
 * [Kristof](kristof.md)
 
-* [Adnan](adnan.md)
+* [Adnan](adnan_fatayerji.md)
 
-* [Jan](jan.md)
+* [Jan](jan_de_landtsheer.md)
 
-* [Rob](rob.md)
+* [Rob](rob_van_mieghem.md)
 
-* [Andreas](andreas.md)
+* [Andreas](andreas_hartl.md)
 
 * [Weynand](weynand.md)
 
-* [Chris](chris.md)
+* [Chris](chris_hutton.md)
 
-* [Owen](owen.md)
+* [Owen](owen_kemp.md)
 
-* [Dave](dave.md)
+* [Dave](dave_debelder.md)
 
 ### Additional candidates
 
-* [Sam](sam.md)
+* [Sam](sam_taggart.md)
 
-* [Sacha](sacha.md)
+* [Sacha](sacha_obeegadoo.md)
 
-* [Nickolay](nickolay.md)
+* [Nickolay](nickolay_babenko.md)
 
 ## Fit for duty requirements
 
