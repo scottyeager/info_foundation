@@ -1,6 +1,15 @@
 # Wisdom Council
 
 ![wisdom council](wisdom-council.jpg)
+
+ThreeFold Foundation receives through the blockchain 10% of all capacity sold on the Threefold Grid. These proceeds are used to further develop the ThreeFold Movement and later to benefit planetary doing good projects
+
+12 members have following function
+
+- protect the interests of the ThreeFold Foundation
+- approve TFT donations to doing good projects
+- oversee the way how the ThreeFold tokens are used to benefit the planet and the ThreeFold movement.
+
 In order to make balanced, fair and effective decisions regarding Three Fold Foundation funds distribution, ThreeFold Foundation has adopted the Wisdom Council system as a resource model of harmonious communication
 
 This process is based upon ancient leadership practices and modern social science techniques as a way to consider all perspectives of the Members in order to make decisions that are in the greatest interest of the Mission and for the good of all.
