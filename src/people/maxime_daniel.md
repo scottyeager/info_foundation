@@ -1,13 +1,13 @@
-![maxime daniel](./img/maxime.jpg)
+![maxime daniel](maxime_daniel.jpg)
 
 # Maxime Daniel - @maxux
 
-I'm passionate by programming since I'm 10. I always had this passion to build something to help
-me or people to achieve doing things we want, easier, faster and more accessible. My contribution to ThreeFold
-is, in my opinion, completly in line with my passion and what I try to achieve daily, but in a large scale:
-make the world better by writing software to help people and the planet.
+I have had a passion for programming ever since I was 10 years old. I love building something that helps
+me or people to achieve goals easier, faster, and more accessible. My contribution to ThreeFold
+is, in my opinion, completely in line with my passion and what I try to achieve daily, but in a large scale:
+Make the world better by writing software to help people and the planet.
 
-I like doing choice I think right and control my life, not let my life being controlled by others. I think
+I like haveing the choic to do what I think is right and control my own life, and not let my life be controlled by others. I think
 privacy and equity is important to everyone and fair.
 
 By contributing to Zero-OS and side projects, like 0-db, 0-flist, 0-initramfs, ... I think lot of my life goals

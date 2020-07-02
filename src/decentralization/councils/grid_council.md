@@ -57,8 +57,6 @@ Don’t take being a member of the council too lightly, it's a serious responsib
 
 * [Weynand](weynand.md)
 
-* [Chris](chris_hutton.md)
-
 * [Owen](owen_kemp.md)
 
 * [Christophe](christophe_dcmp.md)
@@ -67,6 +65,8 @@ Don’t take being a member of the council too lightly, it's a serious responsib
 
 <!--- 
 ### Additional candidates
+
+* [Chris](chris_hutton.md)
 
 * [Sam](sam_taggart.md)
 
