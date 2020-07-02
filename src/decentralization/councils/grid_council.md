@@ -61,8 +61,11 @@ Don’t take being a member of the council too lightly, it's a serious responsib
 
 * [Owen](owen_kemp.md)
 
+* [Christophe](christophe_dcmp.md)
+
 * [Dave](dave_debelder.md)
 
+<!--- 
 ### Additional candidates
 
 * [Sam](sam_taggart.md)
@@ -70,6 +73,7 @@ Don’t take being a member of the council too lightly, it's a serious responsib
 * [Sacha](sacha_obeegadoo.md)
 
 * [Nickolay](nickolay_babenko.md)
+-->
 
 ## Fit for duty requirements
 

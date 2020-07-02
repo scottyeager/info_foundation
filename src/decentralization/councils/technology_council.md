@@ -51,10 +51,6 @@ Don’t take being a member of this council lightly, it's a serious responsibili
 
 * [Maxime](maxime_daniel.md)
 
-* [Sukh](sukh.md)
-
-* [Reem](reem_khamis.md)
-
 * … ?
 
 The council needs 9 members.
