@@ -1,3 +1,3 @@
-![](jan.jpg)
+![](./img/jan.jpg)
 
 # Jan De Landtsheer

@@ -2,6 +2,8 @@
 
 Starting on April 29, 2020 ThreeFold began a series of updates to the community and the outside world regarding the ThreeFold Grid and its evolving peer-to-peer ecosystem. The summary for these announcements can be found here in this section.
 
+## 2020
+
 - [April 29: ThreeFold Grid 2.0 Launch](threefold_grid_2_0.md)
 - [May 5: Conscious Internet Alliance Launch](conscious_internet_alliance.md)
 - [May 6: ThreeFold Demo's For WeWork FinTech Community](weworkfintech.md)
@@ -30,3 +32,4 @@ Starting on April 29, 2020 ThreeFold began a series of updates to the community 
 - [June 17: Dear Elon Musk](dearelonmusk.md)
 - [June 21: ThreeFold on Forbes](forbescoverage.md)
 - [June 27: ThreeFold Tech MOU](june27update.md)
+

@@ -16,7 +16,7 @@ Coordinate work between the circles.
 - [Promotion](promotion/foundation_token_ecosystem_promotion.md): Adnan Fatayerji
 - [Tokens](tokens/tokens.md): Adnan Fatayerji
 - [Ambassadors](ambassadors/ambassadors.md): Owen Kemp
-- [Finance & Legal](finance_legal/finance_legal.md): Georges Georgiou
+- [Finance & Legal](finance_legal/finance_legal.md): 
 - [Innovate](innovate/innovate.md): Kristof De Spiegeleer
 - [Impact](impact/impact.md): Chris Hutton
 - [Love](love/love.md): Olivia Jurado
