@@ -175,4 +175,4 @@
   - [ThreeFold Wallpapers](threefold_wallpapers.md)
 - [Simulator](simulator_configure.md)
 - [Grid Manual](sdk_intro.md)
-
+- [Disclaimer](disclaimer.md)
