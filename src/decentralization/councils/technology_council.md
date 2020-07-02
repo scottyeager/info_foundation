@@ -47,7 +47,7 @@ Don’t take being a member of this council lightly, it's a serious responsibili
 
 * [Lee](lee_smet.md)
 
-* [Azmy](muhammed_azmy.md)
+* [Azmy](muhamed_azmy.md)
 
 * [Maxime](maxime_daniel.md)
 
