@@ -1,4 +1,4 @@
-![maxime daniel](maxime_daniel.jpg)
+![maxime daniel](maxime.jpg)
 
 # Maxime Daniel - @maxux
 
