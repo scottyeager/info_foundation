@@ -19,14 +19,10 @@ European Farming Cooperative for the foundation
 - [limited liable company in belgium](http://www.ejustice.just.fgov.be/tsv_pdf/2016/11/30/16324281.pdf)
 - Peter is the managing director.
 
-## May 2020
+## July 2020
 
-BetterToken becomes 100% daughter of our [not for profit ThreeFold VZW](threefold_vzw.md) in Belgium. This means BettertToken is 100% part of ThreeFold Foundation.
-
+BetterToken became 100% daughter of our [not for profit ThreeFold VZW](threefold_vzw.md) in Belgium. This means BettertToken is 100% part of ThreeFold Foundation.
 
 Somewhere in 2020, planning to rebrand the company to ThreeFold Europe.
 
-Bettertoken continues to be farming cooperative for europe.
-
-
-
+Bettertoken continues to be farming cooperative for Europe.

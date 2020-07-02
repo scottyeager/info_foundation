@@ -32,3 +32,5 @@ ThreeFold FZC remains our operational HQ from out of which all Foundation activi
 ![](./img/license_threefoldfzc.png ':size=800x900')
 
 Adnan is the managing director.
+
+ThreeFold FZC, a free zone establishment with License No: 17194 with its principal place of business at Q1-07-038/B SAIF Zone, United Arab Emirates, PO Box 514608

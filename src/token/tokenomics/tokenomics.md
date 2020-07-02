@@ -4,13 +4,10 @@
 
 # Threefold Tokenomics In 4 Easy Steps
 
-Step 1. Farmers rent capacity to the ThreeFold Grid and get TFTs in return.
-
-Step 2. Farmers exchange their TFTs for other crypto or fiat currencies. Users exchange their fiat or crypto currencies for TFTs.
-
-Step 3. Users reserve capacity with TFTs, they pay farmers and part goes to the foundation.
-
-Step 4. Grid provides the reserved capacity to the user and the user can deploy the workload.		 
+- Step 1. Farmers rent capacity to the ThreeFold Grid and get TFTs in return.
+- Step 2. Farmers exchange their TFTs for other crypto or fiat currencies. Users exchange their fiat or crypto currencies for TFTs.
+- Step 3. Users reserve capacity with TFTs, they pay farmers and part goes to the foundation.
+- Step 4. Grid provides the reserved capacity to the user and the user can deploy the workload.		 
 
 
 # Earning Tokens
@@ -28,9 +25,7 @@ When a person puts capacity on the ThreeFold Grid, this process is called Farmin
 The number of tokens the farmer earns is depending on the server/Node specs of the Farmers hardware:
 
 * Compute Capacity (CPU)
-
 * Memory Capacity (RAM)
-
 * Storage Capacity (SSD/HDD)
 
 These factors combine to a Cloud Production Rate (CPR). The higher the CPR, the more tokens are earned.
@@ -48,7 +43,7 @@ Anyone can run applications and workloads on top of the ThreeFold Grid. Capacity
 
 In order to promote the growth and development of the ThreeFold Grid, a percentage of all cultivation transactions goes to the ThreeFold Foundation.
 
-This percentage equals 10% at the moment. After 24 months of farming, it will go down to 5%.
+This percentage equals 10% at the moment.
 
 > Important note: TFTs are not an investment instrument.
 

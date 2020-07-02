@@ -2,9 +2,7 @@
 
 # Buy TFT From a Farmer: Mazraa 
 
-*Please note if you are from the U.S.A., please get in touch with Mazraa directly at connect@mazraa.io!*
-
-There are three ways to purchase TFT from Mazraa:
+There are two ways to purchase TFT from Mazraa:
 
 ### 1. Wire Transfer
 

@@ -20,7 +20,7 @@ The CPR Price is USD 40 as of Q1 2020
 
 ## Cloud Units
 
-![](img/cloud_units.png)
+![](./img/cloud_units.png)
 
 ## TFTA Price
 
