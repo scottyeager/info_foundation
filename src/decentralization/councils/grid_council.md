@@ -7,38 +7,24 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 ## What is it
 
 * The grid council is the group of people doing the day2day management for the ThreeFold Grid Related decisions.
-
 * Some examples of decisions which need to be taken
-
     * Approving the minting operation (signing)
-
     * Approving day to day decisions e.g. remuneration for people who helped the ThreeFold (token salary) .
-
     * Approving new partners of the Alliance of Conscious Internet
-
     * Approving of the members of the [ThreeFold Technology Council](https://docs.google.com/document/d/1o8cXyYyWS-9IJmUsWey2RpuDC4n57F9yPa1oP7nO-6Y/edit#)
-
     * Approval of polls done with community
-
     * Approval of any fundamental change for any of the grid operational items
-
 * The grid council has been approved by the wisdom council.
-
     * Each Guardian was interviewed by the council and approved to align with 
 "fit for duty requirements"
-
     * This approval cycle will happen in Summer 2020.
 
 ## Relation with the wisdom council
 
 * Wisdom council is managing the Foundation, this only happens couple of times per year.
-
     * Budgets.
-
     * Approval of directors.
-
     * The Foundation is a "VZW" in Belgium which is an official not for-profit structure.
-
 * Grid council is day to day operation
 
 ## Candidates 
@@ -46,23 +32,14 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 Don’t take being a member of the council too lightly, it's a serious responsibility.
 
 * [Kristof](kristof.md)
-
 * [Adnan](adnan_fatayerji.md)
-
 * [Jan](jan_de_landtsheer.md)
-
 * [Rob](rob_van_mieghem.md)
-
 * [Andreas](andreas_hartl.md)
-
 * [Weynand](weynand.md)
-
 * [Chris](chris_hutton.md)
-
 * [Owen](owen_kemp.md)
-
 * [Christophe](christophe_dcmp.md)
-
 * [Dave](dave_debelder.md)
 
 <!--- 
