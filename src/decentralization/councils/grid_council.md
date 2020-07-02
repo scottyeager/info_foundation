@@ -45,6 +45,8 @@ Don’t take being a member of the council too lightly, it's a serious responsib
 <!--- 
 ### Additional candidates
 
+* [Chris](chris_hutton.md)
+
 * [Sam](sam_taggart.md)
 
 * [Sacha](sacha_obeegadoo.md)
