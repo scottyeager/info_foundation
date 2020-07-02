@@ -2,8 +2,6 @@
 
 ![](./img/decentralization33.png)
 
-
-
 - [decentralization_status](decentralization_status.md)
 - [decentralization_manifesto](decentralization_manifesto.md)
 - [updates](tf_updates.md)
