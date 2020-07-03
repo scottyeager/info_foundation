@@ -30,7 +30,7 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 
 * This technology council is the technical brain for the grid council.
 
-## Candidates 
+## Candidates
 
 Don’t take being a member of this council lightly, it's a serious responsibility.
 
@@ -44,7 +44,7 @@ Don’t take being a member of this council lightly, it's a serious responsibili
 
 * [Lee Smet](lee_smet.md)
 
-* [Muhamad Azmy](muhamed_azmy.md)
+* [Muhamad Azmy](muhamad_azmy.md)
 
 * [Maxime Daniel](maxime_daniel.md)
 
@@ -60,13 +60,13 @@ Don’t take being a member of this council lightly, it's a serious responsibili
 
 * Work on self-development
 
-    * Realize we know nothing and are nothing but will always work in the best interest of the planet. The more we learn the less we know. 
+    * Realize we know nothing and are nothing but will always work in the best interest of the planet. The more we learn the less we know.
 
     * Don’t blame others, change starts with ourselves.
 
     * We see the benefit of self-improvement work e.g. meditation, self-reflection, sessions with energy healer / spiritual coach, …
 
-* Not addicted to 
+* Not addicted to
 
     * Sex, Food, Substances, Gambling, Power, Money
 
@@ -80,7 +80,7 @@ Don’t take being a member of this council lightly, it's a serious responsibili
 
     * [https://freeflownation.org/manifesto.html](https://freeflownation.org/manifesto.html)
 
-    * We know them, we understand them, we agree with them 
+    * We know them, we understand them, we agree with them
 (if not we say what to change now)
 
 * If we have a shortcoming in one of the above we are not afraid to be open about it and express our desire to improve on it.
@@ -142,5 +142,3 @@ We evaluate based on
 * Each vote is a transaction prepared (sending 1 TFT from voting wallet to voting wallet) with the voting ID and voting hash (hash is a unique key guaranteeing the validity of the content of the voting request) as part of the transaction description. This makes sure that everyone with 100% certainty agrees on the voting request and signs the transaction.
 
 * Transactions can only happen if at least 5 of the 7 people sign.
-
-
