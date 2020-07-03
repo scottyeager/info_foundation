@@ -11,7 +11,7 @@ Become a farmer and contribute to building the foundation of a better internet f
 
 # I Want To Own Hardware
 
-## Preconfigured 3Nodes
+## Home and Office 3Node Pre-Register
 
 ![alt](./img/preconfig_nodes.jpg)
 
@@ -19,6 +19,17 @@ Two of the main ThreeFold Farming Cooperatives (BetterToken & Mazraa) are leadin
 The nodes will be release in batches of 50 pieces, and pre-registrations for the next batches are now open.
 
 **[Node Info & Pre-register page](https://farmer.threefold.io)**
+
+## Large Farm Equipment
+
+![4ig ThreeFold Farming](4ignodes.jpg)
+
+4iG provides HPE Farming Equipments in different configurations.
+
+4iG is a Platinum Partner of HPE, one of the biggest supplier of our large farmer GreenEdge Cloud and the appointed supplier of HPE Farming Equipment for the Threefold Group within the European Union.
+
+**[Visit 4IG Node Shop](https://threefold.4ig.hu/)
+
 
 ## DIY Farming
 
