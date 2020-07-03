@@ -20,7 +20,7 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 
 * This technology council is the technical brain for the grid council.
 
-## Candidates 
+## Candidates
 
 Don’t take being a member of this council lightly, it's a serious responsibility.
 
@@ -49,9 +49,8 @@ Don’t take being a member of this council lightly, it's a serious responsibili
         * We are not depending on one of the above to feel happy
 * We really believe the values as described on our freeflow nation.
     * [https://freeflownation.org/manifesto.html](https://freeflownation.org/manifesto.html)
-    * We know them, we understand them, we agree with them 
+    * We know them, we understand them, we agree with them
 * If we have a shortcoming in one of the above we are not afraid to be open about it and express our desire to improve on it.
-
 * Technical
     * We are expert for at least 50% of the code as used in TF Grid.
     * We are not shy to read code.
@@ -89,5 +88,3 @@ We evaluate based on
 * A voting wallet is co-owned by each member of the grid council.
 * Each vote is a transaction prepared (sending 1 TFT from voting wallet to voting wallet) with the voting ID and voting hash (hash is a unique key guaranteeing the validity of the content of the voting request) as part of the transaction description. This makes sure that everyone with 100% certainty agrees on the voting request and signs the transaction.
 * Transactions can only happen if at least 5 of the 7 people sign.
-
-
