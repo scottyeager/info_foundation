@@ -28,7 +28,7 @@ The nodes will be release in batches of 50 pieces, and pre-registrations for the
 
 4iG is a Platinum Partner of HPE, one of the biggest supplier of our large farmer GreenEdge Cloud and the appointed supplier of HPE Farming Equipment for the Threefold Group within the European Union.
 
-**[Visit 4IG Node Shop](https://threefold.4ig.hu/)
+**[Visit 4IG Node Shop](https://threefold.4ig.hu/)**
 
 
 ## DIY Farming
