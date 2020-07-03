@@ -9,9 +9,9 @@ Become a farmer and contribute to building the foundation of a better internet f
 - do you not even want to own hardware but still farm ThreeFold Tokens?
 - do you want to become a certified or a DIY farmer?
 
-# I Want To Own Hardware
+# I Want To Own Certified Hardware
 
-## Home and Office 3Node Pre-Register
+## Certified Home and Small Office Nodes Pre-Register
 
 ![alt](./img/preconfig_nodes.jpg)
 
@@ -20,7 +20,7 @@ The nodes will be release in batches of 50 pieces, and pre-registrations for the
 
 **[Node Info & Pre-register page](https://farmer.threefold.io)**
 
-## Large Farm Equipment
+## Large Certified Farm Equipment
 
 ![4ig ThreeFold Farming](4ignodes.jpg)
 
