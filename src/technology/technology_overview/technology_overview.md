@@ -1,13 +1,9 @@
 ![image alt text](./img/header_techoverview.png)
 
 # ThreeFold Technology Whitepaper: Technology Overview
+
 Author: Kristof de Spiegeleer
 Version: 1.1
-<!--- TODO: Get link to redirect to MDbook wiki 
-Url: [http://techoverview.threefold.io](http://techoverview.threefold.io)
--->
-
-
 
 ## Introduction
 

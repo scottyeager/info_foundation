@@ -32,4 +32,4 @@ Starting on April 29, 2020 ThreeFold began a series of updates to the community 
 - [June 17: Dear Elon Musk](dearelonmusk.md)
 - [June 21: ThreeFold on Forbes](forbescoverage.md)
 - [June 27: ThreeFold Tech MOU](june27update.md)
-
+- [July 3: Dash + Dash NEXT](dashannouncement.md)

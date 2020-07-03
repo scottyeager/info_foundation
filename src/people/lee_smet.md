@@ -5,4 +5,7 @@ In order to have a nice planet to live on for the next decades, we need to prese
 and move towards a more sustainable ecosystem. If existing technology can not, or refuses to become greener, then we will need to create this technology from
 scratch. 
 
-I make daily contributions to the threefold project
+### Technical Work
+- [0-OS](https://github.com/threefoldtech/zos)
+- [tfexplorer](https://github.com/threefoldtech/tfexplorer)
+- [BCDB](https://github.com/threefoldtech/bcdb)
