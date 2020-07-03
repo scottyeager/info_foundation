@@ -1,12 +1,12 @@
 # Threefold Technology Council
 
-Technology guardians are the members of the threefold technology council, there are 9 of them.
+Technology guardians are the members of the threefold technology council, there are 7 of them.
 
 Together they take the required decisions for the ThreeFold Grid Related day2day technology decisions.
 
 ## What is it
 
-* Group of people who evaluate to their best abilities the technology as needs to be deployed in the grid
+* Group of people who evaluate to their best abilities the technology as needs to be deployed in the grid.
 
 * Some examples of decisions which need to be taken
 
@@ -24,36 +24,31 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 
 * The technology council has been approved by the [grid council](https://docs.google.com/document/d/14wRroPcgRBFhmwP_93CMJUK0dYv2UqEOHpZKjeqYeDE/edit#).
 
-    * Each Technology Guardian was interviewed by the grid council and approved to align with 
-"fit for duty requirements"
-
-    * This approval cycle will happen in asap.
+    * Each Technology Guardian was interviewed by the grid council and approved to align with "fit for duty requirements"
 
 ## Relation with the grid council
 
-* This technology council is the technical brain for the grid council
+* This technology council is the technical brain for the grid council.
 
 ## Candidates 
 
 Don’t take being a member of this council lightly, it's a serious responsibility.
 
-* [Christophe](christophe_dcmp.md)
+* [Christophe de Carvalho Pereira Martins](christophe_dcmp.md)
 
-* [Jan](jan_de_landtsheer.md)
+* [Jan De Landtsherr](jan_de_landtsheer.md)
 
-* [Rob](rob_van_mieghem.md)
+* [Rob Van Mieghem](rob_van_mieghem.md)
 
-* [Thabet](ahmed_thabet.md)
+* [Ahmed Thabet](ahmed_thabet.md)
 
-* [Lee](lee_smet.md)
+* [Lee Smet](lee_smet.md)
 
-* [Azmy](muhammed_azmy.md)
+* [Muhamad Azmy](muhamed_azmy.md)
 
-* [Maxime](maxime_daniel.md)
+* [Maxime Daniel](maxime_daniel.md)
 
-* … ?
 
-The council needs 9 members.
 
 ## Fit for duty requirements
 
@@ -146,17 +141,6 @@ We evaluate based on
 
 * Each vote is a transaction prepared (sending 1 TFT from voting wallet to voting wallet) with the voting ID and voting hash (hash is a unique key guaranteeing the validity of the content of the voting request) as part of the transaction description. This makes sure that everyone with 100% certainty agrees on the voting request and signs the transaction.
 
-* Transactions can only happen if at least 6 of the 9 people sign.
+* Transactions can only happen if at least 5 of the 7 people sign.
 
-## Onboarding
-
-* Personal page on Alliance for conscious Internet (see Karoline for help)
-
-    * Mention all technical work you do (link to github repo’s, …)
-
-* Prepare voting request for your own onboarding request (become member of council)
-
-    * Example will be given by Kristof
-
-* A video on vimeo (threefold account) which talks <2min about why you want to be part of council and why you believe you are in line with the requirements to be a guardian. Also talk about where you believe you need to improve in line of the requirements. Make sure people can see your good intentions.
 
