@@ -22,7 +22,7 @@ The nodes will be release in batches of 50 pieces, and pre-registrations for the
 
 ## Large Certified Farm Equipment
 
-![4ig ThreeFold Farming](4ignodes.jpg)
+![4ig ThreeFold Farming](./img/4ignodes.jpg)
 
 4iG provides HPE Farming Equipments in different configurations.
 
