@@ -11,7 +11,7 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
     * Approving the minting operation (signing)
     * Approving day to day decisions e.g. remuneration for people who helped the ThreeFold (token salary) .
     * Approving new partners of the Alliance of Conscious Internet
-    * Approving of the members of the [ThreeFold Technology Council](https://docs.google.com/document/d/1o8cXyYyWS-9IJmUsWey2RpuDC4n57F9yPa1oP7nO-6Y/edit#)
+    * Approving of the members of the [ThreeFold Technology Council](technology_council.md)
     * Approval of polls done with community
     * Approval of any fundamental change for any of the grid operational items
 * The grid council has been approved by the wisdom council.

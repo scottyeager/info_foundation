@@ -13,7 +13,7 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
     * Approve new development projects when funded by the ThreeFold foundation
     * Approve for standards/procedures/… as could be relevant for the TFGrid technology stack or operations
     * ...
-* The technology council has been approved by the [grid council](https://docs.google.com/document/d/14wRroPcgRBFhmwP_93CMJUK0dYv2UqEOHpZKjeqYeDE/edit#).
+* The technology council has been approved by the [grid council](grid_council.md)
     * Each Technology Guardian was interviewed by the grid council and approved to align with "fit for duty requirements"
 
 ## Relation with the grid council
@@ -29,7 +29,7 @@ Don’t take being a member of this council lightly, it's a serious responsibili
 * [Rob Van Mieghem](rob_van_mieghem.md)
 * [Ahmed Thabet](ahmed_thabet.md)
 * [Lee Smet](lee_smet.md)
-* [Muhamad Azmy](muhamed_azmy.md)
+* [Muhamad Azmy](muhamad_azmy.md)
 * [Maxime Daniel](maxime_daniel.md)
 
 
