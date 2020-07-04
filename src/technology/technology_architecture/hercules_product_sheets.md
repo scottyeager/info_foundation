@@ -1,5 +1,7 @@
 # Hercules Product Sheets
 
+![](./img/hercules.png)
+
 Hercules products are productizations of the ThreeFold technology.
 It gives you more information about how the grid has been build.
 
