@@ -4,6 +4,8 @@ Starting on April 29, 2020 ThreeFold began a series of updates to the community 
 
 ## 2020
 
+### April / May
+
 - [April 29: ThreeFold Grid 2.0 Launch](threefold_grid_2_0.md)
 - [May 5: Conscious Internet Alliance Launch](conscious_internet_alliance.md)
 - [May 6: ThreeFold Demo's For WeWork FinTech Community](weworkfintech.md)
@@ -22,6 +24,9 @@ Starting on April 29, 2020 ThreeFold began a series of updates to the community 
 - [May 26: Hello, WaykiChain!](waykichainintro.md)
 - [May 27: TFT on Liquid & BTC Alpha](liquidbtcalpha.md)
 - [May 29: Harmony (Protocol) Partnership!](harmonyintro.md)
+
+### June
+
 - [June 1: Live on Liquid and BTC Alpha](liquidbtcalphalive.md)
 - [June 3: Tokyo FinTech Podcast](tokyofintech.md)
 - [June 4: Cointelegraph Coverage](cointelegraph.md)
@@ -32,4 +37,9 @@ Starting on April 29, 2020 ThreeFold began a series of updates to the community 
 - [June 17: Dear Elon Musk](dearelonmusk.md)
 - [June 21: ThreeFold on Forbes](forbescoverage.md)
 - [June 27: ThreeFold Tech MOU](june27update.md)
+
+### July
+
 - [July 3: Dash + Dash NEXT](dashannouncement.md)
+- [July 6: EU Data Infrastructure Panel](eudata.md)
+- [July 9: July Update & Decentralization Manifesto 2.0](majorjulyupdate.md)
