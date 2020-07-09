@@ -1,6 +1,6 @@
 # Wisdom Council
 
-![wisdom council](wisdom_council.png)
+![wisdom council](./img/wisdom_council.png)
 
 ThreeFold Foundation receives through the blockchain 10% of all capacity sold on the Threefold Grid. These proceeds are used to further develop the ThreeFold Movement and later to benefit planetary doing good projects
 
