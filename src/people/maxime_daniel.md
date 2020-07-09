@@ -13,3 +13,17 @@ privacy and equity is important to everyone and fair.
 By contributing to Zero-OS and side projects, like 0-db, 0-flist, 0-initramfs, ... I think lot of my life goals
 are achieved in a right way.
 
+## Technical work
+Some components I have been working on for Threefold Tech are:
+- Database (0-db) (https://github.com/threefoldtech/0-db)
+- Kernel Initramfs (https://github.com/threefoldtech/0-initramfs)
+- Flist Subsystem (https://github.com/threefoldtech/0-flist)
+- Hub (https://github.com/threefoldtech/0-hub)
+- Hub Gateway (https://github.com/threefoldtech/0-hub-gw)
+- Autobuilder (https://github.com/threefoldtech/0-autobuilder)
+- Bootstrap (https://github.com/threefoldtech/0-bootstrap)
+- Zero-OS (https://github.com/threefoldtech/zos)
+- Shim Logs (https://github.com/threefoldtech/shim-logs)
+- Seek Time (https://github.com/threefoldtech/seektime)
+- Core X (https://github.com/threefoldtech/corex)
+- Explorer (https://github.com/threefoldtech/tfexplorer)
