@@ -26,7 +26,7 @@ A good site to compare is cloudorado: https://www.cloudorado.com/
 ### Storage
 
 
-A threefold compute unit is (CU)
+A threefold compute unit is (SU)
 
 - 4 GB memory
 - 2 virtual CPU cores
