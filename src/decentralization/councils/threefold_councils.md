@@ -1,6 +1,6 @@
 # ThreeFold Councils
 
-![](img/wisdom_council.png)
+![](./img/wisdom_council.png)
 
 Following the true decentralized nature of ThreeFold we have instated 3 different councils to make decisions in regards to Foundation, Technology, & The Grid.
 
