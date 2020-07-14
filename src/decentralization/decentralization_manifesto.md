@@ -12,5 +12,5 @@ https://github.com/threefoldfoundation/info_threefold/raw/development/src/commun
 
 ### Information hosted on
 
-- the pdf of the manifestor is hosted on: https://github.com/threefoldfoundation/info_threefold 
+- the pdf of the manifesto is hosted on: https://github.com/threefoldfoundation/info_threefold 
 - disclaimers on: https://github.com/threefoldfoundation/info_threefold/tree/development/src/disclaimers
