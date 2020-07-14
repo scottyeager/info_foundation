@@ -5,15 +5,9 @@
 > Please read http://decentralization2.threefold.io/. <br>
 > Its a very important document for us.
 
-[pdf]( ':include :type=iframe width=100% height=800px')
-
 ```pdf
 https://github.com/threefoldfoundation/info_threefold/raw/development/src/communication/updates/ThreeFold%20Decentralization%20Manifesto%20v_2_0_0.pdf
 ```
-
-'''pdf
-https://github.com/threefoldfoundation/info_threefold/raw/development/src/communication/updates/ThreeFold%20Decentralization%20Manifesto%20v_2_0_0.pdf
-'''
 
 
 ### Information hosted on
