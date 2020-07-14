@@ -25,7 +25,7 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 Don’t take being a member of this council lightly, it's a serious responsibility.
 
 * [Christophe de Carvalho Pereira Martins](christophe_dcmp.md)
-* [Jan De Landtsherr](jan_de_landtsheer.md)
+* [Jan De Landtsheer](jan_de_landtsheer.md)
 * [Rob Van Mieghem](rob_van_mieghem.md)
 * [Ahmed Thabet](ahmed_thabet.md)
 * [Lee Smet](lee_smet.md)
@@ -57,7 +57,7 @@ Don’t take being a member of this council lightly, it's a serious responsibili
     * We have deep understanding of how it all works.
 * Willing to be a Technology Guardian for at least 2 years starting your submission.
 
-## Our charter
+## Our character
 
 We will do everything we can to protect the technical sanity of the ThreeFold Grid core technologies.
 
