@@ -27,20 +27,16 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
     * The Foundation is a "VZW" in Belgium which is an official not for-profit structure.
 * Grid council is day to day operation
 
-## Candidates 
-
-Don’t take being a member of the council too lightly, it's a serious responsibility.
-
-* [Kristof](kristof.md)
-* [Adnan](adnan_fatayerji.md)
-* [Jan](jan_de_landtsheer.md)
-* [Rob](rob_van_mieghem.md)
-* [Andreas](andreas_hartl.md)
-* [Weynand](weynand.md)
-* [Chris](chris_hutton.md)
-* [Owen](owen_kemp.md)
-* [Christophe](christophe_dcmp.md)
-* [Dave](dave_debelder.md)
+## Council 
+* [Kristof De Spiegleer](kristof.md)
+* [Adnan Fatayerji](adnan_fatayerji.md)
+* [Jan De Landtsheer](jan_de_landtsheer.md)
+* [Rob Van Mieghem](rob_van_mieghem.md)
+* [Andreas Hartl](andreas_hartl.md)
+* [Weynand Kuijpers](weynand.md)
+* [Owen Kemp](owen_kemp.md)
+* [Christophe De Carvalho](christophe_dcmp.md)
+* [Dave De Belder](dave_debelder.md)
 
 ## Fit for duty requirements
 
