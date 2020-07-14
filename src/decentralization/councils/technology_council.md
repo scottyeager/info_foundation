@@ -20,7 +20,7 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 
 * This technology council is the technical brain for the grid council.
 
-## Candidates
+## Council
 
 Don’t take being a member of this council lightly, it's a serious responsibility.
 
