@@ -5,7 +5,7 @@
         <script src="//cdn.webix.com/edge/webix.js" type="text/javascript"></script>
     </head>
     <body>
-        <script type="text/javascript" charset="utf-8">    
+        <script type="text/javascript" charset="utf-8">
 
 
 const proto = window.parent.location.protocol
@@ -77,6 +77,7 @@ availableOptions.growths.sort(numberSorter);
 availableOptions.token_prices = sortTokenPrices(availableOptions.token_prices);
 availableOptions.unit_price_ranges.sort();
 
+
 const unitPriceOptions = availableOptions.unit_price_ranges.map((key) => {
     return {
         id: key,
@@ -84,6 +85,18 @@ const unitPriceOptions = availableOptions.unit_price_ranges.map((key) => {
     }
 });
 
+
+// defaults used in webix widgets
+const DEFAULTS = {
+    // default value for drop-down, id is used
+    hardware_type: availableOptions.hardware_types.includes("amd_big") ? "amd_big" : availableOptions.hardware_types[0],
+    // default value for slider, index is used
+    growth: availableOptions.growths.length > 3 ? 3 : 0,
+    // default value for slider, index is used
+    token_price: availableOptions.token_prices.length > 5 ? 5 : 0,
+    // default value for drop-down, id is used from unitPriceOptions
+    unit_price_range: Object.keys(unitPriceOptions).length > 2 ? unitPriceOptions[2].id : unitPriceOptions[0].id
+}
 
 
 function getData() {
@@ -106,7 +119,7 @@ function getData() {
             window.parent.location.href = `http://simulators.threefold.io/${name}`
         }else{
             window.parent.location.href = `/${name}`;
-            
+
         }
     }).catch((error) => {
         form.hideProgress();
@@ -132,7 +145,6 @@ function reset() {
 }
 
 
-
 webix.ui({
     rows: [
         {
@@ -150,7 +162,7 @@ webix.ui({
                     name: "hardware_type",
                     view: "richselect",
                     label: "Hardware",
-                    value: "amd_big",
+                    value: DEFAULTS.hardware_type,
                     yCount: 1,
                     options: availableOptions.hardware_types,
                     labelWidth: 150,
@@ -160,7 +172,7 @@ webix.ui({
                     view: "slider",
                     name: "growth",
                     label: "Growth",
-                    value: 3,
+                    value: DEFAULTS.growth,
                     step: 1,
                     min: 0,
                     max: availableOptions.growths.length - 1,
@@ -174,7 +186,7 @@ webix.ui({
                     view: "slider",
                     name: "token_price",
                     label: "Token price",
-                    value: 5,
+                    value: DEFAULTS.token_price,
                     step: 1,
                     min: 0,
                     max: availableOptions.token_prices.length - 1,
@@ -188,7 +200,7 @@ webix.ui({
                     name: "unit_price_range",
                     view: "richselect",
                     label: "Unit price range",
-                    value: unitPriceOptions[2].id,
+                    value: DEFAULTS.unit_price_range,
                     yCount: Object.keys(unitPriceOptions.length),
                     options: unitPriceOptions,
                     labelWidth: 150,
