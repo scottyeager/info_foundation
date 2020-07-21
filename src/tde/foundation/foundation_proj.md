@@ -10,7 +10,7 @@ Today's Internet faces many challenges. It is not acceptable that we leave billi
 
 ### Status Today
 
-- Today the ThreeFold Grid is live with more than 40,000,000 GB of capacity and 15,000 CPU cores across 20+ countries
+- Today the ThreeFold Grid is live with more than 80,000,000 GB of capacity and 20,000 CPU cores across 20+ countries
 - We have recently launched v2.0 of the technology and have migrated existing farmers
 - We have some amazing partners and projects ready to host on the grid, and we are seeking more
 - We are seeking the expansion of the grid, especially to emerging markets where it is needed most

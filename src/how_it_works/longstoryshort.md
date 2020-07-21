@@ -20,9 +20,9 @@ When Farmers connect active hardware (add capacity) to the ThreeFold Grid, Three
 
 ### Seems quite lofty. How will you build it?
 
-It's true that rebuilding the internet is not so simple. But a lot of infrastructure has already been built and the technology is quite advanced. Over the past 2+ years (as of May 2020), independent [ThreeFold Farmers](what_is_a_farmer.md) have already plugged in more than 40,000,000 GigaBytes worth of storage and 15,000 CPU Cores across 21+ countries. That might not mean a lot to non-technical folks but it is quite a significant amount.
+It's true that rebuilding the internet is not so simple. But a lot of infrastructure has already been built and the technology is quite advanced. Over the past 2+ years (as of May 2020), independent [ThreeFold Farmers](what_is_a_farmer.md) have already plugged in more than 80,000,000 GigaBytes worth of storage and 20,000 CPU Cores across 20+ countries. That might not mean a lot to non-technical folks but it is quite a significant amount.
 
-### 21+ countries? What happened to equality?
+### 20+ countries? What happened to equality?
 
 As far along as we are, we still have work to do. One of our biggest goals in the near future is to expand the grid to Africa, South America, and parts of Asia where currently the Internet is too expensive or not available. Currently, we farming is incentivized around these key geographies.
 
