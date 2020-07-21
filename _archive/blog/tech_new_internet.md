@@ -5,7 +5,7 @@
 
 The Edge internet needs a different approach. So, we started as from scratch and shaped a totally new approach. ThreeFold's open-source technology addresses the scalability, security, storage, energy and operating issues by simplifying architectures and not relying on third party software. This drives down costs and improves efficiencies.
 
-### What is ThreeFold's Technology Toolbox?
+### What is ThreeFold's Technology Toolbox
 
 ThreeFold's technology is based on three primary building blocks:  Stateless Computing, Self-Healing Technology and Blockchain technology - this is the core of our “Technology Toolbox".
 
