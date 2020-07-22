@@ -12,5 +12,6 @@ https://github.com/threefoldfoundation/info_foundation/raw/development/src/decen
 
 ### Information hosted on
 
-- the pdf of the manifesto is hosted on: https://github.com/threefoldfoundation/info_foundation/tree/development/src/decentralization/manifesto
+- the pdf of the manifesto is hosted on: https://github.com/threefoldfoundation/info_foundation
 - disclaimers on: https://github.com/threefoldfoundation/info_threefold/tree/development/src/disclaimers
+
