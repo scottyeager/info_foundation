@@ -6,11 +6,11 @@
 > Its a very important document for us.
 
 ```pdf
-https://github.com/threefoldfoundation/info_foundation/raw/development/src/decentralization/ThreeFold%20Decentralization%20Manifesto%20v_2_0_0.pdf
+https://github.com/threefoldfoundation/info_foundation/raw/development/src/decentralization/ThreeFold%20Decentralization%20Manifesto%20v_2_0_1.pdf
 ```
 
 
 ### Information hosted on
 
-- the pdf of the manifesto is hosted on: https://github.com/threefoldfoundation/info_threefold 
+- the pdf of the manifesto is hosted on: https://github.com/threefoldfoundation/info_foundation/tree/development/src/decentralization/manifesto
 - disclaimers on: https://github.com/threefoldfoundation/info_threefold/tree/development/src/disclaimers
