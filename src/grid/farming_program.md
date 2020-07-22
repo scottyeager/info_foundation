@@ -27,7 +27,7 @@ The foundation will give free certification to 3Nodes which benefit the distribu
 
 More details on how the the Certification for farming is implemented in the simulation can be found [here](farming_logic_python.md). 
 
-> Note: May 2020: all existing capacity on the grid is DIY (Do It Yourself) farming, farmers have till end of summer 2020 to become certified if that would be their wish. DIY farming also means farming of TFTA tokens see [tfta vs tft](tfta_vs_tft.md)
+> Note: May 2020: all existing capacity on the grid is DIY (Do It Yourself) farming, farmers have till end of summer 2020 to become certified if that would be their wish. DIY farming also means farming of TFTA tokens see [tfta vs tft](tftv1_tftv2.md)
 
 
 > Note: Farmers who are interested to become certified need to sign a contract with TF Tech in which the certification criteria are set. Once the contract is signed the farm will be measured against the certification criteria which shows exactly if the certification is deserved.

@@ -24,10 +24,10 @@ There are 2 generations of tokens on the Stellar network.
 - TFTA is the gen 1 token.
 - TFT is the gen 2 token and is the one we do the Token Distribution Event with.
 
-For more details see [tfta_vs_tft](tfta_vs_tft.md). 
+For more details see [tftv1_tftv2](tftv1_tftv2.md). 
 TFTA token holders can sell as TFT by using the [threefold marketmaker bot](threefold_marketmaker_bot.md)
 
 Both token types together represent the TFT, starting Jan 2021 there is no longer a difference between TFTA and TFT.
 
 
-> Important note: TFTs are not an investment instrument.
+> Important note: TFTs are not an investment instrument. TFTs represent IT capacity on the TFGrid.
