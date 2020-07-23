@@ -6,7 +6,7 @@
 > Its a very important document for us.
 
 ```pdf
-https://github.com/threefoldfoundation/info_foundation/raw/development/src/decentralization/ThreeFold%20Decentralization%20Manifesto%20v_2_0_1.pdf
+https://github.com/threefoldfoundation/info_foundation/raw/development/src/decentralization/manifesto/ThreeFold%20Decentralization%20Manifesto%20v_2_0_1.pdf
 ```
 
 ### Information hosted on
