@@ -1,51 +1,46 @@
-# TOKENOMICS WIKI
 
-![image alt text](./img/tokenomics_flow.png)
+# Tokenomics Overiew 
 
-# Threefold Tokenomics In 4 Easy Steps
+The purpose of this knowledge base is to fill the last gaps for a more technical audience. If you need help understanding or have additional questions, please don´t hesitate to ask in our [forum](https://forum.threefold.io).
 
-- Step 1. Farmers rent capacity to the ThreeFold Grid and get TFTs in return.
-- Step 2. Farmers exchange their TFTs for other crypto or fiat currencies. Users exchange their fiat or crypto currencies for TFTs.
-- Step 3. Users reserve capacity with TFTs, they pay farmers and part goes to the foundation.
-- Step 4. Grid provides the reserved capacity to the user and the user can deploy the workload.		 
+## Creation of TFTs
 
+TFT are only created (minted) when new capacity (storage & compute) is added to the ThreeFold Grid in the form of hardware. This done by [Farmers](become_a_farmer.md), ThreeFolds more sustainable equivalent of cryptocurrency miners.
+Farming is calculated once a month, at the fist day of the next month.
 
-# Earning Tokens
-
-The ThreeFold Token has developed in a way that it incentivizes the growth of the ThreeFold Grid. 
-
-Each farmer has two streams of TFT income:
-
-## Farming
+The amount of TFTs that are created by farmers depends on four variables:
 
 **1. Proof-of-Capacity**
 
-When a person puts capacity on the ThreeFold Grid, this process is called Farming. To incentivize farming, the farmer will be remunerated a certain amount of tokens for doing so. 
-
-The number of tokens the farmer earns is depending on the server/Node specs of the Farmers hardware:
+The server/Node specs of the Farmers hardware:
 
 * Compute Capacity (CPU)
 * Memory Capacity (RAM)
 * Storage Capacity (SSD/HDD)
 
-These factors combine to a Cloud Production Rate (CPR). The higher the CPR, the more tokens are earned.
+The performance/capability of this hardware is attributed with [Cloud Units](cloud_units_4.md) that then summarized to a [Cloud Production Rate (CPR)](cloud_production_rate.md) for the individual node. The higher the CPR, the more tokens are earned. Simply put, he more capable the hardware, the more TFTs are earned.
 
 **2. Grid Specs (This is the same for all farmers at every point in time)**
 
-* Farming Difficulty (the actual difficulty factor determining how fast TFT’s are created through farming)
+* [Farming Difficulty](token_limitedsupply.md) (the actual difficulty factor determining how fast TFT’s are created through farming). Farming difficulty follows the logic of diminishing returns, meaning that over time, less and less TFT are earned. 
 
 
-# Cultivation
+**3. The price of TFT in USD**
 
-Anyone can run applications and workloads on top of the ThreeFold Grid. Capacity can be reserved from the Farmer who has made this capacity available on the ThreeFold Grid. This payment for capacity will be made in ThreeFold Tokens. Cultivation incentivizes farmers to create capacity where it is needed most by rewarding them when that capacity is used.
+* To maximize the stability of farming returns, the amount of TFTs earned for farming is normalized against the US Dollar. That way farmers can enjoy a predictable rate of return even if the price of TFT would fall. At the same time the system ensures that farming profits are balanced and fair for everyone even in case of steep increases in [TFT valuation](token_grid_valuation).  
+Disclaimer: Please note that we can´t and won´t make price predictions on TFT evaluation and all assumptions made here are purely hypothetical.
 
-# Support Of The Threefold Foundation 
+**4. Certification**
 
-In order to promote the growth and development of the ThreeFold Grid, a percentage of all cultivation transactions goes to the ThreeFold Foundation.
+* Providing hardware reliably is rewarded with a certification that leads to increased earnings in TFT for certified farmers. We automatically measure uptime, bandwidth and the utilization of the node for [certification](farming_program.md).
 
-This percentage equals 10% at the moment.
-
-> Important note: TFTs are not an investment instrument.
-
+This visualization encompasses all information that is relevant for the farming process that is creating TFT. The whole process is made **transparent and reliable with Blockchain-like immutability** through our Blockchain Database BCDB. Learn more about how it works in our [whitepaper on the autonomous layers](autonomous_layer_whitepapers.md).
 
 
+![](farming_rewards2.png)
+
+> Important note: TFTs are not an investment instrument. TFT's are used to buy/sell IT capacity on the TFGrid.
+
+## Technical information
+
+see [tokenomics_tech](tokenomics_tech.md)

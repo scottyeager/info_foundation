@@ -24,7 +24,7 @@
   - [How To Buy and Sell](how_to_buy_and_sell.md)
   - [How To Store TFT](storing_tft.md)
   - [Token Overview](token_overview.md)
-  - [Tokenomics](tokenomics_updated.md)
+  - [Tokenomics](tokenomics.md)
 - [How It Works](how_it_works)
   - [TFGrid For Internet Enthusiast](howitworks_2)
 - [Decentralization](decentralization.md)
