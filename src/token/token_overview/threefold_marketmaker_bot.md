@@ -22,6 +22,8 @@ In line with majority approval of the TFTv1 token holders, a price protection ha
 > TFFoundation has done everything possible to make sure that NO TFTv1 (TFTA) holder can sell for prices lower than the minimum price. <BR>
 > We would like to remind you that if you have not voted yet please do so, your vote is important.<BR>
 
+**The bot is hosted on https://selltfta.threefoldtoken.com/**
+
 
 ### tutorial
 
