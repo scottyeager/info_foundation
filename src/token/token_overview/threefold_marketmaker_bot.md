@@ -32,8 +32,6 @@ Normally no need to fill this in, the XLM will be send to the wallet you have us
 
 ![](img/mm_bot5.png)
 
-![](img/mm_bot6.png)
-
 Once the tokens arrive the order has been done.
 
 ![](img/mm_bot7.png)
