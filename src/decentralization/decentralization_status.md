@@ -37,7 +37,7 @@ There are more than 100 independent active parties building the TFGrid today.
 - resell bot for TFTA to TFT on Stellar (and maybe on Liquid/BTCAlpha) runs autonomous using our smart contract for IT layer, multi signed by TFGrid council
 - run the TFTA/TFT conversion bot (TFTA burning & TFT creation) by means of our smart contract for IT layer, multi signed by TFGrid council
 
-*More info about suggested changes see update doc [tf update july 2020](tf_update_july_2020.md)*
+*More info about suggested changes see update doc [tf update july 2020](threefold_update_july2020.md)*
 
 ## to improve in Q3/Q4 2020
 

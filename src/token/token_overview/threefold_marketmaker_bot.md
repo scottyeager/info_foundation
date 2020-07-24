@@ -25,27 +25,27 @@ In line with majority approval of the TFTv1 token holders, a price protection ha
 
 ### tutorial
 
-![](img/mm_bot1.png)
+![](./img/mm_bot1.png)
 
-![](img/mm_bot2.png)
+![](./img/mm_bot2.png)
 
-![](img/mm_bot3.png)
+![](./img/mm_bot3.png)
 
 Specify the amount of TFTv1 (TFTA) you want to sell on one of the exchanges.
 
-![](img/mm_bot4.png)
+![](./img/mm_bot4.png)
 
 Normally no need to fill this in, the XLM will be send to the wallet you have used to sell your TFTA from.
 
-![](img/mm_bot5.png)
+![](./img/mm_bot5.png)
 
 Once the tokens arrive the order has been done.
 
-![](img/mm_bot7.png)
+![](./img/mm_bot7.png)
 
 In this example we use the Solar wallet to send the tokens.
 
-![](img/mm_bot8.png)
+![](./img/mm_bot8.png)
 
 The order has been done.
 
