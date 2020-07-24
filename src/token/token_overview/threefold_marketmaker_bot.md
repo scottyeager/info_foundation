@@ -54,6 +54,13 @@ The order has been done.
 If you go back to the bot you will see an overview screen with the open trade order.
 You can at any point cancel the trade.
 
+### if you need support
+
+- go to chat on http://www.threefold.io/
+- go to http://forum.threefold.io/ 
+
+Support is a community based effort, the TF Foundation does not provide a commercial support service, all is best effort. 
+
 ### remarks
 
 - The sales orders are always done versus XLM which is the native Stellar currency
@@ -63,3 +70,38 @@ You can at any point cancel the trade.
 
 
 > Important note: TFTs are not an investment instrument. TFT's are used to buy/sell IT Capacity.
+
+
+# roadmap/history
+
+## version 1.0
+
+July 4 2020: version 1.0 of sales bot life
+
+## version 1.1
+
+July 26 2020: version 1.1 of sales bot life, improvements + added disclaimer
+
+Features
+- the sales of TFT on Stellar is all automatic
+- the orderbook handling is all automatic
+- canceling of open order
+- report about open orders
+
+know issues
+- mediation between Stellar & Liquid/BTCAlpha is done manually (means TFTv2 from exchange to Stellar)
+
+## version 1.2 (future)
+
+Planned: week 1 or 2 of Aug 2020
+
+New
+- 100% automatic mediation between Stellar & Liquid/BTCAlpha
+
+## version 1.3 (future)
+
+Planned: week 3 or 4 of Aug 2020
+
+New
+- price can be defined when doing the sales order.
+
