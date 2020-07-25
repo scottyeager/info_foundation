@@ -5,6 +5,7 @@ The value of the TFT is based on the economic value of the TF Grid which consist
 Unlike most other cryptocurrencies that derive their market price based on speculative value, TFT represents a unit of capacity on the TF Grid. 
 
 ### The global cloud market is growing fast
+
 Various reports from reputable resources show that the global cloud market is almost doubling its revenues between 2018 and 2023. Currently (2020) it is valued at USD 249.8Bn.
 - [Gartner](https://www.gartner.com/en/newsroom/press-releases/2019-04-02-gartner-forecasts-worldwide-public-cloud-revenue-to-g
 )
@@ -27,6 +28,7 @@ This inequality in the distribution of capacity can be explained by the high req
 With the [TF Grid](grid.md) and [TF Ecosystem](partners.md), TF can also tap into the areas of our world where big cloud provider can't thanks to it's decentralized nature.
 
 ### The potential of the TF Grid
+
 The TF Grid is a peer-to-peer Internet grid, that provides more efficient solutions than centralized alternatives. 
 
 Considering the current global market growth, let's say the TF Grid achieves a 10% share of the current public cloud market. This would equal 500 billion USD by 2025 and translate to a 50 billion USD demand to utilize the capacity of the TF Grid through TFT as the medium of exchange for capacity. Our simulations shows that this capacity requires about 75 million [3nodes](farming_program.md) to be deployed on the TF Grid globally. 
@@ -42,18 +44,20 @@ The amount of TFT in circulation in the market is however limited to a maximum o
 
 Considering that global demand of 50 billion USD would meet a limited supply of TFT that can never exceed 4 billion. This would mean that each TFT would have an underlying value of 12,5 USD in capacity.
 
-Disclaimer: Please note that we can´t and won´t make price predictions on TFT evaluation and that all calculations made here are purely hypothetical.
+> Disclaimer: Please note that we can´t and won´t make price predictions on TFT evaluation and that all calculations made here are purely hypothetical. Use the simulator to make your own predictions.
 
 In the case that ThreeFold would only achieve a 1% market share, this still would lead to an expected demand of 5 billion USD worth of capacity, about 7,5 million [3nodes] and 1,25 USD in underlying value of capacity for each TFT. 
 
 
 ### Sustainable growth vs Hype
+
 Market dynamics can lead to a higher valuation. Some TFT holders might not want to trade their tokens away because they expect a further increase in value. This results in a lower liquid amount of TFT meeting 5 billion USD in demand to keep the same example as above. Expectations are proven when the price increases and the valuation can enter a hype cycle that feeds into itself, leading to an economic bubble. While this can lead to big speculative gains for some, these are always the losses of others. TF does not support speculative bubbles and the worsening in global inequalities that can occur as a consequence. Therefore we wont participate in marketing activites that artificially inflate the price of TFT. We believe in a fair evaluation of TFT from the economic demand for the capacity of the TF Grid instead.
 
 ### Full transparency
+
 Feel free to explore the simulation tool and hundreds of simulated scenarios that we built around TFT and Grid prospects [here](https://sdk3.threefold.io/#/simulator_install). 
 
 If you have questions regarding the valuation of TFT, we are happy to provide answers in our [forum](https://forum.threefold.io/c/threefold-token/22).
 
 
-> Important note: TFTs are not an investment instrument.
+> Important note: TFTs are not an investment instrument, TFTs are used to buy and sell IT capacity.

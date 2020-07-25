@@ -37,7 +37,11 @@ Disclaimer: Please note that we can´t and won´t make price predictions on TFT 
 This visualization encompasses all information that is relevant for the farming process that is creating TFT. The whole process is made **transparent and reliable with Blockchain-like immutability** through our Blockchain Database BCDB. Learn more about how it works in our [whitepaper on the autonomous layers](autonomous_layer_whitepapers.md).
 
 
+<<<<<<< HEAD
 ![](farming_rewards2.png)
+=======
+> Important note: TFTs are not an investment instrument, TFTs are used to buy and sell IT capacity.
+>>>>>>> development_kristine
 
 > Important note: TFTs are not an investment instrument. TFT's are used to buy/sell IT capacity on the TFGrid.
 

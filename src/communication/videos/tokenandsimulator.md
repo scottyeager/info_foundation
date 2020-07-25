@@ -4,7 +4,7 @@
 
 ThreeFold co-founder Andreas Hartl introduces the ThreeFold Token (TFT) along with the ThreeFold Grid software development kit (SDK) and the ThreeFold Grid & Token Simulator. The session gets fairly technical!
 
-If you'd like more introductory information on the ThreeFold Token, feel free to visit our wikis: https://wiki.threefold.io/#/token.
+If you'd like more introductory information on the ThreeFold Token, feel free to visit our wikis: token.
 
 The software development kit can be found at https://sdk.threefold.io/.
 
