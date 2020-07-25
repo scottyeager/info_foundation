@@ -6,6 +6,7 @@
       - [Hercules Product Sheets](hercules_product_sheets.md)
       - [Smart Contract for IT](smart_contract_for_it.md)
       - [Open-Source Links](grid_tech_opensource.md)
+      - [Grid Manual](sdk_intro.md)
 - [Farming](what_is_farming.md)
   - [How To Become A Farmer](become_a_farmer.md)
   - [Farmer Program](farming_program.md)
@@ -115,5 +116,4 @@
   - [Video Content](explainer_videos.md)
   - [ThreeFold Wallpapers](threefold_wallpapers.md)
 - [Simulator](simulator_configure.md)
-- [Grid Manual](sdk_intro.md)
 - [Disclaimer](disclaimer.md)
