@@ -2,12 +2,13 @@
 
 # Token Distribution Event for the ThreeFold Grid use cases
 
-> _Note: If you're interested in participating in the Token Distribution Event, please visit the Token section of this wiki, in particular "How to Buy."_
+> **NOTE:** If you're interested in participating in the Token Distribution Event, please visit the Token section of this wiki, in particular "How to Buy."
 
-> _Important: We believe the ThreeFold Token (TFT) value should not be based on speculation or velocity (usage on public exchanges).
-Please buy this token only if you believe in future value of the TF Grid.
-The TFT is NOT an investment instrument.
-The TFT is ment to be a value of exchange on the TF Grid and is used to buy and sell IT capacity._
+> **IMPORTANT:** We believe the ThreeFold Token (TFT) value should not be based on speculation or velocity (usage on public exchanges).
+Please buy this token only if you believe in future value of the TF Grid and wish to support projects building their solutions on top of the TF Grid.
+
+> **IMPORTANT:** The TFT is NOT an investment instrument.
+The TFT is ment to be a value of exchange on the TF Grid and is used to buy and sell IT capacity.
 
 ### Introduction
 
@@ -32,11 +33,11 @@ Its very easy to [buy TFT's](how_to_buy_and_sell.md) and as such become part of 
 
 You can [buy TFT's](how_to_buy_and_sell.md) during the Token Distribution Event where all received funds will be distributed according to the pie chart above.
 
-> Note: On public exchanges the ThreeFold Foundation offers TFT's at 0.15USD, any other TFT owner can also sell at their own conditions.
+> **NOTE:** On public exchanges the ThreeFold Foundation offers TFT's at 0.15USD, any other TFT owner can also sell at their own conditions.
 
 There will be a maximum of 70m TFT available during the TDE proportionaly distributed between do-good projects (as per pie chart above).
 
-> Important: TFT's are NOT an investment instrument. This is NOT an ICO or IEO. All tokens are a result of previous farming (mining) activities done by the ThreeFold Farmers and sold on public exchanges (as for now public exchanges are still the only way to allow people to buy TFT's).
+> **IMPORTANT:** TFT's are NOT an investment instrument. This is NOT an ICO or IEO. All tokens are a result of previous farming (mining) activities done by the ThreeFold Farmers and sold on public exchanges (as for now public exchanges are still the only way to allow people to buy TFT's).
 
 ### Project Overview
 
