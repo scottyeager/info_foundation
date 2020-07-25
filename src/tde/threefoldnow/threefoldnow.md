@@ -1,4 +1,4 @@
-# Project: TF Grid Solutions
+# ThreeFoldNow
 
 ![](cap2layer.png)
 
@@ -20,7 +20,7 @@ These are beautiful projects we want to get them to work on our grid in a seamle
 
 ### Funding
 
-- Required funding to finish roadmap as described below: 2,500,000 TFT
+- Required funding to finish roadmap as described below: 2,000,000 TFT
 
 ### Team
 
