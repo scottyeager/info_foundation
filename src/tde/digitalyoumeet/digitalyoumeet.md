@@ -14,45 +14,35 @@ Provide private, independent, and peer-to-peer video conferencing. Other confere
 - more cost effective
 - able to work everywhere 
 
-### Status today
+### Status Today
 
-- We have a full blown first version active and ready to be launched.
-- We are now fundraising to make the next generations.
-- The FreeFlow connect is a huge project and has many technical challenges but we already got very far. [Jimber Team](https://www.jimber.org/securityBroker.html) is the driving force behind this project.
+- We have a full blown first version active and ready to be launched
+- We are now fundraising to make the next generations
+- The FreeFlow connect is a huge project and has many technical challenges but we already got very far
 
-### FreeFlow Connect experience will be on 3bot
-
-See [3bot main page](3botproj).
-
-### Improvements Compared To market
+Improvements compared to market
 
 Create an independent and private peer-to-peer video conferencing solution. Using peer-to-peer technology avoids creating large bottlenecks in the center of the solution which can lead to loss of quality of video and audio signal. On the privacy front it makes sure that nobody can steal information about what is being communicated. A private video conferencing solution.
 
+Demo
+
+- If you want to learn more, we invite you to check [the demo](https://freeflowconnect.threefold.me/) - it dates from April 2020 and does not have all current features implemented
+
 ### Team
 
-[The Jimber Team](https://www.jimber.org/securityBroker.html)
+- [The Jimber Team](https://www.jimber.org/securityBroker.html)
 
 ### Funding
 
-- Required funding to finish road map as described below: 2,000,000 TFT
+- Funding needed for next milestones as described below: 2,000,000 TFT
 
-### Road map
+### Milestones
 
-| Name         | Date   | Description | Remark |
-|:-------------|--------|-------------|-----------------|
-| V0.9.0 |  2020/05 | all basic functionality in. | DONE |
-| V0.9.1 |  2020/05 | ipv4 to ipv6 gateway | DONE |
-| V1.0 |  2020/06 | add session recording |  
-| V1.1 |  2020/07 | better integration with 3bot |  
-| V1.2 |  2020/09 | crystal wall/room/books integration, so much more than just video conferencing | 
-| V2.0 |  2021/Q1 | use P2P overlay network working anywhere anytime |
-
-### Demo
-
-- If you want to see more about 3Bot, we invite you to check the https://freeflowconnect.threefold.me/
-- This is a demo that does not have all current features implemented, this demo dates from April 2020.
-- If you need any more information you can contact us over chat on the Threefold website.
-
-### Architecture
-
-![](3botconnect.png)
+| Name         | Date   | Funding needed (TFT) | Description |
+|:-------------|--------|--------|-------------|
+| V0.9.0 | Q2 2020 | n/a | all basic functionality integrated |
+| V0.9.1 | Q2 2020 | n/a | ipv4 to ipv6 gateway |
+| V1.0 | Q2 2020 | n/a | add session recording |  
+| V1.1 | Q3 2020 | 1,000,000 | better integration with 3bot |  
+| V1.2 | Q3 2020 | 1,000,000 | crystal wall/room/books integration, so much more than just video conferencing | 
+| V2.0 | Q1 2021 | tbd | use P2P overlay network working anywhere anytime |

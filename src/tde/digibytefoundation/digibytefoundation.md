@@ -16,7 +16,7 @@ See this project on [the Alliance for a Conscious Internet](https://www.consciou
 
 ### Team
 
-- 
+- [Hans Koning](https://www.consciousinternet.org/#/people/hans_koning)
 
 ### Funding
 

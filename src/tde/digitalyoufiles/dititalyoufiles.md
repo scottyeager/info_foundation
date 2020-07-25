@@ -1,8 +1,10 @@
-# Digital You Core (Files)
+# Digital You Files
 
 ![](./img/file_manager.png)
 
-*The Digital You Core (Files)* provides functionality to store (personal) files in a secure and private way. The Digital You Files solution uses you personal digital twin (see Crystal Twin project) to store and retrieve files from storage capacity rented on the TF Grid. Files are stored securely in a very efficient way, using a lot less storage space to do so and also in a much more sustainable manner.
+*The Digital You Files* 
+
+*The Digital You Files* provides functionality to store (personal) files in a secure and private way. The Digital You Files solution uses you personal digital twin (see Crystal Twin project) to store and retrieve files from storage capacity rented on the TF Grid. Files are stored securely in a very efficient way, using a lot less storage space to do so and also in a much more sustainable manner.
 
 ### Purpose
 
@@ -23,8 +25,7 @@ The vision is to create an independent and private file storage facility to safe
 
 ### Team
 
-- [The Jimber Team](https://www.jimber.org/securityBroker.html) + various open-source developers.
-- Hamdy - lead developer
+- Hamdy
 
 ### Funding
 

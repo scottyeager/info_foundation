@@ -45,13 +45,13 @@ For each project an amount of TFT's has been made available based on their upcom
 
 | Project Name | Amount Available | Description |
 |:-------------|---------------:|:------------|
-| [TF Foundation](foundation_proj.md) | 24,000,000		| Funding the ThreeFold Foundation (marketing, operations team, grid roll out..) |
+| [TF Foundation](tffoundation.md) | 24,000,000		| Funding the ThreeFold Foundation (marketing, operations team, grid roll out..) |
 | [Crystal Twin](crystaltwin.md) | 11,000,000		| 80% of our digital life implemented on top of the 3bot |
 | [TF Grid Enhancements](gridenhancements.md) | 10,000,000		| Further improvements to the TF Grid as sponsored by the TF Foundation |
 | [Digital You Office](digitalyouoffice.md) | 5,000,000		| 100% compatible office suite running on top of your 3bot |
 | [Crystal Language](crystallang_proj.md) | 4,000,000		| Core language used to implement the 3bot and future SDK for the ThreeFold |
 | [EarthProject](earthproject.md) | 3,000,000		| World's first true peer-to-peer education platform on top of the TF Grid |
-| [Digital You Core](digitalyoucore.md) | 3,000,000		| Our personal cloud on the TF Grid |
+| [Digital You Files](digitalyoufiles.md) | 3,000,000		| Our personal cloud on the TF Grid |
 | [Digital You Browser](digitalyoubrowser.md) | 3,000,000		| Personal browser running close to our 3bot |
 | [Digital You Meet](digitalyoumeet.md) | 2,000,000		| Peer-to-peer video conferencing tool |
 | [Social](social.md) | 2,000,000		| Exciting social network tool on top of the TF Grid / 3bot connect |
