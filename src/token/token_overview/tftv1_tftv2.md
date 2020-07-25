@@ -18,35 +18,7 @@
     - see below for more info, this was the result of 12 months of work with our community and of-course consensus to do this.
 
 
-## TFTv1 on Rivine
-
-TFTv1 launched on the Rivine blockchain April 2018. TFTv1 was transferable to everyone and exchange could happen by means of Atomic swaps. 
-TFTv1 was also on BTCAlpha public exchange for most of the time, we had to pause trading for some months to prepare for the Stellar migration.
-
-## TFTv1 on Stellar = called TFTA
-
-From may 2020, anyone can migrate their TFTv1 to the Stellar blockchain.
-Using the ThreeFold wallet (3bot connect) every user can/could migrate their tokens and all properties are/were maintained.
-
-By moving the TFT v1 to Stellar the user got some additional benefits, e.g. the TFTA is tradable on Stellar decentralized exchange and the platform is much bigger which gives more confidence to the market.
-
-Because the TFTA is just the TFTv1 for farming nothing changes, till end of 2020 all TFT farming keeps on creating TFTA tokens.
-
-> TFTA's are freely tradable, can be exchanged on the Stellar exchange, they have all same properties as TFTv1 on Stellar.
-
-The TF Foundation created a [Market Maker Bot](threefold_marketmaker_bot.md) to allow every TFTv1 (TFTA) holder to sell their tokens on public exchanges. See https://selltfta.threefoldtoken.com/
-The community has with large majority agreed to enforce price protection on this Market Maker Bot.
-
-## TFTv2 = called TFT on Stellar
-
-The TFTv2 is our generation 2 token has launched natively on Stellar (named as TFT) and is available for trading starting May 2020.
-
-Each TFTv2 is a converted TFTA. In other words TFT is nothing more or less than a TFTA with a certain time difference.
-
-The Foundation is organizing a TDE = [Token Distribution Event](token_overview_tde.md) and has raised +1m USD for this event.
-This funding allowed the onboarding of Liquid exchange and the marketing & promotion efforts of last 12 months as executed in TF Foundation.
-
-> Please note that we worked on this for about 12 months from out of the TF Foundation (ThreeFold FZC) and worked closely with our community. We did zoom calls to prepare and get required consensus. We also did a poll with our farmers to make sure we have consensus about this change. The huge majority of TFT v1 token holders agreed on making this change for the better good of the ThreeFold project. July 2020 the 2nd version of this poll is still ongoing. See: https://poll21.threefold.me/
+!!!include:tft_version_overview
 
 ## other info
 
