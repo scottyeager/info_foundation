@@ -3,7 +3,7 @@
 The liquidity of the TF Token is not high today (July 2020).
 We expect this liquidity to improve based on the growth of the TFGrid and people using it.
 
-> Important note: TFTs are not an investment instrument, TFTs are used to buy and sell IT capacity.
+!!!include:tft_not_investment
 
 The following items will help drive liquidity:
 
@@ -19,7 +19,7 @@ You can learn more on how to deploy applications and other workloads on the Thre
 
 While we might be the largest network today of decentralized capacity its still very small compared to the big centralized cloud vendors. There is a lot of room for growth.
 
-The document about [Grid Valuation](src\token\token_grid_valuation.md) shows how the ThreeFold Grid maybe could grow to a 10% share of the current public cloud market. This would equal 500 billion USD by 2025 and translate to a 50 billion USD demand to utilize the capacity of the TF Grid through TFT as the medium of exchange for capacity. This will eventually drive liquidity.
+The document about [Grid Valuation](tf_grid_valuation.md) shows how the ThreeFold Grid maybe could grow to a 10% share of the current public cloud market. This would equal 500 billion USD by 2025 and translate to a 50 billion USD demand to utilize the capacity of the TF Grid through TFT as the medium of exchange for capacity. This will eventually drive liquidity.
 
 > WE ARE ONLY AT THE BEGINNING. 
 

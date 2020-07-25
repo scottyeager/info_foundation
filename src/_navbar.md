@@ -1,6 +1,7 @@
 * ThreeFold
     * [Website](http://www.threefold.io/)
-    * [Wiki](http://wiki.threefold.io/)
+    * [Blogs](https://blog.threefold.io/)
+    * [KnowledgeBase](http://wiki.threefold.io/)
     * [Grid Manual](http://sdk.threefold.io/)
     * [Conscious Internet Alliance](https://www.consciousinternet.org/index.html)
 * FreeFlow Nation

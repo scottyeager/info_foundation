@@ -6,4 +6,4 @@ Both can be found here: [tf_updates](tf_updates.md)
 
 We will organize a Zoom call soon to also do this in video format and answer any questions the community might have.
 
-Additionally, inside of the update document, you will find a link toa  poll we are organizing. There is an important vote to be made. Please contact us on the website chat if there are any issues when using our brand new voting system. This poll is for any TFT(A) holder.
+Additionally, inside of the update document, you will find a link to a poll we are organizing. There is an important vote to be made. Please contact us on the website chat if there are any issues when using our brand new voting system. This poll is for any TFT(A) holder.

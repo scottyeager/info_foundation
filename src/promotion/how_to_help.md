@@ -21,6 +21,10 @@ Please follow along and feel free to share with your networks when you are inspi
 
 Additionally, we have [a folder in this section](threefold_content.md) with shareable content you can simply download and post on your social network or messaging platform of choice.
 
+## Look at promotion activities planned, see if you can help
+
+- [promo_june_2020](promo_june_2020)
+
 ## Introduce Someone Specific to ThreeFold
 
 While blasting your network might be effective, we'd really recommend thinking about who specifically in your circles would be interested in what we are building, and getting in touch with them one-on-one.

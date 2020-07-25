@@ -36,3 +36,5 @@ You can do this by clicking "Assets" in the left menu. From there you can search
 You can now start exchanging your digital currencies for TFTs through the Trade section in the menu. You can choose to fullfill sell orders, or create your own buy order. Once the buy order or trade has been fulfilled your TFT will show up in your wallet.
 
 ![image alt text](./img/lobstr_trade_tft.jpg)
+
+!!!include:tft_not_speculative_note

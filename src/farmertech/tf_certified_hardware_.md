@@ -7,6 +7,7 @@ SOHO Node: basic case with AMD Ryzen
 Datacenter Node:  2U chassis with INTEL xeon
 
 #### Hardware Sources: (for quotes and prices)
+
 Bettertoken: [www.bettertoken.shop](https://bettertoken.shop/)
 
 Edge Cloud Africa: contact <a href="dave@edgaecloud.africa">Dave Gale</a>

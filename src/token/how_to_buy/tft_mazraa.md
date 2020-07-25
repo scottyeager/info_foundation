@@ -58,3 +58,5 @@ Your wallet address is in your 3Bot Connect App. Find out how [here](3bot_connec
 As soon as Mazraa has received the transaction details from Transcoin, they will transfer the tokens to the provided wallet address.
 
 Keep in mind it might take some time to receive your tokens.
+
+!!!include:tft_not_speculative_note

@@ -9,6 +9,7 @@ ThreeFold Foundation receives through the blockchain 10% of all capacity sold on
 - protect the interests of the ThreeFold Foundation
 - approve TFT donations to doing good projects
 - oversee the way how the ThreeFold tokens are used to benefit the planet and the ThreeFold movement.
+- give their approval over members of TFGrid council (guidance only)
 
 In order to make balanced, fair and effective decisions regarding ThreeFold Foundation funds distribution, ThreeFold Foundation has adopted the Wisdom Council system as a resource model of harmonious communication
 
@@ -17,6 +18,7 @@ This process is based upon ancient leadership practices and modern social scienc
 ## Mission
 
 Financially support consciously aligned do-good projects and organizations.
+Protect the interests of the ThreeFold vision and mission.
 
 ## Members
 
@@ -28,6 +30,18 @@ Based upon the ageless principles of the Wisdom Council equation, Members will c
 
 ## Process
 
-The Wisdom Council members will be notified once per quarter as to the current do-good requests and account financial status to decide when to meet and make distribution decisions of how much, when and to whom the agreed funds go to.
+The [grid council](grid_council.md) prepares all the decisions to be taken by the wisdom council.
+When a meeting is required they grid council will organize.
+The voting happens using blockchain technology and is done by all wisdom council members.
+
+## Learn More
 
 [Learn more about the Wisdom Council on www.consciousinternet.org](https://www.consciousinternet.org/#/council)
+
+## Remuneration
+
+None !!!
+
+## Disclaimer
+
+> each member of ThreeFold related councils (grid, tech & wisdom) acts out love for the ThreeFold concept (upgraded free internet) and cannot be held accountable for any personal decision taken. No claims can be made to ThreeFold or its guardians (councils) see [disclaimer](disclaimer)

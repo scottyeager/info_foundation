@@ -170,3 +170,5 @@ Here are the steps:
 ![TFT](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-tft-deposit2.png) 
 
 5. Wait until the transaction is fully processed, this typically takes up to 40 minutes.
+
+!!!include:tft_not_speculative_note

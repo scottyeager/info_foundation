@@ -28,8 +28,7 @@ A good site to compare is cloudorado: https://www.cloudorado.com/
 
 A threefold compute unit is (SU)
 
-- 4 GB memory
-- 2 virtual CPU cores
+- 1 TB of storage
 
 A good site to compare is cloudorado: https://www.cloudorado.com/
 

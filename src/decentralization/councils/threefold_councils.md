@@ -21,3 +21,10 @@ This council is made up of 9 people involved in the decision making in regards t
 The Grid Council will also be the main touchpoint with and for the ThreeFold Community.
 
 > [learn more](grid_council.md)
+
+
+## Disclaimer
+
+> each member of ThreeFold related councils (grid, tech & wisdom) acts out love for the ThreeFold concept (upgraded free internet) and cannot be held accountable for any personal decision taken. No claims can be made to ThreeFold or its guardians (councils) see [disclaimer](disclaimer)
+
+

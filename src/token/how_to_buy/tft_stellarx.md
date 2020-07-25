@@ -50,3 +50,4 @@ TFT now shows up in your wallet section (click wallet in top menu)
 
 ![image alt text](./img/stellar_x_image_10.png)
 
+!!!include:tft_not_speculative_note

@@ -45,3 +45,5 @@ We'll be buying XLM (Stellar Lumens) in this scenario, which is Stellar's token.
 Congratulations! You now have XLMs in your wallet and you are ready to buy ThreeFold Tokens!
 
 ### Head to [Chapter 3: Installing the Solar Wallet](installing_solar_wallet_funding.md).
+
+!!!include:tft_not_speculative_note

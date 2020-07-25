@@ -24,4 +24,4 @@ Our [simulator](simulator_configure.md) shows that there is still the possibilit
 
 After this point in time, farmers will solely earn TFT by cultivation. Considering the features and the effectiveness of the architecture of the ThreeFold Grid, our simulations show that it will still be profitable after that point.
 
-> Important note: TFTs are not an investment instrument, TFTs are used to buy and sell IT capacity.
+!!!include:tft_not_investment

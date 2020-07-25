@@ -1,7 +1,7 @@
 
 # Cloud Pricing (IT Capacity)
 
-Cloud units are the basis for buying & selling capacity on the threefold grid (more info see [here](cloud_units_4.md)).
+Cloud units are the basis for buying & selling capacity on the threefold grid (more info see [here](cloud_units.md)).
 
 - 1 CU = 1 compute unit
 - 1 SU = 1 storage unit

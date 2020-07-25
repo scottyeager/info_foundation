@@ -4,5 +4,7 @@
 
 we're working hard on the next generation of our TF Grid, find more details below.
 
-- [2.1 June](tfgrid_release_2_1.md)
+- [2.1 July](tfgrid_release_2_1.md)
 - [2.2 Summer 2020](tfgrid_release_2_2.md)
+- [2.3 Sept 2020](tfgrid_release_2_3.md)
+- [2.4 Q4 2020](tfgrid_release_2_4.md)

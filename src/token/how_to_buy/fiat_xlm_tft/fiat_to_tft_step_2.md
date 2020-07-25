@@ -15,4 +15,4 @@ For this you will need to setup a trustline. We tell you how.
 The last step to go from fiat to TFT is to exchange your XLMs to TFTs.
 You are almost there!
 
-> Important note: TFTs are not an investment instrument, TFTs are used to buy and sell IT capacity.
+!!!include:tft_not_investment

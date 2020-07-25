@@ -71,7 +71,7 @@ We evaluate based on
 ## Details
 
 * Remuneration
-    * 80 EUR value in TFT per hour for the work we do as grid guardians
+    * 80 EUR value in TFT per hour for the work we do as grid guardians. These TFTs were gifted to the TF Foundation by farmers.
 * How do we work together
     * A public visible circle on circles.threefold.me
 * Expect this to be +- 4-8h of work per month and needs to be done outside your normal work responsibilities.
@@ -88,3 +88,7 @@ We evaluate based on
 * A voting wallet is co-owned by each member of the grid council.
 * Each vote is a transaction prepared (sending 1 TFT from voting wallet to voting wallet) with the voting ID and voting hash (hash is a unique key guaranteeing the validity of the content of the voting request) as part of the transaction description. This makes sure that everyone with 100% certainty agrees on the voting request and signs the transaction.
 * Transactions can only happen if at least 5 of the 7 people sign.
+
+## Disclaimer
+
+> each member of ThreeFold related councils (grid, tech & wisdom) acts out love for the ThreeFold concept (upgraded free internet) and cannot be held accountable for any personal decision taken. No claims can be made to ThreeFold or its guardians (councils) see [disclaimer](disclaimer)

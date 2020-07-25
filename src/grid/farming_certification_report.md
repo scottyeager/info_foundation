@@ -1,7 +1,7 @@
 
 ![](./img/certification.png)
 
-# farming certification report
+# farming certification report (DRAFT, NOT FINISHED YET)
 
 - location
     - the address is not collected (is confidential)

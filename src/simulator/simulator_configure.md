@@ -26,3 +26,4 @@ All the results of the simulator are an export from the simulator which is part 
 
 If you are a python enthusiast you can use the simulator yourself see: [getting started with simulator yourself.](farming_simulate.md) . You will need some familiarity with Python & Jupyter.
 
+!!!include:tft_not_speculative_note

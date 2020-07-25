@@ -34,7 +34,7 @@ Please do note, we are on public exchanges where the Foundation offers these TFT
 
 There will be a maximum of 70m TFT tradable during that period.
 
-> Important note: TFTs are not an investment instrument. 
+!!!include:tft_not_investment
 > This is not an ICO or IEO, all tokens are the result of previous farming (mining) activities done by the ThreeFold farmers and sold on public Exchanges.
 
 ### Project Overview

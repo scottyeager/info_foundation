@@ -18,7 +18,7 @@ The server/Node specs of the Farmers hardware:
 * Memory Capacity (RAM)
 * Storage Capacity (SSD/HDD)
 
-The performance/capability of this hardware is attributed with [Cloud Units](cloud_units_4.md) that then summarized to a [Cloud Production Rate (CPR)](cloud_production_rate.md) for the individual node. The higher the CPR, the more tokens are earned. Simply put, he more capable the hardware, the more TFTs are earned.
+The performance/capability of this hardware is attributed with [Cloud Units](cloud_units.md) that then summarized to a [Cloud Production Rate (CPR)](cloud_production_rate.md) for the individual node. The higher the CPR, the more tokens are earned. Simply put, he more capable the hardware, the more TFTs are earned.
 
 **2. Grid Specs (This is the same for all farmers at every point in time)**
 
@@ -27,8 +27,9 @@ The performance/capability of this hardware is attributed with [Cloud Units](clo
 
 **3. The price of TFT in USD**
 
-* To maximize the stability of farming returns, the amount of TFTs earned for farming is normalized against the US Dollar. That way farmers can enjoy a predictable rate of return even if the price of TFT would fall. At the same time the system ensures that farming profits are balanced and fair for everyone even in case of steep increases in [TFT valuation](token_grid_valuation).  
-Disclaimer: Please note that we can´t and won´t make price predictions on TFT evaluation and all assumptions made here are purely hypothetical.
+* To maximize the stability of farming returns, the amount of TFTs earned for farming is normalized against the US Dollar. That way farmers can enjoy a predictable rate of return even if the price of TFT would fall. At the same time the system ensures that farming profits are balanced and fair for everyone even in case of steep increases in [TFT valuation](tf_grid_valuation).  
+
+> Disclaimer: Please note that we can´t and won´t make price predictions on TFT evaluation and all assumptions made here are purely hypothetical.
 
 **4. Certification**
 
@@ -39,7 +40,7 @@ This visualization encompasses all information that is relevant for the farming 
 
 ![](farming_rewards2.png)
 
-> Important note: TFTs are not an investment instrument, TFTs are used to buy and sell IT capacity.
+!!!include:tft_not_investment
 
 
 ## Technical information

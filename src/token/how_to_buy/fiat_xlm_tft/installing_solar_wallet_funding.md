@@ -43,3 +43,5 @@ You now have an empty Solar wallet.
 ![image alt text](./img/xlm_solar_tft_manual_image_24.png)
 
 ### Head to [Chapter 4: Adding TFT to your Solar Wallet](adding_tft_asset.md).
+
+!!!include:tft_not_speculative_note

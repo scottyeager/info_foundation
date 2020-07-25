@@ -2,7 +2,7 @@
 
 While the [Token section](token.md) of this wiki is quite built out, we know that some people visiting here might not have much experience with tokens in general. So, we created a page here to answer some questions which might be coming up for you.
 
-> Important note: TFTs are not an investment instrument. TFTs are used to buy and sell IT capacity.
+!!!include:tft_not_investment
 
 ### Is ThreeFold Token a cryptocurrency?
 

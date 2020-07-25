@@ -20,6 +20,6 @@ Learn more about the Farming on the ThreeFold Grid:
 - [Capacity Pricing](capacity_pricing_start)
 - [Farming Simulation](farming_simulate.md)
 - [Farming Concepts](grid_concepts.md)
-      - [Cloud Units](cloud_units_4.md)
+      - [Cloud Units](cloud_units.md)
       - [Cloud Production Rate](cloud_production_rate.md)
 - [Farm Setup & Management](farm_setup_management.md)

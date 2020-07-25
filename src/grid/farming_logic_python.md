@@ -47,6 +47,7 @@ class TFTFarmingCalculator:
         a number is returned
         @return between 1 and 20, today check is very easy, when emerging country return 1, otherwise 10
         """
+        return 1 #not implemented yet
         return self.threefold_explorer.network_capability_zone_get(self.node_id)
 
     def bandwith_check(self):
@@ -56,6 +57,7 @@ class TFTFarmingCalculator:
         """
         if self.is_certified:
             return 1
+        return 1 #not implemented yet in TFGrid 
         # checks the threefold explorer & returns available bandwidth in mbit/sec avg
         # measurement done 24 times per day each time from node region (europe to europe, ...)
         # 2 MB of data is uploaded and downloaded from a random chosen node in the grid
@@ -77,6 +79,7 @@ class TFTFarmingCalculator:
         """
         if self.is_certified():
             return 1
+        return 1 #not implemented yet
         startmonth = self.threefold_explorer.month_start_get(self.node_id)
         utilization_rate =  self.threefold_explorer.utilization_rate_get(self.node_id)
         if month - startmonth < 12:
@@ -90,6 +93,9 @@ class TFTFarmingCalculator:
             return 0
 
     def uptime_check(self):
+        return 1 #not implemented yet
+        #untill certification progr is active we will not check uptime 
+        #this is planned for end summer 2020 (to be confirmed)
         if self.certified_capacity:
             #the threefold explorer return 1 if agreed sla achieved (part of certification)
             #the std requested SLA is 99.8% for a certified farmer (1.44h per month)
@@ -123,7 +129,8 @@ class TFTFarmingCalculator:
         in our case a production rate of capacity for the internet
 
         cost to buy 1 cpr production capability in Q1 2020 = 40USD
-        we took as definition that nr for cpr to usd
+        this is the nr put in the code
+
         we say ROI for batch 1 (month 1) is 6 months, thats why we need to devide by 6
 
         ROI = Return on investment
@@ -148,4 +155,3 @@ class TFTFarmingCalculator:
 ```
 
 - ```tft_farm``` is the method which returns the tokens farmed
-- today: may 2020, we consider every farmer to be certified while it isn't, this grace period is there till end Summer 2020, this gives enough time for all farmers to decide if they want to come on board under the certificaiton process or not.

@@ -42,4 +42,4 @@ Cost price
 
 - [difference between TFTA & TFT](tftv1_tftv2.md)
 - [farming program](farming_program.md): difference between DIY & Certified
-- [capacity measurement & minting](minting_v2.md)
+- [capacity measurement & minting](farming_logic.md)

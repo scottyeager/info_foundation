@@ -27,9 +27,8 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
     * The Foundation is a "VZW" in Belgium which is an official not for-profit structure.
 * Grid council is day to day operation
 
-## Council 
-* [Kristof De Spiegleer](kristof.md)
-* [Adnan Fatayerji](adnan_fatayerji.md)
+## Grid Council 
+
 * [Jan De Landtsheer](jan_de_landtsheer.md)
 * [Rob Van Mieghem](rob_van_mieghem.md)
 * [Andreas Hartl](andreas_hartl.md)
@@ -37,6 +36,8 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 * [Owen Kemp](owen_kemp.md)
 * [Christophe De Carvalho](christophe_dcmp.md)
 * [Dave De Belder](dave_debelder.md)
+* [Kristof De Spiegleer](kristof.md)
+* [Adnan Fatayerji](adnan_fatayerji.md)
 
 ## Fit for duty requirements
 
@@ -63,7 +64,7 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 ## Details
 
 * Remuneration
-    * 80 EUR value in TFT per hour for the work we do as grid guardians
+    * 80 EUR value in TFT per hour for the work we do as grid guardians. These TFTs were gifted to the TF Foundation by farmers.
 * How do we work together
     * A public visible circle on circles.threefold.me
 
@@ -80,3 +81,6 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 * Each vote is a transaction prepared (sending 1 TFT from voting wallet to voting wallet) with the voting ID and voting hash (hash is a unique key guaranteeing the validity of the content of the voting request) as part of the transaction description. This makes sure that everyone with 100% certainty agrees on the voting request and signs the transaction.
 * Transactions can only happen if at least 6 of the 9 people sign.
 
+## Disclaimer
+
+> each member of ThreeFold related councils (grid, tech & wisdom) acts out love for the ThreeFold concept (upgraded free internet) and cannot be held accountable for any personal decision taken. No claims can be made to ThreeFold or its guardians (councils) see [disclaimer](disclaimer)

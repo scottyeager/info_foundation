@@ -57,3 +57,5 @@ Then, click under your name (top-right), then "Enable Two-factor Authentication,
 2. Now you can start buying TFT
     - If you want to trade BTC, click [here](https://btc-alpha.com/en/exchange/TFT_BTC)
     - If you want to trade with USD, click [here](https://btc-alpha.com/en/exchange/TFT_USD)
+
+!!!include:tft_not_speculative_note

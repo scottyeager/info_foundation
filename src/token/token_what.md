@@ -19,4 +19,4 @@ Note that the ThreeFold Foundation's sole purposes is to ensure the expansion of
 
 ![](./img/circular_tft.png)
 
-> Important note: TFTs are not an investment instrument. 
+!!!include:tft_not_investment

@@ -1,6 +1,6 @@
 # Buy TFT through Stellar
 
-> Important note: TFTs are not an investment instrument, TFTs are used to buy and sell IT capacity.
+!!!include:tft_not_investment
 
 Buying TFT (or branded TFT) through Stellar is a bit more of an involved process than the other two options but it shouldn't be too difficult. We've broken it down into two main steps:
 

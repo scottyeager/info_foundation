@@ -26,4 +26,4 @@ Overview in code format of details of the tokenomics
 ![image alt text](simulation10.jpg)
 
 
-> Important note: TFTs are not an investment instrument. TFT's are used to buy/sell IT capacity on the TFGrid.
+!!!include:tft_not_investment

@@ -28,4 +28,5 @@ While the ThreeFold Grid can expand, a maximum of 4 Billion TFTs can be in circu
 ### Inclusive
 The market for farming, cultivating and trading TFT is open to all. Anyone with internet connection, power supply and the necessary hardware can become a Farmer or trade ThreeFold Tokens (TFT). 
 
-> Important note: TFTs are not an investment instrument, TFTs are used to buy and sell IT capacity.
+!!!include:tft_not_speculative_note
+

@@ -9,6 +9,6 @@ To calculate the CPR are very simple and straightforward formula is used:
 **CPR = 1.5 * the amount of Compute Units (CU) of the hardware + the amount of Storage Units (SU) of the hardware**
 
 
-How CU and SU are composed and calculated can be found [here](cloud_units_4.md)
+How CU and SU are composed and calculated can be found [here](cloud_units.md)
 
 

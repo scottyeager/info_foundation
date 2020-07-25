@@ -52,3 +52,6 @@ This funding allowed the onboarding of Liquid exchange and the marketing & promo
 
 - [market making bot to sell TFTv1 (TFTA)](threefold_marketmaker_bot.md)
 - [token overview tde = Token Distribution Event](token_overview_tde.md)
+
+
+!!!include:tft_not_speculative_note

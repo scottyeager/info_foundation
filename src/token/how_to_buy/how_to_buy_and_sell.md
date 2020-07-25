@@ -33,24 +33,27 @@ For TFT, you can use any of the three options. If you want to buy branded TFT, y
     - [Buy TFT on BTC-Alpha Now](https://btc-alpha.com/en/exchange/TFT_BTC)
 
 #### 2. Directly from a ThreeFold Farmer
+
 - [Mazraa](tft_mazraa.md) – via wire transfer, credit card, or PayPal
 - [BetterToken](tft_bettertoken.md) – via wire transfer, orders only above $1000 <br />
     _Note: Don't know what a ThreeFold Farmer is? Click [here](what_is_a_farmer.md). In the future, you will be able to buy directly from other farmers as well._
 
 #### 3. On Stellar (through XLM, Stellar's token)
+
 Please note this is probably the more involved of the options.
 
 - Buy TFT [through Stellar's Decentralized Exchange](stellardexprocess.md)
 
 ### How to Sell
 
-If you would like to, you can sell (or trade) TFT by using either of the public exchanges mentioned above or the Stellar DEX. We're working on this section, but in a nutshell:
+If you would like to, you can sell (or trade) TFT by using either of the public exchanges mentioned above or the Stellar DEX.
 
 - You can get back to fiat currency by doing the reverse of what you did to buy your TFT
 - You'll first need to trade your TFT with one of the trading pairs (BTC, USD, USDT, XLM)
 - Then, you'll need to trade one of the trading pairs for the fiat of your choosing
 - Finally, you can move that fiat back to your bank account
 
-If you would like to sell TFTA, there is a TFTA Sell Bot. We are working on a tutorial for this which will be released ASAP!
+If you would like to sell your TFTv1 see [threefold marketmaker bot](threefold_marketmaker_bot.md)
 
-If you need help in the meantime, please feel free to consult the FAQ or support of the exchange you are on, or use the support chat here or ask on [our forum](https://forum.threefold.io). Thanks!
+
+!!!include:tft_not_speculative_note

@@ -69,7 +69,7 @@ Support is a community based effort, the TF Foundation does not provide a commer
 - The name "marketmaker bot" might be misleading. This bot does not have funding to keep a market stable, this bot has as goal to allow any TFTv1 (TFTA) token holder to sell tokens to public exchanges easiest possible way while maintaining a minimum price.
 
 
-> Important note: TFTs are not an investment instrument. TFT's are used to buy/sell IT Capacity.
+!!!include:tft_not_investment
 
 
 # roadmap/history
@@ -105,3 +105,6 @@ Planned: week 3 or 4 of Aug 2020
 New
 - price can be defined when doing the sales order.
 
+
+
+!!!include:tft_not_speculative_note

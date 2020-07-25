@@ -1,8 +1,10 @@
-# TF Token (TFT) Valuation
+# TF Grid / Token (TFT) Valuation
 
-The value of the TFT is based on the economic value of the TF Grid which consists of capacity for storage, compute, and network. This capacity is meeting one of the fastest-growing markets globally, as demand for capacity grows with increasing data demands and trends such as 5G, AI, VR, and IoT. The combined valuation of all TFT in circulation can be expressed by the demand for capacity on the TF Grid, leading to a sound and transparent method of evaluation. 
+We hope that there will be a relation between the value of the TFT and the (future) economic value of the TF Grid which consists of capacity for storage, compute, and network. This capacity is meeting one of the fastest-growing markets globally, as demand for capacity grows with increasing data demands and trends such as 5G, AI, VR, and IoT. The combined valuation of all TFT in circulation can be expressed by the demand for capacity on the TF Grid, leading to a sound and transparent method of evaluation. 
 
 Unlike most other cryptocurrencies that derive their market price based on speculative value, TFT represents a unit of capacity on the TF Grid. 
+
+!!!include:tft_not_speculative_note
 
 ### The global cloud market is growing fast
 
@@ -51,13 +53,13 @@ In the case that ThreeFold would only achieve a 1% market share, this still woul
 
 ### Sustainable growth vs Hype
 
-Market dynamics can lead to a higher valuation. Some TFT holders might not want to trade their tokens away because they expect a further increase in value. This results in a lower liquid amount of TFT meeting 5 billion USD in demand to keep the same example as above. Expectations are proven when the price increases and the valuation can enter a hype cycle that feeds into itself, leading to an economic bubble. While this can lead to big speculative gains for some, these are always the losses of others. TF does not support speculative bubbles and the worsening in global inequalities that can occur as a consequence. Therefore we wont participate in marketing activites that artificially inflate the price of TFT. We believe in a fair evaluation of TFT from the economic demand for the capacity of the TF Grid instead.
+Market dynamics can lead to a higher valuation. Some TFT holders might not want to trade their tokens away because they expect a further increase in value. This results in a lower liquid amount of TFT meeting 5 billion USD in demand to keep the same example as above. Expectations are proven when the price increases and the valuation can enter a hype cycle that feeds into itself, leading to an economic bubble. While this can lead to big speculative gains for some, these are always the losses of others. TF does not support speculative bubbles and the worsening in global inequalities that can occur as a consequence. Therefore we wont participate in marketing activities that artificially inflate the price of TFT. We believe in a fair evaluation of TFT from the economic demand for the capacity of the TF Grid instead.
 
-### Full transparency
+### Full transparency and please make your own simulations
 
-Feel free to explore the simulation tool and hundreds of simulated scenarios that we built around TFT and Grid prospects [here](https://sdk3.threefold.io/#/simulator_install). 
+Feel free to explore the simulation tool and hundreds of simulated scenarios that we built around TFT and Grid prospects [here](tfgrid_simulator). 
 
 If you have questions regarding the valuation of TFT, we are happy to provide answers in our [forum](https://forum.threefold.io/c/threefold-token/22).
 
 
-> Important note: TFTs are not an investment instrument, TFTs are used to buy and sell IT capacity.
+!!!include:tft_not_investment
