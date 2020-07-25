@@ -14,7 +14,7 @@
 |	min price (price protection)	|	NO	|	NO	|	YES	|
 |	Name on Blockchain	|	TFT	|	TFTA	|	TFT	|
 
-So basically the only difference between v1 & v2 is that TFTv1 can not be sold on the public exchange if the price is not higher than $0.15 + 2% per month starting may 2020. This has been implemented by creating 2 trustlines on Stellar and making sure that no-one can sell lower than the min price. 
+So basically the only difference between v1 & v2 is that TFTv1 can not be sold on the public exchange if the price is higher than $0.15 + 2% per month starting may 2020. This has been implemented by creating 2 trustlines on Stellar and making sure that no-one can sell lower than the min price. 
 
 2 methods have been implemented to achieve price protection for TFTv1 to TFTv2
 
