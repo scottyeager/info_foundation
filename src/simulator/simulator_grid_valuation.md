@@ -8,4 +8,4 @@ Multiples are that high because its recurring revenue.
 
 > If an acquirer would buy at 10 times recurring margin and there would be 0% growth (which is not realistic), it would mean that the acquirer would have all money back in 10 years of the acquisition cost.
 
-See [our knowledge base for more info on how we calculate valuation](https://wiki.threefold.io/#/simulator_grid_valuation_details)
+See [our knowledge base for more info on how we calculate valuation](simulator_grid_valuation_details)

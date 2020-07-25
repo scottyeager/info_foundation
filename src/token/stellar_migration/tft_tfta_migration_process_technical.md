@@ -30,4 +30,4 @@ From a valuation perspective TFTA is 100% the same as a TFT, this is just a tech
 Source of this info see: [https://github.com/threefoldfoundation/tft-stellar/blob/master/specs/conversion/conversion.md](https://github.com/threefoldfoundation/tft-stellar/blob/master/specs/conversion/conversion.md)
 
 
-> Important note: TFTs are not an investment instrument.
+> Important note: TFTs are not an investment instrument, TFTs are used to buy and sell IT capacity.

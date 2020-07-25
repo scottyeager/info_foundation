@@ -2,7 +2,7 @@
 
 ![](./img/greenedgeintro.jpg)
 
-Today we’re proud to introduce you to Green Edge, a member of the Conscious Internet Alliance. Green Edge is the first certified & largest ThreeFold Farmer. If you don't know what a ThreeFold Farmer is, you can learn more [here](https://wiki.threefold.io/#/what_is_a_farmer).
+Today we’re proud to introduce you to Green Edge, a member of the Conscious Internet Alliance. Green Edge is the first certified & largest ThreeFold Farmer. If you don't know what a ThreeFold Farmer is, you can learn more [here](what_is_a_farmer).
 
 By providing certified capacity on the ThreeFold Grid, Green Edge is helping ThreeFold to create a decentralized internet that is inherently faster, greener, more private, and more secure than today's internet.
 

@@ -13,8 +13,8 @@ There are more than 100 independent active parties building the TFGrid today.
 - independent farmers, all capacity registered on TFDirectory and signed by Farmer node.
 - ALL technology opensource and everyone can see progress, ask for feature requests, check/audit the code, ...
 - The TFGrid IT workloads are distributed using the smart contract for IT (peer2peer with multi-signature capability)
-- TFFoundation is promotion only 
-- measurement of capacity done per 3node, means fully decentralized but not peer2peer yet (no peer verification)
+- TFFoundation is promotion only (Mazraa which is subbrand is also a farmer)
+- measurement of capacity done per 3node
 - measurement of uptime done per 3node and distributed, should be good enough
 - minting (creation of new code) all done by means of code and validated by ThreeFold team of 3 people.
 - every minting operation since start of the blockchain creates a proof document
@@ -26,15 +26,15 @@ There are more than 100 independent active parties building the TFGrid today.
   - there are reporting tools making sure that the conversion happens 100% correctly
 - The Foundation & TFTech use a priority management tool to let everyone have input on priorities and manage work well (see circles.threefold.me)
 
-## new Decentralization features in July 2020
+## new Decentralization features in Summer 2020
 
-- Not for profit structure with strong governance (ThreeFold Foundation as VZW in Belgium) and BetterToken/TF FZC underneath.
+- Not for profit structure with strong governance (ThreeFold Foundation as VZW in Belgium) and BetterToken/TF FZC report into it.
 - 3 councils see [threefold_councils](threefold_councils.md) is like our human blockchain
   - signing using blockchain techno by ```TFGrid council``` for minting operation (is a control mechanism)
   - signing using blockchain techno for TF Foundation decisions required in relation to grid by ```TFGrid Council``` (6/9 votes required)
 - new voting system for our TFT community, which allows everyone to be involved in certain decisions.
   - this voting system will also be used by our councils
-- resell bot for TFTA to TFT on Stellar (and maybe on Liquid/BTCAlpha) runs autonomous using our smart contract for IT layer, multi signed by TFGrid council
+- resell bot for TFTA to TFT on Stellar, Liquid and BTCAlpha runs autonomous using our smart contract for IT layer, multi signed by TFGrid council
 - run the TFTA/TFT conversion bot (TFTA burning & TFT creation) by means of our smart contract for IT layer, multi signed by TFGrid council
 
 *More info about suggested changes see update doc [tf update july 2020](tf_update_july_2020.md)*
@@ -57,4 +57,7 @@ There are more than 100 independent active parties building the TFGrid today.
 ### minting not 100% autonomous yet
 
 - we are using code (software) to do all the minting (creation of tokens) and we could make this autonomous but the TF Foundation believes its better for now to have a human blockchain doing a double check.
+- The minting code is opensource and can be found in the code repos.
 - we hope that by the end of the year it can happen 100% decentralized without human checks (was the TFGrid Council today)
+
+> DISCLAIMER: the checks as done by our TFGrid Council does not imply any guarantee or impose any liabilities on THreeFold Foundation of any of the related parties.

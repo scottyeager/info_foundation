@@ -45,7 +45,7 @@ In order to promote the growth and development of the ThreeFold Grid, a percenta
 
 This percentage equals 10% at the moment.
 
-> Important note: TFTs are not an investment instrument.
+> Important note: TFTs are not an investment instrument, TFTs are used to buy and sell IT capacity.
 
 
 

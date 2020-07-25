@@ -13,4 +13,4 @@ If you have any questions around the listing, please head to this forum discussi
 More to come! Please spread the word.
 
 [TFT | Website](https://threefold.io/token.html)
-[TFT | Wiki](https://wiki.threefold.io/#/token)
+[TFT | Wiki](token)

@@ -8,6 +8,6 @@ If you believe the world needs a new internet, one that empowers equality and au
 
 The ThreeFold Token is now live on both [Liquid](https://app.liquid.com/exchange/TFTBTC) and [BTC-Alpha](https://btc-alpha.com/en/exchange/TFT_BTC)!
 
-You can learn more about the token [here](https://wiki.threefold.io/#/token), including [why a token is needed](https://wiki.threefold.io/#/token_why) and [how to buy](https://wiki.threefold.io/#/token) (if you need any help). We have an informational [landing page](https://www.liquid.com/threefold/) hosted on Liquid as well.
+You can learn more about the token [here](token) and [how to buy](token) (if you need any help). We have an informational [landing page](https://www.liquid.com/threefold/) hosted on Liquid as well.
 
 Please spread the word about the project and the token listing. 🙏 We have plenty of information available to support you on our [wikis](https://wiki.threefold.io/) and [website](https://threefold.io/) and we are happy to answer questions on our [forum](https://forum.threefold.io/).
