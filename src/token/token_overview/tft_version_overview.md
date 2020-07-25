@@ -18,8 +18,8 @@ So basically the only difference between v1 & v2 is that TFTv1 can not be sold o
 
 2 methods have been implemented to achieve price protection for TFTv1 to TFTv2
 
-- appointed 3e party independent market maker (used by Foundation uses, anyone else can as well, there are costs related to this)
-- the TF [market maker bot](threefold_marketmaker_bot), see below
+- appointed 3e party independent market maker (also used by Foundation for TDE, anyone else can as well, please note there are costs related to this, contact ThreeFold FZC for info).
+- the TF [market maker bot](threefold_marketmaker_bot), see below.
 
 ## migration
 
