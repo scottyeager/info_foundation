@@ -8,7 +8,7 @@ su = (hru / 1000 + sru / 100 / 2) / 1.2
 ```
 
 
-max oversubscription of 1 cpu core is 4 and min required mem is 4GB.
+Basically 1 CU is 2 vcpu with max oversubscription on cpu core of 4 and min required mem is 4GB. Oversubscription of 4 is still gentle we know that many other providers use more.
 
 ```python
 cu = min((mru - 1) / 4, cru * 2)	 

@@ -7,5 +7,5 @@
 | ssd unit      | 1 GB	 | SRU |
 | network unit  | 1 GB of bandwidth transmitted in/out	| NRU |
 
-These are raw capacities as measured by our ThreeFold Software.
+These are raw capacities as measured by our ThreeFold Software on Zero-OS.
 
