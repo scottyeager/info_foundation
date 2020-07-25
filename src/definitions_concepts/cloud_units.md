@@ -1,6 +1,7 @@
 ## Cloud Units
 
 ![](cloudunits_abstract.png)
+
 Cloud units are the way to account for farmed and used capacity. Cloud units are the compute, storage and network equivalent to kWh - kilowatt-hour - the unit of energy.
 
 We use three categories of units:
