@@ -49,6 +49,7 @@ After selling the person who bought the TFT receives automatically a TFTv2.
 
 > Please note, if the community would believe that this price protection is not needed the TF Foundation will suggest code changes which the developers can implement and the grid council can execute upon.
 
+Jan 2021 there will be a migration bot to assist everyone to migrate from v1 to v2 if they would want to do so, in other words price protection stops end Dec 2020.
 
 #### Status July 2020: 
 
