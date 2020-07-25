@@ -106,5 +106,8 @@ New
 - price can be defined when doing the sales order.
 
 
+## more info
+
+see [tftv1_tftv2](tftv1_tftv2.md)
 
 !!!include:tft_not_speculative_note
