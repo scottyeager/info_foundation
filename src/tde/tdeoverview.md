@@ -1,22 +1,28 @@
 ![](./img/tf_tde_intro.png)
 
-# Token Distribution Event For ThreeFold Grid use cases
+# Token Distribution Event for the ThreeFold Grid use cases
 
 > _Note: If you're interested in participating in the Token Distribution Event, please visit the Token section of this wiki, in particular "How to Buy."_
+
+> _Important: We believe the ThreeFold Token (TFT) value should not be based on speculation or velocity (usage on public exchanges).
+Please buy this token only if you believe in future value of the TF Grid.
+The TFT is NOT an investment instrument.
+The TFT is ment to be a value of exchange on the TF Grid and is used to buy and sell IT capacity._
 
 ### Introduction
 
 The TFT is the token of the new internet and has been created 2 years ago. Every token is the result of farming of Internet capacity and storage. 
 
-We started with our token on our own blockchain (Revine) but have now moved to the Stellar payment network.
+We started our token on our own blockchain (Revine) but have now moved to the Stellar payment network.
 
 ThreeFold Farmers have donated 70m TFT to ThreeFold Foundation.
+Anyone who owns TF Tokens can donate it to TF Foundation that way supporting growth of the TF Grid. 
 
-We are organizing a Token Distribution Event on Stellar and 2 public digital currency exchanges (Liquid and BTC-Alpha), to benefit projects (listed below) which have as purposes to provide value to the ThreeFold movement build their solutions on top of ThreeFold Grid and to do good for our planet.
+The Token Distribution Event is organized to benefit projects (listed below) which have as purpose to provide value to the ThreeFold movement building their solutions on top of ThreeFold Grid and by doing so serving our planet.
 
 ### Project Funding
 
-You can buy ThreeFold Token (TFT) on 2 public exchanges (Liquid and BTC-Alpha), from existing farmers or through Stellar. By buying tokens, you directly support projects (listed below) and therefore the growth of the ThreeFold Grid, a new Conscious Internet.
+You can buy ThreeFold Token (TFT) on 2 public exchanges (Liquid and BTC-Alpha), from existing farmers or through Stellar. By buying tokens, you directly support projects (listed below) and therefore the growth of the ThreeFold Grid and experiences built on top of it.
 
 Its very easy to [buy TFT's](how_to_buy_and_sell.md) and as such become part of the larger ThreeFold ecosystem. 
 
@@ -25,15 +31,16 @@ Its very easy to [buy TFT's](how_to_buy_and_sell.md) and as such become part of 
 ### How Does It Work
 
 You can [buy TFT's](how_to_buy_and_sell.md) during the Token Distribution Event where all received funds will be distributed according to the pie chart above.
-Please do note, we are on public exchanges where the ThreeFold Foundation offers these TFT's at 0.15USD, any other TFT owner can also sell at their own conditions.
 
-There will be a maximum of 70m TFT available during the TDE.
+> Note: On public exchanges the ThreeFold Foundation offers TFT's at 0.15USD, any other TFT owner can also sell at their own conditions.
 
-> Important note: TFT's are not an investment instrument! 
-> This is not an ICO or IEO, all tokens are a result of previous farming (mining) activities done by the ThreeFold Farmers and sold on public exchanges.
+There will be a maximum of 70m TFT available during the TDE proportionaly distributed between do-good projects (as per pie chart above).
+
+> Important: TFT's are NOT an investment instrument. This is NOT an ICO or IEO. All tokens are a result of previous farming (mining) activities done by the ThreeFold Farmers and sold on public exchanges (as for now public exchanges are still the only way to allow people to buy TFT's).
 
 ### Project Overview
-Each project has been made available an amount of TFT's based on their upcoming milestones.
+
+For each project an amount of TFT's has been made available based on their upcoming milestones.
 
 | Project Name | Amount Available | Description |
 |:-------------|---------------:|:------------|
