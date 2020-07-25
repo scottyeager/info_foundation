@@ -55,9 +55,6 @@ After selling the person who bought the TFT receives automatically a TFTv2.
 - limited liquidity on the public exchanges, this means most users who want to sell will not find the liquidity yet. TF has planned more marketing activities to improve the liquidity situation.
 
 
-!!!include:tft_not_speculative_note
-
-
 #### Status TDE
 
 The Foundation is organizing a TDE = [Token Distribution Event](token_overview_tde.md) and has raised +1m USD for this event.
