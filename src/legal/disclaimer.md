@@ -1,6 +1,6 @@
 # General Warning And Disclaimer
 
-Your use of the TFGrid and/or TFTs, as well as the IT capacity made available from the TFGrid to the Internet, as well as any tools provided to work with TFGrid or TFTokens (hereinafter collectively also referred to as the "Services") will be subject to the warnings, limitations, acknowledgements and disclaimers set out hereinafter. These statements and disclaimers are made by and on behalf of (1) TF Tech NV, (2) each individual or entity acting as a ThreeFold Farmer (3) the TF Foundation (ThreeFold FZC), (4) any of the companies or individuals related to these entities, and (5) any person contributing or otherwise assisting in developing, marketing or distributing the Services (hereinafter collectively referred to as “ThreeFold”). 
+Your use of the TFGrid and/or TFTs, as well as the IT capacity made available from the TFGrid to the Internet, as well as any tools provided to work with TFGrid or TFTokens (hereinafter collectively also referred to as the "Services") will be subject to the warnings, limitations, acknowledgements and disclaimers set out hereinafter. These statements and disclaimers are made by and on behalf of (1) the TF Foundation (ThreeFold FZC), (2) each individual or entity acting as a ThreeFold Farmer (3) , TF Tech NV (4) any of the companies or individuals related to these entities, and (5) any person contributing or otherwise assisting in developing, marketing or distributing the Services (hereinafter collectively referred to as “ThreeFold”). 
 
 ### Disclaimer
 

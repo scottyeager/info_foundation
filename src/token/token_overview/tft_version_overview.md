@@ -42,8 +42,9 @@ The community believes that price protection is good for everyone because the TF
 
 We are at the stage of rolling out the TF Grid, there is a lot of capacity but not enough locations.
 
-Starting July, every TFTv1 user can sell to Stellar/BTCAlpha/Liquid with price protection. For that they need to use a [market maker bot](threefold_marketmaker_bot).
-After selling the person who bought the TFT receives automatically a TFTv2.
+Starting July, every TFTv1 user can sell to Stellar/BTCAlpha/Liquid with price protection. For that they need to use a [market maker bot](threefold_marketmaker_bot). The  buyer receives automatically a TFTv2. The bot does the necessary conversion from TFTv1 to TFTv2, this is how price protection has been implemented.
+
+It has always been and is possible to sell TFTv1 on Stellar (exchange) without price protection as TFTv1.
 
 > Please note that we worked on this for about 12 months from out of the TF Foundation (ThreeFold FZC) and worked closely with our community. We did zoom calls to prepare and get required consensus. We also did a poll with our farmers to make sure we have consensus about this change. The huge majority of TFT v1 token holders agreed on making this change for the better good of the ThreeFold project. July 2020 the 2nd version of this poll is still ongoing. See: https://poll21.threefold.me/
 
