@@ -40,9 +40,9 @@ This visualization encompasses all information that is relevant for the farming 
 
 ![](farming_rewards2.png)
 
-!!!include:tft_not_investment
+## More Information About Farming
 
+see [farming_logic](farming_logic)
 
-## Technical information
+!!!include:tft_not_speculative_note
 
-see [tokenomics_tech](tokenomics_tech.md)
