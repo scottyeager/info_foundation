@@ -4,7 +4,7 @@ Here is where you find the vision behind a lot of the parts that make ThreeFold.
 
 Get inside the heads of the people behind the ThreeFold Project and see why certain choice where made.
 
-- [Architecture Overview](technology_architecture.md)
+- [Architecture Overview](hercules_components.md)
 - [Technology Overview](technology_overview.md)
 - [Hercules Product Sheets](hercules_product_sheets.md)  :   overview of underlying tech used for capacity layer
     

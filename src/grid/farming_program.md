@@ -15,7 +15,7 @@ TF Tech Support|Yes|No|
 
 Farmers can opt in for Certification. ThreeFold will with the help of the [ThreeFold Explorer](https://explorer.grid.tf) ckeck 3Nodes on quality achieved in relation to the certification contract. If the checks are not good enough the certification process will mark in the blockchain database (BCDB) which is used by the ThreeFold Explorer that the 3Node is no longer certified.
 
-The following criteria are checked (timing tbd in 2020):
+The following criteria are checked (timing tbd in 2020, see roadmap):
 
 - Bandwidth: 24 times a day random non local nodes are used to upload a 2MB file to a 3Node. The bandwidth will be measured in mbit/sec
 - Utilization: Through the ThreeFold Explorer the true utilization of the 3Node will be checked. It will be displayed in % of the 3Nodes total capacity.
@@ -35,3 +35,4 @@ More details on how the the Certification for farming is implemented in the simu
 
 - [farming certification](farming_certification.md)
 - [capacity measurement & minting](farming_logic.md)
+- [farming minting roadmap](farming_minting_roadmap.md)

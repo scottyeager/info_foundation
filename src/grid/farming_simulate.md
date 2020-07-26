@@ -17,6 +17,8 @@ If you're looking to simulate farming cases with more control over the parameter
 
 ## Check our TFGrid Manual
 
+This is for our version 2.0 today (there is a 2.2. being released right now, July 2020)
+
 Visit the [3SDK Wiki: TFGrid Manual](https://sdk.threefold.io/)
 
 Besides simulating your farming cases, the 3SDK Wiki is here to help you with (is for version 2.0):

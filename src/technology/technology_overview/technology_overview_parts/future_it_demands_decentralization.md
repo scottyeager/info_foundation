@@ -20,7 +20,9 @@ For reliability of such infrastructure, the current model of deploying infrastru
 
 ![image alt text](./img/security_scale_cost.png)
 
-**Is Blockchain up to the Challenge ? **
+#### Is Blockchain up to the Challenge ?
+
+Blockchain is a great technology for certain usecases like digital money or smart contracts but not efficient to build a new internet with.
 
 ![image alt text](./img/blockchain_challenge.png)
 

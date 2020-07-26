@@ -1,4 +1,4 @@
-# Farm Setup and Management
+# Farm Setup and Management (version 2.0)
 
 ![alt](sdk_intro.png)
 
@@ -16,3 +16,7 @@ Besides farm management and Setup, the 3SDK Wiki is here to help you with:
  And more
 
 Visit [sdk.threefold.io](https://sdk.threefold.io) to find out more!
+
+## version 2.2 (July 2020)
+
+- todo: need to be created

@@ -4,7 +4,7 @@
 
 !!!include:part2_3node_primitive_workloads.md
 
-!!!include:part5_technical_components.md
+!!!include:technical_components_overview.md
 
 !!!include:part3_capacity_layer_structure.md
 

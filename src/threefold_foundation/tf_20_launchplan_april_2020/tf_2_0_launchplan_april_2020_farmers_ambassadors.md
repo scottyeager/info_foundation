@@ -50,6 +50,6 @@ see [marketingplan_Q2_2020](marketingplan_q2_2020.md)
 # simulation for farming
 
 - [simulations](farming_simulate.md)
-- [farming = token creation](token_creation.md)
+- [farming = token creation](farming_program.md)
 
 if you need help, contact us.

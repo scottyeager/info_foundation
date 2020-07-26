@@ -32,9 +32,10 @@ There are more than 100 independent active parties building the TFGrid today.
 - 3 councils see [threefold_councils](threefold_councils.md) is like our human blockchain
   - signing using blockchain techno by ```TFGrid council``` for minting operation (is a control mechanism)
   - signing using blockchain techno for TF Foundation decisions required in relation to grid by ```TFGrid Council``` (6/9 votes required)
-- new voting system for our TFT community, which allows everyone to be involved in certain decisions.
+  - (ALMOST DONE)
+- new voting system for our TFT community, which allows everyone to be involved in certain decisions (DONE).
   - this voting system will also be used by our councils
-- resell bot for TFTA to TFT on Stellar, Liquid and BTCAlpha runs autonomous using our smart contract for IT layer, multi signed by TFGrid council
+- resell bot for TFTA to TFT on Stellar, Liquid and BTCAlpha runs autonomous using our smart contract for IT layer, multi signed by TFGrid council (DONE)
 - run the TFTA/TFT conversion bot (TFTA burning & TFT creation) by means of our smart contract for IT layer, multi signed by TFGrid council
 
 *More info about suggested changes see update doc [tf update july 2020](threefold_update_july2020.md)*

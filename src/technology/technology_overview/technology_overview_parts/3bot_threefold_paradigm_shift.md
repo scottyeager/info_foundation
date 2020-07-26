@@ -9,4 +9,6 @@ The solution: every person or organization becomes the center of their digital l
 
 The result is a dramatic improvement in security, efficiency, and cost. There is virtually no limit of scale to this approach. To allow the 3Bots to exist, a self-driving, self-healing IT system had to be created.
 
+Today the 3bot is used in the TFGrid to be your virtual system administrator.
+
 ![image alt text](./img/circular_architecture_2.png)

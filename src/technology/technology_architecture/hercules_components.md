@@ -1,6 +1,9 @@
-# Technology Architecture
+# Hercules Components
 
 ![](./img/hercules.png)
+
+We used the branding of Hercules to describe the components as used in the TFGrid.
+The following sheets have been used by TFTech towards their customers to build solutions with.
 
 - <a href="ThreeFold Architecture Overview.pdf">ThreeFold Architecture Overview</a>
 
