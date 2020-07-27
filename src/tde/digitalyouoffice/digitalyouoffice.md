@@ -1,6 +1,6 @@
 # Digital You Office
 
-![](3botdemo_slides.png)
+![](../img/digitalyou/digitalyouoffice.png)
 
 To enable Digital You Office, we integrated with [onlyoffice](https://www.onlyoffice.com/) for this, which is in our opinion the best made office solution that gets close the above cited criteria. Only Office is open-source (which we use today) but we also want to make a license deal with them to cater for support and allow even enterprises to use this on a larger scale. 
 

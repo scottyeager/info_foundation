@@ -1,6 +1,6 @@
 # Digital You Files
 
-![](./img/file_manager.png)
+![](../img/digitalyou/digitalyoufiles.png)
 
 *The Digital You Files* 
 
