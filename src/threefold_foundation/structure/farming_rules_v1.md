@@ -10,8 +10,6 @@
 
 
 
-
-
 ### Farming Rules from January 1st 2019 until April 30th 2020
 
 |Tokenprice| Difficulty Factor|CU Formula|SU Formula|CU Price|SU Price|
@@ -20,12 +18,10 @@
 
 
 #### Glossary:
-CRU = 1 logical core of a CPU
 
-MRU = 1 GB of memory
-
-SRU = 1 GB SDD storage
-
-HRU = 1 GB of HDD storage
+- CRU = 1 logical core of a CPU
+- MRU = 1 GB of memory
+- SRU = 1 GB SDD storage
+- HRU = 1 GB of HDD storage
 
 

@@ -7,7 +7,7 @@
 |	on public blockchain	|	march 2018	|	2020 May	|	2020 May	|
 |	farmed since	|	+-2017	|	2020 May	|	tbd	|
 |	freely transferable (*)	|	YES	|	YES	|	YES	|
-|	complete blockchain featureset	|	YES	|	YES	|	YES	|
+|	complete blockchain feature set	|	YES	|	YES	|	YES	|
 |	decentralized exchange	|	YES (atomic swap)	|	YES (Stellar)	|	YES (Stellar)	|
 |	public exchange	|	BTC Alpha	till Dec 2019|	Stellar	|	BTC Alpha & Liquid	|
 |	freely tradable on exchange	|	YES	|	YES	|	YES	|
@@ -62,5 +62,3 @@ Jan 2021 there will be a migration bot to assist everyone to migrate from v1 to 
 The Foundation is organizing a TDE = [Token Distribution Event](token_overview_tde.md) and has raised +1m USD for this event.
 This funding allowed the onboarding of Liquid exchange and the marketing & promotion efforts of last 12 months as executed in TF Foundation. Our original idea was to raise money for the TDE on liquid but this did not happen/work, the TF Foundation had 1 month priority on liquid to try and sell TFTv1, we used a 3e party marketmaker for this.
 We are preparing our TDE for probably sept 2020. 
-
-

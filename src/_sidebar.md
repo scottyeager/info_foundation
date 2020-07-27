@@ -7,7 +7,7 @@
       - [Smart Contract for IT](smart_contract_for_it.md)
       - [Open-Source Links](grid_tech_opensource.md)
       - [Less is More](grid_tech_zeropeople.md)
-    - [ThreeFold Presentation](conscioustech.md)
+  - [ThreeFold Presentation](conscioustech.md)
   - [Valuable Grid](tf_grid_valuation.md)
   - [How It Works](how_it_works)
   - [Roadmap](roadmap.md)

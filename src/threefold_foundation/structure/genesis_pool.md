@@ -12,11 +12,7 @@ ThreeFold is the result of more than 20 years of work in the internet space over
 
 [TFTech](tftech.md) is a company born out of our Incubator called [Incubaid](http://www.incubaid.com/) in Belgium. TFTech has as purpose to further develop the software and commercialize the capabilities on a global basis, mainly by working together with tech partners.
 
-
-![](./img/genesis_pool_tokens.png)
-
-
-The public version of our blockchain has been started March 2018, the servers used during development and mining tokens already started +- 2 years before, in other words 2016+.
+The public version of our blockchain has been started March 2018, the servers used during development and mining tokens already started years before.
 
 Many hundreds of servers have been used to develop the technology which now makes up our ThreeFold Grid. 
 
@@ -30,7 +26,7 @@ The rules of farming see [farming rules v1](farming_rules_v1.md) have been appli
 
 ### What happened with the Genesis Pool Token
 
-- Most of the genesis pool tokens went to the original investors of the company who created a lot of the technology, most of these tokens are locked up and are not tradable. This was a deal made mid 2018 and provided the ThreeFold foundation with technology and a global engineering team.
+- Most of the genesis pool tokens went to the original investors of the company who created a lot of the technology (GIG), most of these tokens are locked up and are not tradable. This was a deal made mid 2018 and provided the ThreeFold foundation with technology and a global engineering team.
 - The other part went to ThreeFold Foundation, most of these tokens are also locked up.
 
 Since then part of the token have been used to
@@ -43,3 +39,4 @@ Since then part of the token have been used to
 - Reward for the ThreeFold larger community and contributors.
 
 
+> Do note every TFT is the result of available IT capacity (farming).

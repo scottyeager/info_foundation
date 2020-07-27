@@ -16,7 +16,7 @@
     - TF Foundation Dubai has a new website and a new wiki (https://wiki.threefold.io)
     - a manual on how to use the TF Grid 2.0 (see https://sdk.threefold.io).
     - the cloud itself is on https://cloud.threefold.io
-    - the farmers & tft token holders have at own will upgraded their wallets, zero-nodes, ... 
+    - the farmers & TFT token holders have at own will upgraded their wallets, zero-nodes, ... 
 - May 2020: TF Foundation Dubai launched our 2nd version of our token called TFT but this time on Stellar
     - the original TFTv1 kept all same properties and benefits and is now called TFTA also on Stellar
     - TF Foundation Dubai has provisioned the TFTv1 & TFTv2 on Stellar blockchain, but has no influence or access to any of the wallets or for that matter the 3nodes (The boxes providing IT capacity)
