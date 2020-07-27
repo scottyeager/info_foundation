@@ -22,6 +22,6 @@ Learn more about the Farming on the ThreeFold Grid:
 - [Become a Farmer](become_a_farmer.md)
 - [Farming Simulation](farming_simulate.md)
 - [Farming Concepts](grid_concepts.md)
-      - [Cloud Units](cloud_units.md)
-      - [Cloud Production Rate](cloud_production_rate.md)
+  - [Cloud Units](cloud_units.md)
+  - [Cloud Production Rate](cloud_production_rate.md)
 - [Farm Setup & Management](farm_setup_management.md)
