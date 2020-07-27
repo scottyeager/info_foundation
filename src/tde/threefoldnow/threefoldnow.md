@@ -1,4 +1,4 @@
-# Project: TF Grid Solutions
+# ThreeFoldNow
 
 ![](cap2layer.png)
 
@@ -18,15 +18,15 @@ These are beautiful projects we want to get them to work on our grid in a seamle
 - Private networks, connect multiple of these solutions together
 - Monitoring integration, feed monitoring info to your chosen monitoring server (garafana/prometheus)
 
-### Funding
-
-- Required funding to finish roadmap as described below: 2,500,000 TFT
-
 ### Team
 
-- see https://www.codescalers.com/
+- Team [CodeScalers](https://www.codescalers.com/)
 
-### Roadmap
+### Funding
+
+- Required funding to finish milestones as described below: 2,000,000 TFT
+
+### Milestones
 
 | Version         | Date   | Description | Remark |
 |:-------------|--------|-------------|-----------------|

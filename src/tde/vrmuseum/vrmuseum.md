@@ -12,20 +12,20 @@ Art is one of the most important tools to inspire faith and cultural growth givi
 
 Artheon VR Museum to day has a database of 400,000+ artworks from across the globe that can be experienced both in VR and desktop. Artheon is growing into a crowd-sourced global art database empowering smaller museums, private collections, galleries and individuals with tools to publish and display artwork and provide courses, tours, lectures, events, around art culture and history.
 
-Learn more about this project on [Conscious Internet Alliance](https://www.consciousinternet.org/index.html#/projects/artheon).
+Learn more about this project on [the Alliance for a Conscious Internet](https://www.consciousinternet.org/index.html#/projects/artheon).
 
 ### Team
 
-- Vasily Gnuchev
+- [Vasily Gnuchev](https://www.consciousinternet.org/#/people/vasily_gnuchev)
 
 ### Funding
 
-- Funding to finish roadmap as described below: 500,000 TFT
+- Funding needed for next milestones as described below: 500,000 TFT
 
-### Roadmap
+### Milestones
 
-| Version         | Date   | Description | Remark |
+| Name         | Date   | Funding needed (TFT) | Description
 |:-------------|--------|-------------|-----------------|
-| Platform v2.0 - Social |  2020/09 | Integration on TF Grid and 3Bot, Crowdsourcing tools - upload, display and manage art data; Collaborative - up to 16 users in one location; Social collections - build communities of art lovers; Similarity search - visual, theme, style, details; Recommendations - advanced, personalized; Learning games - history of art.
- | |
-| Platform v3.0 - AI |  2020/12 | Marketplace - earn for being active, create and sell your educational materials; Tours - unlimited participants; Events and Guides - lectures, masterclasses, guided tours and art performances; Visual Data Stories - dashboards, graphs, history and parallels between artists and cultures based on data; Proactive Recommendations - get something new and interesting every time; Learning Courses - art and performance. | |
+| Integration on the TF Grid | Q3 2020 | 500,000 | Integration on TF Grid and 3bot connect |
+| Platform v2.0 - Social | Q3 2020 | n/a | Crowdsourcing tools - upload, display and manage art data; Collaborative - up to 16 users in one location; Social collections - build communities of art lovers; Similarity search - visual, theme, style, details; Recommendations - advanced, personalized; Learning games - history of art. |
+| Platform v3.0 - AI | Q4 2020 | n/a | Marketplace - earn for being active, create and sell your educational materials; Tours - unlimited participants; Events and Guides - lectures, masterclasses, guided tours and art performances; Visual Data Stories - dashboards, graphs, history and parallels between artists and cultures based on data; Proactive Recommendations - get something new and interesting every time; Learning Courses - art and performance. |

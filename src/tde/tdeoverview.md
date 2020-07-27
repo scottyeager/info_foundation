@@ -1,60 +1,74 @@
 ![](./img/tf_tde_intro.png)
 
-# Token Distribution Event For ThreeFold Grid Use Cases
+# Token Distribution Event for the ThreeFold Grid use cases
 
-> _Note: If you're interested in participating in the Token Distribution Event, please visit the Token section of this wiki, and in particular "How to Buy."_
+> **NOTE:** If you're interested in participating in the Token Distribution Event, please visit the Token section of this wiki, in particular "How to Buy."
 
-### Introduction
+> **IMPORTANT:** We believe the ThreeFold Token (TFT) value should not be based on speculation or velocity (usage on public exchanges).
+Please buy this token only if you believe in future value of the TF Grid and wish to support projects building their solutions on top of the TF Grid.
 
-The TFT is the token of the new internet and has been created 2 years ago. ThreeFold Farmers have been providing a lot of capacity since then.
+> **IMPORTANT:** The TFT is NOT an investment instrument.
+The TFT is meant to be a value of exchange on the TF Grid and is used to buy and sell IT capacity.
 
-We did not do any ICO or other token creation event. Every token is the result of farming of Internet capacity.
+## Introduction
 
-We started with our token on our own blockchain but have now moved to the Stellar payment network. ThreeFold Farmers have donated 70m TFT to our Foundation.
+The TFT is the token of the new internet and has been created 2 years ago. Every token is the result of farming of Internet capacity and storage. 
 
-We are organizing a Token Distribution Event on Stellar and 2 public digital currency exchanges (Liquid and BTC-Alpha), to benefit projects (listed below) which have as purposes to provide value to the ThreeFold movement and to do good for our planet.
+We started our token on our own blockchain (Revine) but have now moved to the Stellar payment network.
 
-### Project Funding
+ThreeFold Farmers have donated 70m TFT to ThreeFold Foundation.
+Anyone who owns TF Tokens can donate it to TF Foundation that way supporting growth of the TF Grid. 
 
-You can buy our ThreeFold Token on 2 public exchanges (Liquid and BTC-Alpha), existing farmers or through Stellar. By buying tokens, you directly support these projects and therefore the growth of the ThreeFold Grid and its experiences.
+The Token Distribution Event is organized to benefit projects (listed below) which have as purpose to provide value to the ThreeFold movement building their solutions on top of ThreeFold Grid and by doing so serving our planet.
 
-Its very easy to [buy these TFTs](how_to_buy_and_sell.md) and as such become part of the larger ThreeFold experience. 
+## Project Funding
 
-![](./img/projects_overview_pie2.png)
-*Note: This image still needs to be updated to include Money of Good token.*
+You can buy ThreeFold Token (TFT) on 2 public exchanges (Liquid and BTC-Alpha), from existing farmers or through Stellar. By buying tokens, you directly support projects (listed below) and therefore the growth of the ThreeFold Grid and experiences built on top of it.
 
-### How Does It Work
+Its very easy to [buy TFT's](how_to_buy_and_sell.md) and as such become part of the larger ThreeFold ecosystem. 
 
-You can [buy](how_to_buy_and_sell.md) TFT directly or you can also choose to buy a token directly for a specific project, this allows you to decide where the benefit goes of your TFT purchase. 
+![](./img/projects_overview_pie3.png)
 
-Each branded TFT is exactly the same as the original TFT. It's just a different name for the same token, but the benefit of your purchase on the Stellar exchange goes directly to the wallet of that specific project.
+## How Does It Work
 
-Any non-branded TFTs purchased during the TDE will be distributed according to the pie chart above.
-Please do note, we are on public exchanges where the Foundation offers these TFT at 0.15USD during May & June, any other TFT owner can also sell at their own conditions.
+You can [buy TFT's](how_to_buy_and_sell.md) during the Token Distribution Event where all received funds will be distributed according to the pie chart above.
 
-There will be a maximum of 70m TFT tradable during that period.
+> **NOTE:** On public exchanges the ThreeFold Foundation offers TFT's at 0.15USD, any other TFT owner can also sell at their own conditions.
 
 !!!include:tft_not_investment
+
 > This is not an ICO or IEO, all tokens are the result of previous farming (mining) activities done by the ThreeFold farmers and sold on public Exchanges.
 
-### Project Overview
-Each project has its own branded token (Token Name) which can be found (bought, sold, traded) on Stellar Decentralized Exchanges.
+There will be a maximum of 70m TFT available during the TDE proportionaly distributed between do-good projects (as per pie chart above).
 
-| Project Name | Token Name | Amount Available | Description |
-|:-------------|---------------:|---------------:|:------------|
-| [TF Foundation](foundation_proj.md)	| TFTFD | 25,000,000		| Foundation funding (marketing, operations team, grid roll out, roadshows, ...) |
-| [3bot (Digital Twin)](3botproj.md)	| TFT3B | 10,000,000		| 80% of our digital life implemented on top of the 3bot |
-| [TF Grid enhancements](gridenhancements.md)	| TFTGE | 10,000,000		| Further improvements to the grid as sponsored by the TF Foundation |
-| [3bot Office](3botoffice.md)	 | TFT3O | 5,000,000		| 100% compatible office suite running on top of your 3bot |
-| [Crystal Language](crystallang_proj.md)	| TFTCL | 4,000,000		| Core language used to implement the 3bot and future SDK for ThreeFold |
-| [P2P Education](planed.md)	| TFTEDU | 3,000,000		| World's first true peer-to-peer education system on top of TF Grid |
-| [3bot Browser](3botbrowser.md)	 | TFTBR | 3,000,000		| Personal browser running close to our 3bot |
-| [3bot Files](3botfiles.md)	| TFT3F | 3,000,000		| Our personal cloud on the TF Grid |
-| [TF Grid Solutions](gridsolutions.md)	| TFTGS |  2,500,000		| Open source solutions ported to the grid |
-| [FreeFlow connect](freeflowconnect.md) 	| TFTFC | 2,000,000		| Peer-to-peer video conferencing |
-| [3bot Marketing / Prod mgmt](3botmarketing.md)	| TFTMA | 2,000,000		| Bring the 3bot alive as a digital twin |
-| [Social Media / Collaboration](socialmedia_proj.md) | TFTSM | 2,000,000		| Combination of social media / productivity & collaboration tools |
-| [TF Grid User Interface](griduserinterface.md)	| TFTUI | 1,000,000		| Easy-to-use interface to provision IT workloads on the grid |
-| [Virtual Reality Museum](vrmuseum.md)	| TFTVR | 500,000		| Virtual reality museum online of 500.000 artworks as part of TF Grid |
-| [TimeBank](timebank.md)	| TFTTB | 333,333		| World first global time token, on top of TF Grid, +200k users today |
-| [Money of Good](moneyofgood.md)	| TFTMOG | 150,000		| Driving the transition to a new fair and sustainable economy while raising consciousness and well-being through meditation. |
+> **IMPORTANT:** TFT's are NOT an investment instrument. This is NOT an ICO or IEO. All tokens are a result of previous farming (mining) activities done by the ThreeFold Farmers and sold on public exchanges (as for now public exchanges are still the only way to allow people to buy TFT's).
+
+## Project Overview
+
+For each project an amount of TFT's has been made available based on their upcoming milestones.
+
+| Project Name | Amount Available | Description |
+|:-------------|---------------:|:------------|
+| [TF Foundation](tffoundation.md) | 24,000,000		| Funding the ThreeFold Foundation (marketing, operations team, grid roll out..) |
+| [Crystal Twin](crystaltwin.md) | 11,000,000		| 80% of our digital life implemented on top of the 3bot |
+| [TF Grid Enhancements](gridenhancements.md) | 10,000,000		| Further improvements to the TF Grid as sponsored by the TF Foundation |
+| [Digital You Office](digitalyouoffice.md) | 5,000,000		| 100% compatible office suite running on top of your 3bot |
+| [Crystal Language](crystallang_proj.md) | 4,000,000		| Core language used to implement the 3bot and future SDK for the ThreeFold |
+| [EarthProject](earthproject.md) | 3,000,000		| World's first true peer-to-peer education platform on top of the TF Grid |
+| [Digital You Files](digitalyoufiles.md) | 3,000,000		| Our personal cloud on the TF Grid |
+| [Digital You Browser](digitalyoubrowser.md) | 3,000,000		| Personal browser running close to our 3bot |
+| [Digital You Meet](digitalyoumeet.md) | 2,000,000		| Peer-to-peer video conferencing tool |
+| [Social](social.md) | 2,000,000		| Exciting social network tool on top of the TF Grid / 3bot connect |
+| [ThreeFoldNow](threefoldnow.md) |  2,000,000		| Open source solutions ported to the TF Grid |
+| [Digibyte Foundation](digibytefoundaion.md) |  1,000,000		| Onboarding token for the ThreeFold Grid and go-to-market partner, integration in the TF Wallet |
+| [TF Grid User Interface](griduserinterface.md) | 1,000,000		| Easy-to-use interface to provision IT workloads on the TF Grid |
+| [Shareitt](shareitt.md) | 500,000		| Integration of Shareitt app on the TF Grid and Crystal Twin |
+| [Vlinder](vlinder.md) | 500,000		| Personal planet first finance app on top of 3bot /Crystal Twin |
+| [The Humanized Internet](thehumanizedinternet.md) | 500,000		| Digital identity for everyone running on top of the TF Grid / 3bot connect |
+| [Artheon VR Museum](vrmuseum.md) | 500,000		| Virtual reality museum online with 500,000+ artworks as part of the TF Grid |
+| [Zetako](zetako.md) | 500,000		| Integration of incredible lossless data compression technology on the TF Grid |
+| [Beliive](timebank.md) | 333,333		| World first global time token, on top of the TF Grid, +200k users today |
+| [Generation Blue](generationblue.md) | 333,333		| Tokenization of rainforests bult on top of the TF Grid, using CrystalTwin / the TF Wallet |
+| [Unit](unit.md) | 150,000		| Integration of Unit technology on top of the TF Grid / 3bot, to empower small businesses |
+| [Crystal Home](crystalhome.md) | 150,000		| Enable offgrid homes to use Crystal Twin and the TF Grid / 3bot |
+| [Money of Good](moneyofgood.md) | 150,000		| Raising consciousness through meditation app built on top of the TF Grid |
