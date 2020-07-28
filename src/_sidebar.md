@@ -19,8 +19,6 @@
   - [Farmer Program](farming_program.md)
   - [Farming Simulations](farming_simulate.md)
   - [Farming Concepts](grid_concepts.md)
-      - [Cloud Units](cloud_units.md)
-      - [Cloud Production Rate](cloud_production_rate.md)
   - [Farm Setup & Management](farm_setup_management.md)
   - [Farming Simulator](simulator_configure.md)
 - [Tokens](token.md)
