@@ -3,7 +3,7 @@
 - ThreeFold Whitepaper v0.9.16
 
 ```pdf
-https://github.com/threefoldfoundation/info_foundation/raw/master/src/master/token/whitepaper_history/ThreeFold%20Whitepaper%20v0.9.16.pdf
+https://github.com/threefoldfoundation/info_foundation/raw/master/src/token/whitepaper_history/ThreeFold%20Whitepaper%20v0.9.16.pdf
 ```
 
 ### Information hosted on
