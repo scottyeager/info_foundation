@@ -2,7 +2,7 @@
 
 Very interesting question.  As shown in the figure a 3bot receives its knowledge (abilities) from IT experts.  These IT experts will be for a very large part developers or system integrators that have good intentions and want to build or launch new services.  But, there will be people that will abuse the 3bot technology to launch malicious and or fraudulent applications.  What can be done about that?
 
-The system in itself allows for anyone to build and create services on top of the TF Grid and by the decentralized nature the ThreeFold foundation or TF Tech will not govern, this would be 100% against the decentralized nature of this project.
+The system in itself allows for anyone to build and create services on top of the TF Grid and by the decentralized nature the ThreeFold foundation or TFTech will not govern, this would be 100% against the decentralized nature of this project.
 
 ![](it_expert.png)
 
@@ -16,6 +16,6 @@ We do checks and balances in real life which gives us insight into what is a leg
 
 For 3bot this works in the same way. 3bots are being given capabilities and knowledge by IT experts.  These IT experts can seek digital verifications with known Internet verifiers.  I well used mechanism for central organizations to understand who they accept as customers is Know Your Customer [KYC](https://en.wikipedia.org/wiki/Know_your_customer).  This same mechanism can be used in the 3bot world for IT experts, knowledge providers, to be verified for customers: Know Your IT Exper.  
 
-So it is reputation based where the 3bot will have a reputation based on its past, based on its behaviors an based on all the interactions with other 3bots.  All this information is stored in decentralized databases (called blockchain databases, BCDB's, invented by TF Technology) which have the characteristics of a regular blockchain  (always append and immutable data) but can be used like a regular database.  This results in reputation being stored and available for everyone to inspect.
+So it is reputation based where the 3bot will have a reputation based on its past, based on its behaviors an based on all the interactions with other 3bots.  All this information is stored in decentralized databases (called blockchain databases, BCDB's, invented by TFTechnology) which have the characteristics of a regular blockchain  (always append and immutable data) but can be used like a regular database.  This results in reputation being stored and available for everyone to inspect.
 
 The technical part of the answer to this question is that the technology has a built-in consensus mechanism (item 4 in the image) where end-users, consumers of services, can launch a service if consensus is reached amongst a group of end-users (which can be people or legal entities represented on this grid by respective 3bots).  Respected people or legal entities will offer verifications services which IT experts can build into their services.  This is a build-in decentralized consensus mechanism.

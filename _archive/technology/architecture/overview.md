@@ -1,6 +1,6 @@
 ## Architecture Overview
 
-### What problem is TF TEch solving?
+### What problem is ThreeFold solving?
 
 ThreeFold tech has developed technology that aims to break through barriers.  Current barriers for prolifiration of technology throughout the world are financial and technology:
 - **Finanicial**. Not all global citizens have access to a bank account and complementary credit/debit cards.  Therefore the current digtial service providers are not accessible for all.  In order to break through this barrier a digital currency is needed.
@@ -16,7 +16,7 @@ So to break these two major obstacles ThreeFold tech has developed technology th
 
 #### Smart contracting (1+2).
 
-Every personand and/or legal entity is represented on the grid by a digital avatar called a "3bot".  This  3bot has capabilities to represent persons or legal entities in a unique way in the following areas:
+Every person and and/or legal entity is represented on the grid by a digital avatar called a "3bot".  This  3bot has capabilities to represent persons or legal entities in a unique way in the following areas:
 - a unique digital identity
 - a unique digital currency wallet
 - capabilities to query, search, find and communicate to other 3bot's in a securely (encrypted) peer2peer (3bot to 3bot)
@@ -27,9 +27,7 @@ With these capabilities the digital representation of people and legal entities 
 
 Based on search requirements specified by the user (preferred geo, price, availability, etc. etc.) the 3both will find producers of capacity which match the criteria of the user and conduct a negotiation process to meet the producers terms and conditions and meet all of the users requirements.  Once all agreed, a digital currency transaction is done and the IT expert / Farmer accept the capacity reservation.
 
-Technology repositories:
-- [Jumscale libraries](https://github.com/threefoldtech/jumpscaleX_core)
-- [3bot](https://github.com/threefoldtech/jumpscaleX_threebot)
+Technology repositories: [github](https://github.com/threefoldtech/), look for jumpscale next gen which is the newest version.
 
 #### Contract storage: Blockchain database (3)
 

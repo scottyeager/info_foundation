@@ -31,6 +31,6 @@ Specific priorities will have to be defined but the more funding has been found 
 
 | Name         | Date   | Funding needed (TFT) | Description
 |:-------------|--------|-------------|-----------------|
-| Launch the platform | Q3 2020 | 1,500,000 | Platform (EarthProject) that allows students and teachers to connect globally. 300,000 refugees will receive free education powered by TF technology to support offline learning resources, office, file manager, video streaming and conferencing and time token as currency |
-| Expansion with focus on Climate Crisis | Q3 2021 | 1,500,000 | Extend EarthProject platform  powered by TF technology allowing students globally to explore, discuss, create and share solutions around climate change, and take action. We will work with governments to bring substantial change in 10 countries. |
+| Launch the platform | Q3 2020 | 1,500,000 | Platform (EarthProject) that allows students and teachers to connect globally. 300,000 refugees will receive free education powered by TFTechnology to support offline learning resources, office, file manager, video streaming and conferencing and time token as currency |
+| Expansion with focus on Climate Crisis | Q3 2021 | 1,500,000 | Extend EarthProject platform  powered by TFTechnology allowing students globally to explore, discuss, create and share solutions around climate change, and take action. We will work with governments to bring substantial change in 10 countries. |
 

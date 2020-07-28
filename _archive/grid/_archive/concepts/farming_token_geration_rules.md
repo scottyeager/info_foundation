@@ -34,7 +34,7 @@ For specific information on the capacity types please select "Capacity types" in
 
 There will be no distinction between certified and uncertified capacity up to the point of the commercial grid launch.  This is currently planned for mid Q1 2020. All the capacity that is build up in the period up to commercial launch will be treated the same.  Certified and non certified hardware will mint the same amount of tokens as both hardware types are used for the same purpose: TESTNET.
 
-From the launch onwards any new capacity presented to the TF Grid will be treated as displayed in table available under "Capacity type" in the menu on the left.  The difference is the difficulty factor in token minting (16 for uncertified and 8 for certified) for the farming effort and when capacity consumption starts certified capacity incurs a 10% support license fee for TF Tech, the technology creating company.  Both type of capacity will pay a 10% token fee to the ThreeFold Foundation.
+From the launch onwards any new capacity presented to the TF Grid will be treated as displayed in table available under "Capacity type" in the menu on the left.  The difference is the difficulty factor in token minting (16 for uncertified and 8 for certified) for the farming effort and when capacity consumption starts certified capacity incurs a 10% support license fee for TFTech, the technology creating company.  Both type of capacity will pay a 10% token fee to the ThreeFold Foundation.
 
 ### Farming TFT minting
 

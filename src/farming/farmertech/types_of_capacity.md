@@ -45,9 +45,9 @@ Everyone who uses this capacity (which will be more cost effective than Certifie
 | **Farming Token Distribution** | After 30% capacity reservation (2) | Immediately 100%| Immediately 100%| TBD|
 | **Cultivation Token Distribution** |   |  |  |  |
 | **TF Foundation Promotion Fee** | 10% | 10% | 10% | 10% |
-| **TF Tech License Fee** | -| 10% | 10% | TBD |
+| **TFTech License Fee** | -| 10% | 10% | TBD |
 | **Managed Service Fee** | - | - | - | TBD |
-| **TF Tech Contract** | - | YES | YES | YES |
+| **TFTech Contract** | - | YES | YES | YES |
 
    
 (1) starts H2 2019

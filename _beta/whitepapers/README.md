@@ -1,6 +1,6 @@
 ![](https://images.unsplash.com/photo-1468779036391-52341f60b55d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3642&q=80)
 
-## TF Tech whitepapers
+## TFTech whitepapers
 
 The technology stack is very advanced and uses very different concepts and archietctures to get things done that many (all) other software stacks.  This sections will allow people to get familiar with the differrent principles and architectual components used.
 
@@ -22,7 +22,7 @@ The big challenges for Information Technology today are:
 #### IT Capacity is not available where the users need the capacity (edge)
 
 
-At the core the TF Tech technology is pushing Autonomous Information technology.  Most of what we refer to today as Information Technology is too complex to an average person to understand and work with which has created this 
+At the core the TFTech technology is pushing Autonomous Information technology.  Most of what we refer to today as Information Technology is too complex to an average person to understand and work with which has created this 
 
 #### Self Driving IT
 people consensus driven = X people agree on deployment, 

@@ -10,7 +10,7 @@ A Farmer earns tokens in 2 ways:
 
 There are two types of capacity farmers:
 
-- Certified Farmers: A certified hardware using farmer that has entered into, and is compliant with, the present Terms of the TF Tech Service Level Agreement.
+- Certified Farmers: A certified hardware using farmer that has entered into, and is compliant with, the present Terms of the TFTech Service Level Agreement.
 - DIY Farmers: Use their own choice of hardware (uncertified hardware).
 
 Learn more about farming in the grid section of this wiki.

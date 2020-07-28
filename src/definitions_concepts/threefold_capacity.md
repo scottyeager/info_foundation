@@ -9,3 +9,5 @@ ThreeFold capacity provides the following 3 basic services:
 - Network Gateway Services: integration with ZeroTier network, HTTP(s) reverse proxy, DNS services, TCP Portforwarding
 
 These basic services are ordered through the TF Chain only. SLA's (service level agreements) cannot be guaranteed on Unmanaged Capacity and as such not registered in the TF Chain.
+
+See [cloud_units](cloud_units) for more info.

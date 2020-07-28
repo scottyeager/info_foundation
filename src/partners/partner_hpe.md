@@ -2,7 +2,7 @@
 
 ![](./img/hpe.png)
 
-TF Tech and HP Enterprise are partnering to create a strategic plan to help Enterprise around the world to create and deliver private blockchain and compute and storage solutions.
+TFTech and HP Enterprise are partnering to create a strategic plan to help Enterprise around the world to create and deliver private blockchain and compute and storage solutions.
 
 ## HPE Overview
 

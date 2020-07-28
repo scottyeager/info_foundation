@@ -32,7 +32,7 @@
 |  % of capacity sold over 60 months |  |  |
 |  % price erosion (over the years of avg pricing) |  |  |
 |  % transfer to ThreeFold Foundation |  |  |
-|  % transfer to TF Tech |  |  |
+|  % transfer to TFTech |  |  |
 |  Burning TFT | yes** |  |
 |  Income from IT Capacity over 60 month (certified) | 40%*** |  |
 |   |  |  |

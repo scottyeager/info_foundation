@@ -15,14 +15,14 @@
 ## Trello Boards
 
 - coordination
-    - [TF Tech](https://trello.com/b/gPzYrjTJ/tftechstories)
+    - [TFTech](https://trello.com/b/gPzYrjTJ/tftechstories)
     - [TF Grid Africa](https://trello.com/b/xbQlLuLh/tfgridfunnelafrica)
     - [TF Impact](https://trello.com/b/tMIqBCvd/tfimpactstories)
     - [Hujambo Africa](https://trello.com/b/pdWHo1Uf/hujambostories)
 - contribution
     - [TF Grid Stories](https://trello.com/b/FOZrIDOL/tfgridstories)
     - [TF Token](https://trello.com/b/IqHW5DeD/tftokenstories)
-    - [TF Tech Funnel](https://trello.com/b/8KWOUXAM/tftechfunnelfunding)
+    - [TFTech Funnel](https://trello.com/b/8KWOUXAM/tftechfunnelfunding)
     - [TF Token Funnel](https://trello.com/b/PQXC3FHZ/tftokenfunnelsales)
     - [TF Innovate Fund Funnel](https://trello.com/b/OTDDFdnX/tfinnovatefunnelfund)
     

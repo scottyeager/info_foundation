@@ -14,7 +14,7 @@ For 2020 the foundation recognises three type of capacity as listed in the table
 |   | **Location** | Anywhere | Anywhere | Anywhere |
 |   | **Boot Process** | Manual | Secure Boot Environment (onboard iLo5) | Secure Boot Environment (Software) |
 |   | **Security** | Software: High<br/>Hardware: Low | Software: High<br/>Hardware: High | Software: High<br/>Hardware: Low |
-|   | **TF Tech License** | No | Yes | Yes or no (managed capacity farmer can decide) |
+|   | **TFTech License** | No | Yes | Yes or no (managed capacity farmer can decide) |
 |  **Farming Tokens** | **Eligible** | Yes | Yes | No |
 |   | **Distribution** | Immediately 100% | Immediately 100% | na |
 |   | **Difficulty Factor** | 16 | 8 | - |
@@ -29,7 +29,7 @@ For 2020 the foundation recognises three type of capacity as listed in the table
 |   | **USP** | - Hardware: Unverified<br/>- Security: Unverified<br/>- Real Estate: Unverified<br/>- Farmer credentials: Unverified | - Hardware: HPE - Verified (by a verifier)<br/>- Security: Hard and Software Verified<br/>- Real Estate: Verified<br/>- Farmer credentials: Verified | unknown |
 |   | **Eligible** | Yes | Yes | Yes |
 |   | **TF Foundation Fee** | 10% | 10% | 10% |
-|   | **TF Tech Fee** | 0% | 10% | open to farmer decision |
+|   | **TFTech Fee** | 0% | 10% | open to farmer decision |
 |   | **Cultivation Percentage For Farmer** | 90% | 80% | 90% or 80% |
-|   | **TF Tech Support** | No | Yes | Yes or no |
-|  **TF Tech Contract** |  | No | Yes | Yes or no |
+|   | **TFTech Support** | No | Yes | Yes or no |
+|  **TFTech Contract** |  | No | Yes | Yes or no |

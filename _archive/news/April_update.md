@@ -61,7 +61,7 @@ We are the ideal candidate for investment today. Our valuation is still low and 
 *   Launch our next generation public grid: first on TestNet with test TFT’s later on Realnet.
     *   We did not achieve it yet, we had a delay on our launch of the minting process.
     *   We are working with the last few farmers to upgrade to the new software but expect to be live very soon, < 2 weeks.
-*   Sign at least 50 investors for TF Tech:
+*   Sign at least 50 investors for TFTech:
     *   We did sign about 50% of our funding goal which is +- in line with the above goal.
 *   Roadshows in Europe mainly about the grid and how to use it.
     *   We did not do this (yet, will start soon).
@@ -69,7 +69,7 @@ We are the ideal candidate for investment today. Our valuation is still low and 
     *   Done, we have an office and a new team is working on this project.
 *   Start hiring +10 technical people.
     *   Progressing on plan.
-*   All legal work done for TF Tech.
+*   All legal work done for TFTech.
     *   Done
 *   Publicly launch our own FreeFlow Pages in beta version (for our own content).
     *   Done
@@ -135,7 +135,7 @@ This project enables a 100% decentralized banking solution where the following f
 *   EUR Tokens (linked to real EUR)
 *   VISA Debit card
 
-This project will use our new wallet technology and will be fully integrated with our 3bot. TF Tech team and NBH Digital team is working on this project, more information soon.
+This project will use our new wallet technology and will be fully integrated with our 3bot. TFTech team and NBH Digital team is working on this project, more information soon.
 
 Thank you to our partner in this exciting project.
 
@@ -243,7 +243,7 @@ Some items from past need to be fixed
 7. Prepare campaign for Token Liquidity (we try for May/June) (Adnan)
     1. There is lots we are doing to make the Tokens Liquid in an organic way, preparing this is a lot of work. It's mainly working with partners to get liquidity going because people need to buy the TFT for their use cases.
 8. Fintech Technology (Michael, Lucie, Owen, Weynand, Kristof…)
-    1. Our technology is very well suited to use at banks, we have some first great traction, we need to solidify this traction at TF Tech.
+    1. Our technology is very well suited to use at banks, we have some first great traction, we need to solidify this traction at TFTech.
 9. Our 5 OpenApps (Kristof, Reem, Christophe, …)
     1. will drive utilization of the grid and they are very exciting use cases of our grid
 10. Strategic Farmers (Andreas)
@@ -255,7 +255,7 @@ Some items from past need to be fixed
 (we feel it's better to first resolve above and then go big later this year)
 *   TFT on large Exchanges or create too much Hype for TFT (we believe it's the wrong way)
 *   Roadshows for developers (ISVs) to get them to use the TF Grid (for later this year).
-*   More solutions which can be created using our TF Tech technology
+*   More solutions which can be created using our TFTech technology
 
 ## Planned Events
 

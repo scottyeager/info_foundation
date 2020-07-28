@@ -1,6 +1,7 @@
 # Whitepaper Original
 
-- ThreeFold Whitepaper v0.9.16
+- ThreeFold Whitepaper v0.9.16 (March 2018)
+- Was available on website and to everyone at that time to promote the ThreeFold PTO.
 
 ```pdf
 https://github.com/threefoldfoundation/info_foundation/raw/master/src/token/whitepaper_history/ThreeFold%20Whitepaper%20v0.9.16.pdf
@@ -23,8 +24,9 @@ A version of this was also used from ThreeFold Foundation (ThreeFold FZC) and Be
 - [X] Farming model, all done (was 1.0), FYI there is a 2.0 starting May 2020
 - [X] Technology: was there and is there for a long time (Zero-os, zero-chain, ...)
 - [ ] TF Foundation in "Dutch Antilles", not done, legal advised against, we operate our TF Foundation from ThreeFold FZC (Dubai)
-- [ ] TF Foundation Non-Profit, we run the TF Foundation 100% like a Non-Profit, no shareholder has the benefit and will have the benefit, but we didn't find a way how to structure this legally in Dubai. More info see [threefold_foundation](threefold_foundation)
+- [ ] TF Foundation Non-Profit, we run the TF Foundation like a Non-Profit, no shareholder has a personal benefit, but we didn't find a way how to structure this legally in Dubai. More info see [threefold_foundation](threefold_foundation)
 - [X] open source technology
 - [X] utility: TFT is like a utility token, purpose to sell & buy IT capacity
 - [X] Ambassadors, more than 100 right now
 - [X] Marketing effort: partnerships, engineering meetings (online), ...
+- [X] TFGrid usable (until May 2020, only on our 1.x released and for test), starting with the 2.x series in public way by everyone, everywhere.

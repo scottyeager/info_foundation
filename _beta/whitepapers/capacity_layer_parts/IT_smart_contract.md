@@ -10,7 +10,7 @@ Autonomous self-driving IT is possible when we adhere to a few principles from t
 
 When we stick to these two principles we have to do a lot of complicated work and thinking upfront - before deploying any architecture components and seeing any benefit.  While a typical IT setup today is based on trial and error continuously improving the installation to a point where everything works the basis of self driving IT is that everything needs to be considered and described in a "contract" type format before deploying any component.  Then and only then you can deploy self-driving and self-healing applications on a grid of capacity
 
-A system that enforces these two principles if the TF Technology stack.  It works as follows:
+A system that enforces these two principles if the TFTechnology stack.  It works as follows:
 
 ![image alt text](../img/autonomous-it-2.png)
 
