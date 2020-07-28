@@ -18,7 +18,6 @@
 - [Farming](what_is_farming.md)
   - [How To Become A Farmer](become_a_farmer.md)
   - [Farmer Program](farming_program.md)
-  - [Capacity Pricing](capacity_pricing_start)
   - [Farming Simulations](farming_simulate.md)
   - [Farming Concepts](grid_concepts.md)
       - [Cloud Units](cloud_units.md)
