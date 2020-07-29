@@ -4,11 +4,11 @@
 
 Cloud units are the way to account for farmed and used capacity. Cloud units are the compute, storage and network equivalent to kWh - kilowatt-hour - the unit of energy.
 
-We use three categories of units:
+We use three categories of cloud units:
 
-- Compute: the amount of data processing power, specified as the number of virtual CPU cores (logical [CPUs](https://en.wikipedia.org/wiki/Central_processing_unit)) and RAM ([Random Access Memory](https://en.wikipedia.org/wiki/Random-access_memory))
-- Storage: the size of data storage capacity
-- Network: the amount of data that travels in and out of the acquired storage units or data that travels to/from compute capacity expressed in GB.
+- Compute Unit (CU): The amount of data processing power, specified as the number of virtual CPU cores (logical [CPUs](https://en.wikipedia.org/wiki/Central_processing_unit)) and RAM ([Random Access Memory](https://en.wikipedia.org/wiki/Random-access_memory))
+- Storage Unit (SU): The size of data storage capacity
+- Network Unit (NU): The amount of data that travels in and out of the acquired storage units or data that travels to/from compute capacity expressed in GB.
 
 Its a very easy way how to express capacity.
 
@@ -20,18 +20,18 @@ Its a very easy way how to express capacity.
 In this table you find all you need to know to how we calculate cloud units on the ThreeFold Grid.
 v4 is the one used in summer 2020 on TFGrid 2.2+
 
-| CU (Compute Unit) = MRU/CRU per month  |   |   |   | |
+| CU (Compute Unit)   |   |   |   | |
 |---|---|---|---|---|
 | GB Memory         |  4  | 8  |  2  | = MRU |
 | nr vCPU           |  2  | 1  |  4  | = CRU |
 | Passmark Minimum  | 500  | 250 | 1000 | is performance cpu |
 
-Passmark is not measured in the grid, we only use resource units to calculate the su & cu. Passmark is a CPU benchmark. Passmark used in simulators and as checking mechanism to make sure we have enough performance per CU.
+Passmark is not measured in the grid, we only use resource units to calculate the SU & CU. Passmark is a CPU benchmark. Passmark used in simulators and as checking mechanism to make sure we have enough performance per CU.
 
 
-| SU (Storage Unit) = MRU/SRU per month | HD (HRU)  |  SSD (SRU) |  
+| SU (Storage Unit) | HD (HRU)  |  SSD (SRU) |  
 |---|---|---|
-| GB Storage Capacity  |  1000  | 100  | 
+| GB Storage Capacity  |  1000  | 40 | 
 
 | NU (Network Unit = per GB) = NRU per month | GB (NRU)  | 
 |---|---|
@@ -55,7 +55,7 @@ Passmark is not measured in the grid, we only use resource units to calculate th
 
 #### Storage Unit (SU):
 
-- 1TB of neto usable storage (1000 HRU)
+- 1TB of net usable storage (1000 HRU)
 - Recommended price on TF Grid = 10 USD
 - Market price = between 20 USD and 200 USD
 
