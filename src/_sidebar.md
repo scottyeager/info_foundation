@@ -30,7 +30,7 @@
   - [ThreeFold Layers](threefold_layers)
   - [Technology Overview](ThreeFold%20Architecture%20Overview.pdf)
   - [TFTech Solutions](hercules_components.md)
-  - [Capacity Layer](hercules_components.md)
+  - [Capacity Layer](capacity_layer.md)
   - [Smart Contract for IT](smart_contract_for_it.md)
   - [Open-Source Links](grid_tech_opensource.md)
   - [Less is More](grid_tech_zeropeople.md)  
@@ -102,7 +102,7 @@
 	- [Pareto](pareto.md)
 	- [Team Empowerment](team_empowerment.md)
 	- [User Involvement](user_involvement.md)
-- [Manuals]
+- [Manuals](manuals.md)
   - [Grid SDK 2.0 = deploy for grid 2.0](sdk_intro.md)
   - [Grid 3bot 2.2 (not ready)](manual_3bot_2_2.md)
 - [Disclaimer](disclaimer.md)
