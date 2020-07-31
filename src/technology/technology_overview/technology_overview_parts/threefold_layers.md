@@ -11,9 +11,9 @@
 
 **Our system provides more decentralization, security, and efficiency.**
 
-The capacity layer is the layer where CPU and Storage resources are delivered. It consists of hardware (storage/compute servers) and the TF Tech operating system called Zero-OS.
+The capacity layer is the layer where CPU and Storage resources are delivered. It consists of hardware (storage/compute servers) and the TFTech operating system called Zero-OS.
 
-Zero-OS nodes are installed wherever capacity is required (e.g. at a base station for 5G applications, etc). Zero-OS has been designed from the bottom up. TF Tech started from a Linux kernel and secure boot BIOS – everything else in the operating system has been created from scratch. It delivers 3 primitive functions: storage capacity, compute capacity in the form of highly-optimized containers, and network capacity for running the network services.
+Zero-OS nodes are installed wherever capacity is required (e.g. at a base station for 5G applications, etc). Zero-OS has been designed from the bottom up. TFTech started from a Linux kernel and secure boot BIOS – everything else in the operating system has been created from scratch. It delivers 3 primitive functions: storage capacity, compute capacity in the form of highly-optimized containers, and network capacity for running the network services.
 
 This layer has no self-driving or self-healing capabilities – it is a layer of smart, efficient, and secure algorithms created with as little code as possible. The fewer lines of code the more security.
 
@@ -27,7 +27,7 @@ This layer has no self-driving or self-healing capabilities – it is a layer of
 
 **Each user or legal entity has its own "digital self."**
 
-TF Tech’s solution allows for self-driving and self-healing workloads. This is possible because of an innovative decentralization technique. Each user or organization (e.g. company or department of the company) gets a digital avatar which we call a 3Bot. Example: each user in the 5G network will have his or her own 3Bot in complete safety and data privacy. The 3Bots are all registered on a modern type of phone book implemented using blockchain technology. 
+TFTech’s solution allows for self-driving and self-healing workloads. This is possible because of an innovative decentralization technique. Each user or organization (e.g. company or department of the company) gets a digital avatar which we call a 3Bot. Example: each user in the 5G network will have his or her own 3Bot in complete safety and data privacy. The 3Bots are all registered on a modern type of phone book implemented using blockchain technology. 
 
 This phone book allows all 3Bots to talk to each other (find each other) while securing communication (verify incoming traffic on authenticity and correctness). 
 

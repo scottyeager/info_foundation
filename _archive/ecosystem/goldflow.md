@@ -17,7 +17,7 @@ Summary:
 - TF Community will be able to instantly store their value in gold with the click of a button
 
 Status:
-- Agreement with TF Tech to develop
+- Agreement with TFTech to develop
 - Execution team already starting the development.
 - Legal, KYC and AML are already in place, but if possible modify to be able to run through smart phone if possible legally and within regulations.
 - Secure vaulting already in place.

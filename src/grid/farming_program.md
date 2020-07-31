@@ -8,8 +8,8 @@ ThreeFold created a simple Farmer Program for farmers to choose their type from.
 |Farmer Type| Certified|Do It Yourself|
 |-----------|----------|--------------|
 |Server Hardware|Certified|any INTEL or AMD server | 
-|SLA Contract with TF Tech|Yes|No|
-TF Tech Support|Yes|No|
+|SLA Contract with TFTech|Yes|No|
+TFTech Support|Yes|No|
 |Capacity Pricing|set by Farmer|set by Foundation (fixed)|
 |Fee to TFT Tech|yes|no|
 
@@ -29,7 +29,7 @@ More details on how the the Certification for farming is implemented in the simu
 > Note: May 2020: all existing capacity on the grid is DIY (Do It Yourself) farming, farmers have till end of summer 2020 (or later if communicated) to become certified if that would be their wish. Farming happens using TFTv1.
 
 
-> Note: Farmers who are interested to become certified need to sign a contract with TF Tech in which the certification criteria are set. Once the contract is signed the farm will be measured against the certification criteria which shows exactly if the certification is deserved.
+> Note: Farmers who are interested to become certified need to sign a contract with TFTech in which the certification criteria are set. Once the contract is signed the farm will be measured against the certification criteria which shows exactly if the certification is deserved.
 
 ## more info: farming certification
 

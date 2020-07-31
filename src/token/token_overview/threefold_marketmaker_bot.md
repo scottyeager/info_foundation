@@ -12,7 +12,7 @@ The purpose is to allow the ThreeFold community to easily sell TFTv1 onto 3 publ
 > The code of the Sales Bot is opensource and used as is by ThreeFold FZC <BR>
 > By using this service you have read and accepted our terms & conditions [on this link](disclaimer.md).
 
-In line with majority approval of the TFTv1 token holders, a price protection has been established till end 2020 to protect the interest of the ThreeFold community. If at any point in time majority of TF Community would want to remove this price protection then this code change will be suggested to the code developers and TF Technology council will approve the upgrade.
+In line with majority approval of the TFTv1 token holders, a price protection has been established till end 2020 to protect the interest of the ThreeFold community. If at any point in time majority of TF Community would want to remove this price protection then this code change will be suggested to the code developers and TFTechnology council will approve the upgrade.
 
 - Until the end of 2020 TFTv1 (TFTA) can only be sold on Liquid & BTCAlpha if the sell price is higher than the Min TFT price.
 - Min TFT price is USD0 .15 starting April 29, going up 2% per month compared to the USD.

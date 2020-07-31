@@ -4,7 +4,7 @@
 
 # Introduction
 
-TF Tech is a software company who has developed technology capable to build a 100% decentralized internet. This document describes how the TF-Tech 3bot technology can make this happen.
+TFTech is a software company who has developed technology capable to build a 100% decentralized internet. This document describes how the TF-Tech 3bot technology can make this happen.
 
  If you want to read more about why does the world need a decentralized internet, [read this document.](https://docs.google.com/document/d/1uZT03h4QLBh2RYEnUjZQvi2Xoy8fjbUn1eZN_PM8g6g/edit#heading=h.c63i1qgi1v9h)
 
@@ -286,7 +286,7 @@ The above-suggested architecture scales endless, millions of digital avatar can 
 ![alt_text](./img/20.png)
 
 
-# TF Tech Software Components
+# TFTech Software Components
 
 
 ![alt_text](./img/21.png)

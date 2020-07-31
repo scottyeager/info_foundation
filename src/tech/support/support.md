@@ -1,4 +1,4 @@
-# TF Tech Support
+# TFTech Support
 
 ![](https://images.unsplash.com/photo-1518135714426-c18f5ffb6f4d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1373&q=80)
 

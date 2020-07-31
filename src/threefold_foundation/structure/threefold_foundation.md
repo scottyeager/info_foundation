@@ -3,6 +3,7 @@
 # ThreeFold Foundation 
 
 We are a decentralized movement, ThreeFold Foundation is the not for profit structure which has as purpose to promote the ThreeFold grid and movement.
+Not for profit means that no shareholder has the intent to ever use any of the benefits (if any) as created in ThreeFold Foundation.
 
 ## history 
 

@@ -1,6 +1,6 @@
 ## Architecture Overview
 
-### What problem is TF TEch solving?
+### What problem is TFTech solving?
 
 ThreeFold tech has developed technology that aims to break through barriers.  Current barriers for prolifiration of technology throughout the world are financial and technology:
 - **Finanicial**. Not all global citizens have access to a bank account and complementary credit/debit cards.  Therefore the current digtial service providers are not accessible for all.  In order to break through this barrier a digital currency is needed.

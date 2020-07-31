@@ -17,7 +17,7 @@
 
 ## Trello Boards
 
-    - [TF Tech Stories](https://trello.com/b/gPzYrjTJ/tftechstories)
-    - [TF Tech Master Stories For Our Development Managers](https://trello.com/b/zwgGSC5F/tftechcoordinationengineering)
+    - [TFTech Stories](https://trello.com/b/gPzYrjTJ/tftechstories)
+    - [TFTech Master Stories For Our Development Managers](https://trello.com/b/zwgGSC5F/tftechcoordinationengineering)
     - [TF Token Stories](https://trello.com/b/IqHW5DeD/tftokenstories)
     

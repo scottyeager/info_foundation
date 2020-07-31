@@ -1,6 +1,6 @@
 ![](./img/flowgen.jpg)
 
-TF Tech and Flowgen are into this partnership to achieve the following:
+TFTech and Flowgen are into this partnership to achieve the following:
 
 ## Specific interests for Flowgen are:
 To prove the agreed joint use case for our technologies for the purpose of generating nett new sales opportunities with respect to:

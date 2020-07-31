@@ -13,7 +13,7 @@ The ThreeFold Grid is the largest decentralized network of capacity in the world
 
 You can learn more on how to deploy applications and other workloads on the ThreeFold Grid [here](https://cloud.threefold.io/).
 
-> DO NOT EXPECT IMMEDIATE LIQUIDITY. The TFT liquidity will grow as the TFGrid will grow and be used more. 
+> DO NOT EXPECT IMMEDIATE LIQUIDITY. The TFT liquidity will grow as the TFGrid will grow and be used more.
 
 ## We are a drop in the ocean today.
 
@@ -46,3 +46,8 @@ Some TFT holders (e.g. as result of farming) might not want to sell their tokens
 
 Expectations are proven when the price increases and the valuation can enter a hype cycle that feeds into itself, leading to an economic bubble. While this can lead to big speculative gains for some, these are always the losses of others. TF does not support speculative bubbles and the worsening in global inequalities that can occur as a consequence. Therefore we wont participate in marketing activites that artificially inflate the price of TFT. We believe in a fair evaluation of TFT from the economic demand for the capacity of the TF Grid instead.
 
+## History
+
+- see [whitepaper_original](whitepaper_original) for the documentation used to describe our project at the start and promises made.
+
+!!!include:tft_not_speculative_note

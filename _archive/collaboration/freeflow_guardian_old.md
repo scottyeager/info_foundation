@@ -24,9 +24,9 @@ Remarks
 
 - Governance Guardians do receive TF Tokens for their work.
 
-### TF Technical Guardian
+### TFTechnical Guardian
 
-There are only 30 TF Technical Guardians.
+There are only 30 TFTechnical Guardians.
 
 Requirements
 

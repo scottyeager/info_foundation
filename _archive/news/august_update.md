@@ -55,7 +55,7 @@ With the risk of being perceived defensive (which is not the case), I believe it
     *   A lot of information can be found on our Foundation wiki about how to work in a decentralized context.
     *   We don’t have a centralized entity today which is funded to do marketing.
     *   We have a # farming cooperatives which are taking an active role to promote our ideas and prepare for the IEO (Mazraa, BetterToken, …) Of course some of us are shareholders and investors in multiple of these entities, and also some of us have multiple roles to play.
-    *   We have TF Tech which is a software startup with no links to tokens which is of course helping a lot to make this project successful
+    *   We have TFTech which is a software startup with no links to tokens which is of course helping a lot to make this project successful
     *   Do not expect a centralized system to arrange it all.
     *   The TF Foundation eventually will have 60 guardians protecting our interest, not 1 single person will be able to do this. Today it's a group of only 5 people who do this.
 
@@ -890,7 +890,7 @@ If you feel this project is not for you and you would like to sell your TFTs ple
 ### There is a lot of information already available
 
 
-*   FreeFlow Nation (values and using the TF Tech to do good for the world)
+*   FreeFlow Nation (values and using the TFTech to do good for the world)
     *   Website: [https://www.freeflownation.org](https://www.freeflownation.org)
     *   Manifesto: [http://freeflowmanifesto.threefold.me](http://freeflowmanifesto.threefold.me)
 *   ThreeFold Grid

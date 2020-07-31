@@ -1,6 +1,6 @@
 # Introduction
 
-TF Tech is a software company that has developed technology capable to run any IT workload 100% autonomously. 
+TFTech is a software company that has developed technology capable to run any IT workload 100% autonomously. 
 
 For the last couple of years, blockchain was synonymous with decentralization. We believe this is not true – most blockchains are not decentralized at all. They are distributed systems, but not decentralized.
 
