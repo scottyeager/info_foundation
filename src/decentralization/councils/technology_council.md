@@ -9,7 +9,7 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 * Some examples of decisions which need to be taken
     * Approve code releases.
     * Sign the deployment of the code, so no code can be deployed for production purposes before majority signs.
-    * Change in operational changes in the way how the council works
+    * Change in operational changes in the way how this council works
     * Approve new development projects when funded by the ThreeFold foundation
     * Approve for standards/procedures/… as could be relevant for the TFGrid technology stack or operations
     * ...
@@ -18,7 +18,7 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 
 ## Relation with the grid council
 
-* This technology council is the technical brain for the grid council.
+* This technology council is the technical brain for the grid council, but each person is independent.
 
 ## Council
 
@@ -76,13 +76,11 @@ We evaluate based on
     * A public visible circle on circles.threefold.me
 * Expect this to be +- 4-8h of work per month and needs to be done outside your normal work responsibilities.
 
-## Voting
+## Voting (technical details can change)
 
 * Default voting rights: 66% majority required
-    * add/remove a guardian from the grid council
-    * approve minting operation
+    * approve code as used for e.g. minting operation or any other grid operation
     * approve software release (upgrade of grid software, check that the right auditors have been used to make sure the software is ok, check the testing cycles)
-    * approve monthly budgets for the foundation
 * Each guardian can initiate a voting round
 * Each guardian has a voting account on stellar.
 * A voting wallet is co-owned by each member of the grid council.

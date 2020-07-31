@@ -1,43 +1,25 @@
 # Threefold Grid Council
 
-Guardians are the members of the grid council, there are 9 of them.
+Grid Guardians are the members of the grid council, there are 9 of them.
 
-Together they take the required decisions for the ThreeFold Grid Related day2day activities.
+Together they take the required decisions for the ThreeFold Grid Related monthly activities.
 
 ## What is it
 
-* The grid council is the group of people doing the day2day management for the ThreeFold Grid Related decisions.
+* The grid council is the group of people doing the monthly management for the ThreeFold Grid Related decisions.
 * Some examples of decisions which need to be taken
-    * Approving the minting operation (signing)
+    * Approving the minting operation (approve in how it works, not the minting itself)
     * Approving day to day decisions e.g. remuneration for people who helped the ThreeFold (token salary) .
     * Approving new partners of the Alliance of Conscious Internet
     * Approving of the members of the [ThreeFold Technology Council](technology_council.md)
     * Approval of polls done with community
     * Approval of any fundamental change for any of the grid operational items
-* The grid council has been approved by the wisdom council.
-    * Each Guardian was interviewed by the council and approved to align with 
-"fit for duty requirements"
+* The grid council has been approved by the wisdom council in relation to "fit for duty requirements".
     * This approval cycle will happen in Summer 2020.
-
-## Relation with the wisdom council
-
-* Wisdom council is managing the Foundation, this only happens couple of times per year.
-    * Budgets.
-    * Approval of directors.
-    * The Foundation is a "VZW" in Belgium which is an official not for-profit structure.
-* Grid council is day to day operation
 
 ## Grid Council 
 
-* [Jan De Landtsheer](jan_de_landtsheer.md)
-* [Rob Van Mieghem](rob_van_mieghem.md)
-* [Andreas Hartl](andreas_hartl.md)
-* [Weynand Kuijpers](weynand.md)
-* [Owen Kemp](owen_kemp.md)
-* [Christophe De Carvalho](christophe_dcmp.md)
-* [Dave De Belder](dave_debelder.md)
-* [Kristof De Spiegleer](kristof.md)
-* [Adnan Fatayerji](adnan_fatayerji.md)
+tbd
 
 ## Fit for duty requirements
 
@@ -68,13 +50,9 @@ Together they take the required decisions for the ThreeFold Grid Related day2day
 * How do we work together
     * A public visible circle on circles.threefold.me
 
-## Voting
+## Voting (original ideas, might change in technology choice)
 
 * Default voting rights: 66% majority required
-    * add/remove a guardian from the grid council
-    * approve minting operation
-    * approve software release (upgrade of grid software, check that the right auditors have been used to make sure the software is ok, check the testing cycles)
-    * approve monthly budgets for the foundation
 * Each guardian can initiate a voting round
 * Each guardian has a voting account on stellar.
 * A voting wallet is co-owned by each member of the grid council.

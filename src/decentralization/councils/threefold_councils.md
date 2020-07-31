@@ -11,7 +11,7 @@ Following the true decentralized nature of ThreeFold we have instated 3 differen
 ## [Technology Council](technology_council.md)
 
 The ThreeFold Project is heavily depending of technology and thus there is a Technology Council.
-This council is involved in the day-to-day technology decisions that are to be made.
+This council is involved in the technology decisions that are to be made e.g. validation of software, upgrades.
 
 > [learn more](technology_council.md)
 
