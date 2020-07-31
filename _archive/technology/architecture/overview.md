@@ -1,10 +1,15 @@
 ## Architecture Overview
 
+>! this one is not well written, need to be reviewed #TODO: rewrite
+
 ### What problem is ThreeFold solving?
 
-ThreeFold tech has developed technology that aims to break through barriers.  Current barriers for prolifiration of technology throughout the world are financial and technology:
+We have developed technology that aims to break through barriers.  
+
+Current barriers for proliferation of technology throughout the world are financial and technology:
+
 - **Finanicial**. Not all global citizens have access to a bank account and complementary credit/debit cards.  Therefore the current digtial service providers are not accessible for all.  In order to break through this barrier a digital currency is needed.
-- **Operatinal**. The current internet and its digital services rely ion networks connecting central datacenters to decentralised users.   This works well for the people that live in close proximity of these datacenters but is increasingly comples (and more expensive) for people that live further away from these datacenters.  To create efficiencies the datacenter needs scale, the large facilties are the more efficient the datacenter model gets (number of devices managed per person increases).  The downside of larger scale is that these datacenter can only exists in locations where there is sufficient density of power (electricity), capcital, people and knowledge.  This makes datacenters only feaisble in the developped world and not very far outside of that.  In order to break out of this impasse, internet capacity and services have to be created by using less power, less capital, less people and lesss knowledge. 
+- **Operational**. The current internet and its digital services rely ion networks connecting central datacenters to decentralised users.   This works well for the people that live in close proximity of these datacenters but is increasingly comples (and more expensive) for people that live further away from these datacenters.  To create efficiencies the datacenter needs scale, the large facilties are the more efficient the datacenter model gets (number of devices managed per person increases).  The downside of larger scale is that these datacenter can only exists in locations where there is sufficient density of power (electricity), capital, people and knowledge.  This makes datacenters only feasible in the developped world and not very far outside of that.  In order to break out of this impasse, internet capacity and services have to be created by using less power, less capital, less people and lesss knowledge. 
 
 ![](images/datacenter_large.png)
 
