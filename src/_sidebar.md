@@ -28,9 +28,9 @@
   - [Token Distribution Event](tdeoverview.md)
 - [Technology](grid_tech_intro.md)
   - [ThreeFold Layers](threefold_layers)
-  - [Technology Overview](ThreeFold%20Architecture%20Overview.pdf)
+  <!-- - [Technology Overview](technology_overview) -->
   - [TFTech Solutions](hercules_components.md)
-  - [Capacity Layer](capacity_layer.md)
+  - [Capacity Layer](capacity_layer_.md)
   - [Smart Contract for IT](smart_contract_for_it.md)
   - [Open-Source Links](grid_tech_opensource.md)
   - [Less is More](grid_tech_zeropeople.md)  

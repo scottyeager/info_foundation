@@ -1,6 +1,8 @@
 ## De<span style="text-decoration:underline;"><span style="text-decoration:underline;">central</span>ized = Different centralized
 
-Decentralized has the word centralized inside, but in a different way. The idea is not to make an organization or group of people the owner of a centralized system but rather the other way around – you or any legal identity becomes the center of your own digital life.
+Decentralized has the word centralized inside, but in a different way. 
+
+The idea is not to make an organization or group of people the owner of a centralized system but rather the other way around – you or any legal identity becomes the center of your own digital life.
 
 
 
