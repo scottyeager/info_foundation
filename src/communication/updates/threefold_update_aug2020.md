@@ -1,5 +1,5 @@
 # ThreeFold’s August 2020 Community Updates
-
+  
 
 Dear ThreeFold Community,
 
@@ -54,7 +54,7 @@ We are also glad to announce that ThreeFold Foundation has on-boarded [BetterTok
 ## Community AMA: Thursday 13 Aug
 ThreeFold is organizing an AMA (Ask Me Anything), this will happen Thursday 13th Aug at 17h. Zoom will be used as a communication mechanism, being on video is highly appreciated. Please send us your questions in advance via email to info@threefold.io. This will allow us to organize the AMA better. During the call you can also use the chat function to ask questions.
 
-[__Code of conduct__](https://forum.threefold.io/t/collaboration-manifesto/48)
+[__Code of conduct__](https://forum.threefold.io/t/collaboration-manifesto/48)  
 
 Anyone is free to say/ask anything they want, as long as they do it out of their own name (not anonymous) and do it with the best interest of the community in mind.
 The moderators have the right to remove people who don’t live up to our code of conduct see https://forum.threefold.io/t/collaboration-manifesto/48.
@@ -63,8 +63,7 @@ The moderators have the right to remove people who don’t live up to our code o
 ## Community Updates
 And last but not least, we would like to thank you for your continuous support for the ThreeFold Movement by becoming a farmer, partner or supporter. ThreeFold has received a lot of positive feedback from the larger community over the last 2 months. We vow to be even more proactive with our communication updates through our [forum](https://forum.threefold.io/), [telegram channel](https://t.me/threefoldnews),  and social media platforms. Please also don’t forget to read our [July 2020 Updates](https://wiki.threefold.io/ThreeFold%20update%20doc%20July%202020.pdf).
 
-
-
+  
 
 Kind Regards,
 
@@ -75,7 +74,7 @@ __ThreeFold Foundation__
 ----------
 
 
-*DISCLAIMER
+*DISCLAIMER*  
 
-See our [Disclaimer](#disclaimer.md) section.*
+*See our [Disclaimer](#disclaimer.md) section.*
 *ThreeFold is a community driven, Peer2Peer movement, therefore, we cannot take any responsibility for anything happening with the ThreeFold Token or the ThreeFold Grid. TFTs are not an investment instrument, TFTs are used to buy and sell IT capacity.* 
