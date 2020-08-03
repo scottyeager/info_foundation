@@ -14,6 +14,7 @@ Last month, ThreeFold has been working on updating our web presence, which inclu
 
 The new updated [website (staging preview)](https://www2.threefold.io) is currently in the final stage of development and will be launched at the end of the first week of August 2020. We are also working on a new version of our wiki site (knowledgebase). If you want to collaborate and/or leave remarks, please use our open source community based code management system on our website's [Github repository](https://github.com/threefoldfoundation/www_tfgrid/issues)
 
+> please note, this is not the final version, updates ongoing.
 
 ### Introducing: ThreeFold Grid Marketplace (beta)
 
