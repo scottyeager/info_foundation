@@ -19,7 +19,7 @@ The new updated [website (staging preview)](www2.threefold.io) is currently in t
 
 ThreeFold Foundation is proud to announce that the [ThreeFold Grid Marketplace](https://marketplace.grid.tf/) is live in beta on 2.1 grid. The ThreeFold Grid Marketplace allows you to quickly deploy solutions on top of the ThreeFold Grid.
 
-We are in test phase, let us know if you can/want to help.
+This marketplace will get many more solutions over next months.
 
 ### Introducing: TFGrid 2.2 & grid hosted 3bot (alpha)
 
@@ -28,7 +28,9 @@ We are looking for testers. To play with it go to https://marketplace.grid.tf/ma
 
 ![](img/3bot_launch.png)
 
-This is a very cool new feature of our Threefold Grid which gives a lot of flexibility for technical users.
+This is a very cool new feature of our Threefold Grid which gives a lot of flexibility & power for technical users.
+
+> To become a tester and/or contributor for documentation on the 2.2 grid <br> join us [in this chat group](https://t.me/joinchat/BwOvOxxgK59GmRoZ2_sM0w)
 
 ## Introducing: end user apps
 
@@ -63,7 +65,7 @@ We are very happy that we have received 98% (weighted) community support for the
 
 Unfortunately there are some malicious attempts done by some former community members to discredit the motivations of the ThreeFold Foundation in relation to the organization of the TDE (Token Distribution Event) and the public exchange launch. We do not want to be in this position, as such we believe that it's better to allow anyone who wants to move from TFTv1 to TFTv2 to do so at any point in time. It will be up to the community to show their support for the project. While we still believe it's best to have a price protection system in place, we are unable to do it unless we have 100% support of the community.
 
-TFTv1 (TFTA) will remain and will become our voluntary staking pool. You can show your support for the ThreeFold Movement by keeping your TFTv1 (TFTA), and only when you feel the need to trade you can freely migrate your TFTv1 to TFTv2. This will show the community that you want to hold on to your TFT for the future and show your support for the movement that way.
+TFTv1 (TFTA) will remain and will become our voluntary staking pool. **You can show your support for the ThreeFold Movement by keeping your TFTv1 (TFTA)**, and only when you feel the need to trade you can freely migrate your TFTv1 to TFTv2. This will show the community that you want to hold on to your TFT for the future and show your support for the movement that way.
 
 Please keep in mind that the TFT represents IT capacity and is not meant to be used as a speculative digital currency. The TFT is the unit of value exchange on the TF Grid and can potentially grow in liquidity as the result of the expansion of the grid and the usage of the grid.
 
