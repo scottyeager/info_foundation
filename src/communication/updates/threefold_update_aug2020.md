@@ -9,15 +9,34 @@ We hope that all is well in your world since our last updates. A lot has happene
 
 
 ### ThreeFold Updated Website Launch
+
 Last month, ThreeFold has been working on updating our web presence, which includes an improvement in our messaging and navigation about our technologies and ecosystem; making the information more actionable and easier for the audience to understand.
 
 The new updated [website (staging preview)](www2.threefold.io) is currently in the final stage of development and will be launched at the end of the first week of August 2020. We are also working on a new version of our wiki site (knowledgebase). If you want to collaborate and/or leave remarks, please use our open source community based code management system on our website's [Github repository](https://github.com/threefoldfoundation/www_tfgrid/issues)
 
 
-### Introducing: ThreeFold Grid Marketplace (early beta)
+### Introducing: ThreeFold Grid Marketplace (beta)
 
-ThreeFold Foundation is proud to announce that the [ThreeFold Grid Marketplace](https://marketplace.grid.tf/) (alpha) is live. The ThreeFold Grid Marketplace is an inventory platform of open source solutions that are built on top of ThreeFold Grid, accessible by connecting your 3bot (virtual system administrator) to the platform. It is mandatory for users to read and agree on the Marketplace’s [terms of use](#terms_conditions.md) prior using the Marketplace. We are looking for early adopters to explore the solutions and the new admin panel. Please click [here](https://landing.mailerlite.com/webforms/landing/x0m2l7) to sign up as a tester. 
+ThreeFold Foundation is proud to announce that the [ThreeFold Grid Marketplace](https://marketplace.grid.tf/) is live in beta on 2.1 grid. The ThreeFold Grid Marketplace allows you to quickly deploy solutions on top of the ThreeFold Grid.
 
+We are in test phase, let us know if you can/want to help.
+
+### Introducing: TFGrid 2.2 & grid hosted 3bot (alpha)
+
+Start your 3bot (as virtual system administrator) on the ThreeFold grid. 
+We are looking for testers. To play with it go to https://marketplace.grid.tf/marketplace/#/threebot
+
+![](img/3bot_launch.png)
+
+This is a very cool new feature of our Threefold Grid which gives a lot of flexibility for technical users.
+
+## Introducing: end user apps
+
+We have been talking about this for a while, enduser apps on the grid.
+
+![](img/enderuserapps.png)
+
+By end Summer latest Sept a first version of this solution will be life on our grid with at least office, browser on the grid, and zoom alternative. This is an opensource solution as created by members of our community and will probably use as name https://digitalyou.online
 
 ### Stellar Blockchain and Wallet
 
