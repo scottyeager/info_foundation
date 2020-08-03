@@ -51,7 +51,7 @@ We have been talking about this for a while, enduser apps on the grid.
 
 By end Summer latest Sept a first version of this solution will be life on our grid with at least office, browser on the grid, and zoom alternative. This is an opensource solution as created by members of our community and will probably use as name https://digitalyou.online
 
-> Our approach to enduser apps is enabling lots of partners to onboard their apps (experiences) on top of our grid.
+> Our approach to enduser apps is enabling lots of partners to onboard their apps (experiences) on top of our grid. Our aim for 2021, +1 millions endusers on the grid, very ambitious but possible if we work with the right partners.
 
 ### Stellar Blockchain and Wallet
 
