@@ -55,6 +55,7 @@ We are also glad to announce that ThreeFold Foundation has on-boarded [BetterTok
 ThreeFold is organizing an AMA (Ask Me Anything), this will happen Thursday 13th Aug at 17h. Zoom will be used as a communication mechanism, being on video is highly appreciated. Please send us your questions in advance via email to info@threefold.io. This will allow us to organize the AMA better. During the call you can also use the chat function to ask questions.
 
 [__Code of conduct__](https://forum.threefold.io/t/collaboration-manifesto/48)
+
 Anyone is free to say/ask anything they want, as long as they do it out of their own name (not anonymous) and do it with the best interest of the community in mind.
 The moderators have the right to remove people who don’t live up to our code of conduct see https://forum.threefold.io/t/collaboration-manifesto/48.
 
