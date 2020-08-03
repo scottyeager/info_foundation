@@ -30,7 +30,7 @@
   - [ThreeFold Layers](threefold_layers)
   <!-- - [Technology Overview](technology_overview) -->
   - [TFTech Solutions](hercules_components.md)
-  - [Capacity Layer](capacity_layer_.md)
+  - [Capacity Layer](technology/capacity_layer_/capacity_layer_.md)
   - [Smart Contract for IT](smart_contract_for_it.md)
   - [Open-Source Links](grid_tech_opensource.md)
   - [Less is More](grid_tech_zeropeople.md)  

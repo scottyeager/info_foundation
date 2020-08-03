@@ -1,4 +1,4 @@
-![](img/partners.png)
+![](./img/partners.png)
 
 ## ThreeFold’s August 2020 Community Updates
   
@@ -20,16 +20,26 @@ The new updated [website (staging preview)](https://www2.threefold.io) is curren
 
 ThreeFold Foundation is proud to announce that the [ThreeFold Grid Marketplace](https://marketplace.grid.tf/) is live in beta on 2.1 grid. The ThreeFold Grid Marketplace allows you to quickly deploy solutions on top of the ThreeFold Grid.
 
+![](./img/3bot_launch.png)
+
 This marketplace will get many more solutions over next months.
+
+To play with it go to https://marketplace.grid.tf/marketplace/#/threebot
 
 ### Introducing: TFGrid 2.2 & grid hosted 3bot (alpha)
 
 Start your 3bot (as virtual system administrator) on the ThreeFold grid. 
-We are looking for testers. To play with it go to https://marketplace.grid.tf/marketplace/#/threebot
 
-![](img/3bot_launch.png)
+![](img/3bot_22_1.png)
 
-This is a very cool new feature of our Threefold Grid which gives a lot of flexibility & power for technical users.
+Integrated full blow admin panel, private & fully decentralized per user.
+Easy to use
+
+![](img/3bot_22_2.png)
+
+integrated dashboard
+
+The new 3bot is a very cool new feature of our Threefold Grid which gives a lot of flexibility & power for technical users. The possibilities are endless.
 
 > To become a tester and/or contributor for documentation on the 2.2 grid <br> join us [in this chat group](https://t.me/joinchat/BwOvOxxgK59GmRoZ2_sM0w)
 
@@ -37,9 +47,11 @@ This is a very cool new feature of our Threefold Grid which gives a lot of flexi
 
 We have been talking about this for a while, enduser apps on the grid.
 
-![](img/enderuserapps.png)
+![](./img/enderuserapps.png)
 
 By end Summer latest Sept a first version of this solution will be life on our grid with at least office, browser on the grid, and zoom alternative. This is an opensource solution as created by members of our community and will probably use as name https://digitalyou.online
+
+> Our approach to enduser apps is enabling lots of partners to onboard their apps (experiences) on top of our grid.
 
 ### Stellar Blockchain and Wallet
 

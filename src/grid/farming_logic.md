@@ -5,9 +5,7 @@
     - all the proof of capacities are stored on a redundant storage system and hashed 
     - these hashes verify the authenticity of the report
 - 4 days later the TFT are being transferred to the farmer.
-    - the [grid_council](grid_council) needs to vote on the minting
-    - the code is automatically executed using our Farming Bots but needs verification from the council before execution can happen
-- the minting code will create & distribute the TFTv1 (till end 2020)
+    - minting consensus needs to be achieved before minting can happen
     - in transaction message the hash will be stored which is link to the proof of the capacity for each minting operation
 
 > DISCLAIMER: ThreeFold Foundation organizes this process. This process is the result of the execution of code written by opensource developers (zero-os and minting code) and a board of 9 people (grid_council) who check this process voluntarily. No claims can be made or damages asked for to any person or group related to ThreeFold Foundation like but not limited to the different councils.
