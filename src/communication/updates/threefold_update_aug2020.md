@@ -57,7 +57,7 @@ Earlier this month we distributed a poll regarding our recent updates. Here are 
 - 5.52% want TFTA to be available on supported exchanges as TFT, and agree with minimal price protection (0.15 USD, +2% increase per month starting with May 1), with sales happening through a sales-bot.
 - 0.5% want TFTA to be available on supported exchanges as TFT without price protection.
 
-### July Poll ThreeFold Results
+### TFTv1 (TFTA) to TFTv2 Conversion
 
 We are very happy that we have received 98% (weighted) community support for the migration to Stellar Blockchain and Liquid & BTC Alpha public exchange integration. There is a staggering 99.5% support for the price protection system as introduced by ThreeFold Foundation in relation to the public exchanges Liquid & BTC Alpha.
 
