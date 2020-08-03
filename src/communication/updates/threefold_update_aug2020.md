@@ -76,5 +76,6 @@ __ThreeFold Foundation__
 
 > DISCLAIMER <BR>
 >  <BR>
-> See our [Disclaimer](#disclaimer.md) section. <BR>
+> See our [Disclaimer](#disclaimer.md) document. <BR>
+>  <BR>
 > ThreeFold is a community driven, Peer2Peer movement, therefore, we cannot take any responsibility for anything happening with the ThreeFold Token or the ThreeFold Grid. TFTs are not an investment instrument, TFTs are used to buy and sell IT capacity.
