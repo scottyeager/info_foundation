@@ -12,7 +12,7 @@ We hope that all is well in your world since our last updates. A lot has happene
 
 Last month, ThreeFold has been working on updating our web presence, which includes an improvement in our messaging and navigation about our technologies and ecosystem; making the information more actionable and easier for the audience to understand.
 
-The new updated [website (staging preview)](www2.threefold.io) is currently in the final stage of development and will be launched at the end of the first week of August 2020. We are also working on a new version of our wiki site (knowledgebase). If you want to collaborate and/or leave remarks, please use our open source community based code management system on our website's [Github repository](https://github.com/threefoldfoundation/www_tfgrid/issues)
+The new updated [website (staging preview)](https://www2.threefold.io) is currently in the final stage of development and will be launched at the end of the first week of August 2020. We are also working on a new version of our wiki site (knowledgebase). If you want to collaborate and/or leave remarks, please use our open source community based code management system on our website's [Github repository](https://github.com/threefoldfoundation/www_tfgrid/issues)
 
 
 ### Introducing: ThreeFold Grid Marketplace (beta)
